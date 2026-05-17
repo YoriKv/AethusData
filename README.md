@@ -83,5 +83,4 @@ Columns: **item** · **sell** value · output **qty** · **cost / unit** ·
 ## Provenance
 
 All three JSON datasets are dumped live from a running game via in-process
-UE5 reflection — they reflect the current build snapshot, not the original
-asset files. Re-extract after a game update to refresh.
+UE5 reflection — they reflect the current build snapshot.
