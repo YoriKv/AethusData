@@ -3,7 +3,11 @@
 Static dumps of the game's `DT_*` DataTables in three forms, plus a browser
 viewer for crafting margins.
 
+Pricing Viewer:
 https://yorikv.github.io/AethusData/pricing.html
+
+Data Browser:
+https://yorikv.github.io/AethusData/decoded.html
 
 **Last updated:** May 16, 2026 · game version **1.029**
 
