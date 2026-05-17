@@ -1,0 +1,857 @@
+{
+  "rows": {
+    "DirtChunksToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 2,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593319,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a0caf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "e0caf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "4042cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158576,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "DirtToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 2,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593334,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "8027c4929c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "a027c4929c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "c042cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158528,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "GlassForging_1": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593507,
+        "number": 2
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c04dcca59c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "00dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "004ecca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820156992,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "HardstoneToMagmaSafeBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871819369952,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593514,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "004ccca59c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "a0e6b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "404ccca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871819370448,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "HardstoneToReinforcedBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157392,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593533,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "50a4c2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "c0e6b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "804ccca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157344,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "HardstoneToReinforcedBuildingMaterial_Basic": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593553,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "b0a4c2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "e0e6b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "c04ccca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157280,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore1ToOre1Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158864,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593587,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80c083369c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "00ccf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "8051cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158784,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore1ToReagent3": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820159024,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593595,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0cbf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "a0cbf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "4051cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158944,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore2ToOre1Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158048,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593603,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e0cbf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "509bc2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "0051cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158000,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore3ToOre3Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158400,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593611,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80e0b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "60e0b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "0050cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158320,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore3ToOre3BarWithOre2": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157472,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593619,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "f0a6c2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "40e0b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "c04fcca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158464,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore3ToOre3BarWithReagent": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157584,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593631,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "90a6c2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "20e0b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "404fcca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157536,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore4ToOre4Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158208,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 9,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593644,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "8050cca59c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "e0e0b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "c050cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158128,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore5ToOre5Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157712,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593652,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e0dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "c0dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "004fcca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157648,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore6ToOre6Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157856,
+        "max": 16,
+        "num": 2
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593660,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a0dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "80dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "c04ecca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157792,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore7ToOre7Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593668,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "60dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "40dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "804ecca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157920,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent5Crushing": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593717,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "20dfb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "d0a5c2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "404ecca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157984,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "RedGemToReagentRedGem": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593738,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0e0b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "a0e0b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "4050cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158272,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "ScrapToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 2,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593755,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "4027c4929c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "6027c4929c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "0043cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820159520,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "ScrapToBuildingMaterialMakeshift": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593768,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e09bc2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "a0ae501c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "4043cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820159296,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "StoneChunksToDirtChunks": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593809,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "60cbf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "c051cca59c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "0052cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158704,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "StoneToOre1": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": true,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158672,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593822,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "20cbf1a19c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "4052cca59c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "8052cca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820158608,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "SwampstoneToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157152,
+        "max": 16,
+        "num": 1
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593829,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40a5c2a59c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "e0deb6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "804dcca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157072,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "WormwoodToReinforcedBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": false,
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 2,
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": {
+        "_type": "FName",
+        "comp_idx": 1593849,
+        "number": 0
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "004dcca59c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": {
+        "_raw_hex": "00e7b6a59c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": {
+        "_raw_hex": "404dcca59c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820157216,
+        "max": 16,
+        "num": 1
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "ID_48_DD98783F4AF3288DE1DC90AC9167F372",
+      "off": 0,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "ReadableName_51_D39488FD455E856F6F662696A1EACF7C",
+      "off": 8,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4",
+      "off": 24,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "OutputResources_37_EF67283F49DF438890B762B10132016D",
+      "off": 104,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Duration_19_38986B654560205708B78F8FE0E67E07",
+      "off": 184,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7",
+      "off": 192,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312",
+      "off": 208,
+      "size": 1,
+      "type": "BoolProperty"
+    },
+    {
+      "dim": 1,
+      "name": "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00",
+      "off": 216,
+      "size": 16,
+      "type": "ArrayProperty"
+    }
+  ],
+  "size": 232,
+  "struct": "S_RefiningRecipes",
+  "table": "DT_RefiningRecipes"
+}

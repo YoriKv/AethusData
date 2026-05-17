@@ -1,0 +1,1195 @@
+{
+  "rows": {
+    "AirSupply_Capacity_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871321486976
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 1500,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "205df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 8,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "405df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Capacity_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067628032
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024624,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 10000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e05cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 9,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "005df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Capacity_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871268536192
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024608,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 50000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a05cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 10,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c05cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Consumption_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869840564992
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 2500,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "605cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 11,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "805cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Consumption_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869840564992
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 2500,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "205cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 10,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "405cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Filters_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864361472
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 3000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "205ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 38,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "405ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Filters_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864357248
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024368,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 12500,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2067f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 39,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "005ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Filters_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871769163392
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024352,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 50000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 40,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0067f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "AirSupply_Filters_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870623989248
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 200,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 53,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "BM_Roland": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013816832
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 100,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 47,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "BM_TetherHover_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747099136
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024240,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 150,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 49,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "4064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "BM_TetherHover_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013844864
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024224,
+        "max": 16,
+        "num": 3
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 125,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e063f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 51,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "BM_TetherJump_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871670057216
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 200,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 48,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "BM_TetherJump_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631045632
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024256,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 125,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "6064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 50,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "8064f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "DirtRepeller": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655463424
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 2000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a05df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 52,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c05df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "DroneBuildCamera": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396948352
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 3000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "205ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 25,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "405ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "DroneLight": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067608064
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 5000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e05df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 26,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "005ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "FallDamage_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067616896
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 5000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a063f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 54,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c063f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "GemFinder": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871268516608
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 10000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "605df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 27,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "805df1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "GravityGrab_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747064960
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 3000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "605ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 7,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "805ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "GravityTethers_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865351680
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 2000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 34,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "4060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "GravityTethers_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747099136
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024416,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 5000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e05ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 36,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "GravityTethers_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747064960
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024400,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 10000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a05ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 35,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c05ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "GravityTethers_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013844864
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024384,
+        "max": 16,
+        "num": 3
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 20000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "605ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 37,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "805ff1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Heat_Cooling_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871670056832
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 200,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "6066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 41,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "8066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Heat_Cooling_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396933376
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024336,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 50000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 42,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "4066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Heat_Cooling_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013851776
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024320,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 75000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 43,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0066f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Inventory_Weight_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320275072
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 2000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 21,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Inventory_Weight_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030692992
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024528,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 10000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "6062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 22,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "8062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Inventory_Weight_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934922624
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024512,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 25000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 23,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "4062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Inventory_Weight_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022759296
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024496,
+        "max": 16,
+        "num": 3
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 50000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 24,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningEnergy_Capacity_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871514912768
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 1000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e05bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 15,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "005cf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningEnergy_Capacity_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483148928
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024592,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 15000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a05bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 16,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c05bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningEnergy_Capacity_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865350144
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024576,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 40000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "605bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 17,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "805bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningEnergy_Recharge_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943974272
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 3000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "205bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 18,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "405bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningEnergy_Recharge_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067648000
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024560,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 10000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e05af1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 19,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "005bf1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningEnergy_Recharge_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870623937408
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024544,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 30000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e062f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 20,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0063f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningPower_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067648384
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 500,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a0d37f6b9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 1,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "00d37f6b9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningPower_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865356672
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024672,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 7500,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "6057f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 2,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "8057f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningPower_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067654144
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024656,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 15000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2057f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 3,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "4057f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningPower_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013832576
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024640,
+        "max": 16,
+        "num": 3
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 35000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e056f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 4,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0057f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningPower_5": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030697600
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 200,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e05ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 5,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c056f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MiningPower_6": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067648768
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 300,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a05ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 6,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c05ef1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Prospecting_Optimization_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865392768
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 10000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 28,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Prospecting_Optimization_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943956224
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024480,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 20000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "6061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 29,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "8061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Radiation_Resistance_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016043520
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024304,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 100,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 44,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Radiation_Resistance_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655453824
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024288,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 50000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "6065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 43,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "8065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Radiation_Resistance_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016043520
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024272,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 75000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 44,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "4065f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Speed_Increase_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865358592
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 4000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "2061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 30,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "4061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Speed_Increase_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067652608
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024464,
+        "max": 16,
+        "num": 2
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 35000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "e060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 31,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "0061f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Speed_Increase_Sprint_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631033344
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024448,
+        "max": 16,
+        "num": 1
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 15000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "a060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 32,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "c060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Speed_Increase_Sprint_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013843328
+      },
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754024432,
+        "max": 16,
+        "num": 3
+      },
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": 75000,
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": {
+        "_raw_hex": "6060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": 33,
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": {
+        "_raw_hex": "8060f1a19c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43",
+      "off": 0,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861",
+      "off": 16,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B",
+      "off": 32,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1",
+      "off": 40,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD",
+      "off": 56,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D",
+      "off": 60,
+      "size": 1,
+      "type": "ByteProperty"
+    }
+  ],
+  "size": 61,
+  "struct": "S_Upgrades",
+  "table": "DT_Upgrades"
+}

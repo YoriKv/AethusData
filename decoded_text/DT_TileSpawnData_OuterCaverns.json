@@ -1,0 +1,121 @@
+{
+  "rows": {
+    "OC_Dirt_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.600000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_M_1.BP_Tile_Chaos_Dirt_OC_M_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_Dirt_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.600000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_S_1.BP_Tile_Chaos_Dirt_OC_S_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_Dirt_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.600000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_XS.BP_Tile_Chaos_Dirt_OC_XS_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_HighTier_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_M_1_Sand.BP_Tile_Chaos_Dirt_OC_M_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.300000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_M_1_Sand.BP_Tile_Chaos_Ore_1_OC_M_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_M.BP_Tile_Chaos_GemCluster_Red_M_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_5_OC_M.BP_Tile_Chaos_Ore_5_OC_M_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.150000))"
+    },
+    "OC_HighTier_M_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_M_1_Rock.BP_Tile_Chaos_Dirt_OC_M_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.300000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_M_1_Rock.BP_Tile_Chaos_Ore_1_OC_M_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_M_Rock.BP_Tile_Chaos_GemCluster_Red_M_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_5_OC_M_Rock.BP_Tile_Chaos_Ore_5_OC_M_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.150000))"
+    },
+    "OC_HighTier_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_S_1_Sand.BP_Tile_Chaos_Dirt_OC_S_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.300000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_S_1_Sand.BP_Tile_Chaos_Ore_1_OC_S_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_S.BP_Tile_Chaos_GemCluster_Red_S_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_5_OC_S.BP_Tile_Chaos_Ore_5_OC_S_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.150000))"
+    },
+    "OC_HighTier_S_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_S_1_Rock.BP_Tile_Chaos_Dirt_OC_S_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.300000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_S_1_Rock.BP_Tile_Chaos_Ore_1_OC_S_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_S_Rock.BP_Tile_Chaos_GemCluster_Red_S_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_5_OC_S_Rock.BP_Tile_Chaos_Ore_5_OC_S_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.150000))"
+    },
+    "OC_HighTier_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_XS_Sand.BP_Tile_Chaos_Dirt_OC_XS_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.300000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_XS_1_Sand.BP_Tile_Chaos_Ore_1_OC_XS_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_XS.BP_Tile_Chaos_GemCluster_Red_XS_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_5_OC_XS.BP_Tile_Chaos_Ore_5_OC_XS_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.150000))"
+    },
+    "OC_HighTier_XS_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_XS_Rock.BP_Tile_Chaos_Dirt_OC_XS_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.300000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_XS_1_Rock.BP_Tile_Chaos_Ore_1_OC_XS_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_XS_Rock.BP_Tile_Chaos_GemCluster_Red_XS_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_5_OC_XS_Rock.BP_Tile_Chaos_Ore_5_OC_XS_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.150000))"
+    },
+    "OC_Kaloxite_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.450000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_2_OC_M.BP_Tile_Chaos_Ore_2_OC_M_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_Kaloxite_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.550000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_2_OC_S.BP_Tile_Chaos_Ore_2_OC_S_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_LowTier_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.400000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_M_1.BP_Tile_Chaos_Dirt_OC_M_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.600000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_M_1.BP_Tile_Chaos_Ore_1_OC_M_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000))"
+    },
+    "OC_LowTier_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.500000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_S_1.BP_Tile_Chaos_Dirt_OC_S_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.600000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_S_1.BP_Tile_Chaos_Ore_1_OC_S_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000))"
+    },
+    "OC_LowTier_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.500000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_XS.BP_Tile_Chaos_Dirt_OC_XS_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.600000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_S_1.BP_Tile_Chaos_Ore_1_OC_S_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000))"
+    },
+    "OC_Meteor_L": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_4_OC_L.BP_Tile_Chaos_Ore_4_OC_L_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_Meteor_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.350000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_4_OC_M.BP_Tile_Chaos_Ore_4_OC_M_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_Meteor_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.400000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_4_OC_S.BP_Tile_Chaos_Ore_4_OC_S_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_Meteor_XL": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.150000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_4_OC_XL.BP_Tile_Chaos_Ore_4_OC_XL_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "OC_MidTier_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_M_1_Sand.BP_Tile_Chaos_Dirt_OC_M_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_M_1_Sand.BP_Tile_Chaos_Ore_1_OC_M_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.500000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_M.BP_Tile_Chaos_GemCluster_Red_M_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000))"
+    },
+    "OC_MidTier_M_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_M_1_Rock.BP_Tile_Chaos_Dirt_OC_M_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_M_1_Rock.BP_Tile_Chaos_Ore_1_OC_M_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.500000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_M_Rock.BP_Tile_Chaos_GemCluster_Red_M_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000))"
+    },
+    "OC_MidTier_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_S_1_Sand.BP_Tile_Chaos_Dirt_OC_S_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_S_1_Sand.BP_Tile_Chaos_Ore_1_OC_S_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.500000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_S.BP_Tile_Chaos_GemCluster_Red_S_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000))"
+    },
+    "OC_MidTier_S_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_S_1_Rock.BP_Tile_Chaos_Dirt_OC_S_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_S_1_Rock.BP_Tile_Chaos_Ore_1_OC_S_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.500000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_S_Rock.BP_Tile_Chaos_GemCluster_Red_S_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000))"
+    },
+    "OC_MidTier_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_XS_Sand.BP_Tile_Chaos_Dirt_OC_XS_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_XS_1_Sand.BP_Tile_Chaos_Ore_1_OC_XS_1_Sand_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.500000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_XS.BP_Tile_Chaos_GemCluster_Red_XS_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000))"
+    },
+    "OC_MidTier_XS_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.250000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Dirt_OC_XS_Rock.BP_Tile_Chaos_Dirt_OC_XS_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.400000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Ore_1_OC_XS_1_Rock.BP_Tile_Chaos_Ore_1_OC_XS_1_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.500000),(Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_GemCluster_Red_XS_Rock.BP_Tile_Chaos_GemCluster_Red_XS_Rock_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=0.060000))"
+    },
+    "Stone_Spike_OC_1": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.800000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Stone_Spike_OC_1.BP_Tile_Chaos_Stone_Spike_OC_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "Stone_Spike_OC_2": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.800000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/OuterCaverns/BP_Tile_Chaos_Stone_Spike_OC_2.BP_Tile_Chaos_Stone_Spike_OC_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "Tree_Overworld_1": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "1.000000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/Overworld/Trees/BP_Tile_Chaos_Tree_OM_1.BP_Tile_Chaos_Tree_OM_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "Tree_Overworld_2": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "1.000000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/Overworld/Trees/BP_Tile_Chaos_Tree_OM_2.BP_Tile_Chaos_Tree_OM_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    },
+    "Tree_Overworld_3": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "1.000000",
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Tiles/Overworld/Trees/BP_Tile_Chaos_Tree_OM_3.BP_Tile_Chaos_Tree_OM_3_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))"
+    }
+  },
+  "table": "DT_TileSpawnData_OuterCaverns"
+}

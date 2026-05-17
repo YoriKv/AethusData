@@ -1,0 +1,637 @@
+{
+  "rows": {
+    "#": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "#"
+    },
+    "A": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/A_Key_Light.A_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "A"
+    },
+    "A_AccentGrave": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "A_AccentGrave"
+    },
+    "Add": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Plus_Key_Light.Plus_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Add"
+    },
+    "Ampersand": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Ampersand"
+    },
+    "AnyKey": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Blanks/Blank_White_Normal.Blank_White_Normal'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "AnyKey"
+    },
+    "Apostrophe": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/keyboard_apostrophe.keyboard_apostrophe'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Apostrophe"
+    },
+    "Asterix": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Asterisk_Key_Light.Asterisk_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Asterix"
+    },
+    "B": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/B_Key_Light.B_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "B"
+    },
+    "BackSpace": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Backspace_Key_Light.Backspace_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "BackSpace"
+    },
+    "Backslash": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Slash_Key_Light.Slash_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Backslash"
+    },
+    "C": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/C_Key_Light.C_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "C"
+    },
+    "C_Cedille": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "C_Cedille"
+    },
+    "CapsLock": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Caps_Lock_Key_Light.Caps_Lock_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "CapsLock"
+    },
+    "Caret": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Caret"
+    },
+    "Colon": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/keyboard_colon.keyboard_colon'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Colon"
+    },
+    "Comma": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/keyboard_comma.keyboard_comma'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Comma"
+    },
+    "D": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/D_Key_Light.D_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "D"
+    },
+    "Decimal": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/keyboard_period.keyboard_period'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Decimal"
+    },
+    "Delete": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Del_Key_Light.Del_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Delete"
+    },
+    "Divide": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/ForwardSlash_Key_Light.ForwardSlash_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Divide"
+    },
+    "Dollar": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Dollar"
+    },
+    "Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Arrow_Down_Key_Light.Arrow_Down_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Down"
+    },
+    "E": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/E_Key_Light.E_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "E"
+    },
+    "E_AccentAigu": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "E_AccentAigu"
+    },
+    "E_AccentGrave": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "E_AccentGrave"
+    },
+    "Eight": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/8_Key_Light.8_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Eight"
+    },
+    "End": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/End_Key_Light.End_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "End"
+    },
+    "Enter": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Enter_Key_Light.Enter_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Enter"
+    },
+    "Equals": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/keyboard_equals.keyboard_equals'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Equals"
+    },
+    "Escape": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Esc_Key_Light.Esc_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Escape"
+    },
+    "Exclamation": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/keyboard_exclamation.keyboard_exclamation'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Exclamation"
+    },
+    "F": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F_Key_Light.F_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F"
+    },
+    "F1": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F1_Key_Light.F1_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F1"
+    },
+    "F10": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F10_Key_Light.F10_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F10"
+    },
+    "F11": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F11_Key_Light.F11_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F11"
+    },
+    "F12": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F12_Key_Light.F12_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F12"
+    },
+    "F2": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F2_Key_Light.F2_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F2"
+    },
+    "F3": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F3_Key_Light.F3_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F3"
+    },
+    "F4": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F4_Key_Light.F4_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F4"
+    },
+    "F5": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F5_Key_Light.F5_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F5"
+    },
+    "F6": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F6_Key_Light.F6_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F6"
+    },
+    "F7": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F7_Key_Light.F7_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F7"
+    },
+    "F8": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F8_Key_Light.F8_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F8"
+    },
+    "F9": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/F9_Key_Light.F9_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "F9"
+    },
+    "Five": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/5_Key_Light.5_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Five"
+    },
+    "Four": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/4_Key_Light.4_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Four"
+    },
+    "G": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/G_Key_Light.G_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "G"
+    },
+    "Gamepad_DPad_Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_DPad_Down"
+    },
+    "Gamepad_DPad_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_DPad_Left"
+    },
+    "Gamepad_DPad_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_DPad_Right"
+    },
+    "Gamepad_DPad_Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_DPad_Up"
+    },
+    "Gamepad_FaceButton_Bottom": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_FaceButton_Bottom"
+    },
+    "Gamepad_FaceButton_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_FaceButton_Left"
+    },
+    "Gamepad_FaceButton_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_FaceButton_Right"
+    },
+    "Gamepad_FaceButton_Top": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_FaceButton_Top"
+    },
+    "Gamepad_Left2D": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_Left2D"
+    },
+    "Gamepad_LeftShoulder": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftShoulder"
+    },
+    "Gamepad_LeftStick_Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftStick_Down"
+    },
+    "Gamepad_LeftStick_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftStick_Left"
+    },
+    "Gamepad_LeftStick_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftStick_Right"
+    },
+    "Gamepad_LeftStick_Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftStick_Up"
+    },
+    "Gamepad_LeftThumbstick": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftThumbstick"
+    },
+    "Gamepad_LeftTrigger": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftTrigger"
+    },
+    "Gamepad_LeftTriggerAxis": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftTriggerAxis"
+    },
+    "Gamepad_LeftX": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftX"
+    },
+    "Gamepad_LeftY": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_LeftY"
+    },
+    "Gamepad_Right2D": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_Right2D"
+    },
+    "Gamepad_RightShoulder": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightShoulder"
+    },
+    "Gamepad_RightStick_Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightStick_Down"
+    },
+    "Gamepad_RightStick_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightStick_Left"
+    },
+    "Gamepad_RightStick_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightStick_Right"
+    },
+    "Gamepad_RightStick_Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightStick_Up"
+    },
+    "Gamepad_RightThumbstick": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightThumbstick"
+    },
+    "Gamepad_RightTrigger": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightTrigger"
+    },
+    "Gamepad_RightTriggerAxis": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightTriggerAxis"
+    },
+    "Gamepad_RightX": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightX"
+    },
+    "Gamepad_RightY": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_RightY"
+    },
+    "Gamepad_Special_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_Special_Left"
+    },
+    "Gamepad_Special_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/4__Tutorial_+_Item_Highlights_+_Button_Prompts/Icon_-_Mouse_-_Middle_Click.Icon_-_Mouse_-_Middle_Click'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Gamepad_Special_Right"
+    },
+    "H": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/H_Key_Light.H_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "H"
+    },
+    "Home": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Home_Key_Light.Home_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Home"
+    },
+    "Hyphen": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Minus_Key_Light.Minus_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Hyphen"
+    },
+    "I": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/I_Key_Light.I_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "I"
+    },
+    "Insert": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Insert_Key_Light.Insert_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Insert"
+    },
+    "J": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/J_Key_Light.J_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "J"
+    },
+    "K": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/K_Key_Light.K_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "K"
+    },
+    "L": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/L_Key_Light.L_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "L"
+    },
+    "Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Arrow_Left_Key_Light.Arrow_Left_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Left"
+    },
+    "LeftAlt": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Alt_Key_Light.Alt_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "LeftAlt"
+    },
+    "LeftBracket": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Bracket_Left_Key_Light.Bracket_Left_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "LeftBracket"
+    },
+    "LeftCommand": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Command_Key_Light.Command_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "LeftCommand"
+    },
+    "LeftControl": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Ctrl_Key_Light.Ctrl_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "LeftControl"
+    },
+    "LeftMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Double/mouse_left_resized.mouse_left_resized'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "LeftMouseButton"
+    },
+    "LeftParantheses": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "LeftParantheses"
+    },
+    "LeftShift": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Shift_Key_Light.Shift_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "LeftShift"
+    },
+    "M": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/M_Key_Light.M_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "M"
+    },
+    "MiddleMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Double/mouse_scroll_resized.mouse_scroll_resized'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "MiddleMouseButton"
+    },
+    "MouseScrollDown": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/mouse_scroll_down.mouse_scroll_down'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "MouseScrollDown"
+    },
+    "MouseScrollUp": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/mouse_scroll_up.mouse_scroll_up'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "MouseScrollUp"
+    },
+    "MouseWheelAxis": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/mouse_scroll_vertical.mouse_scroll_vertical'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "MouseWheelAxis"
+    },
+    "Multiply": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Asterisk_Key_Light.Asterisk_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Multiply"
+    },
+    "N": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/N_Key_Light.N_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "N"
+    },
+    "Nine": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/9_Key_Light.9_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Nine"
+    },
+    "NumLock": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Num_Lock_Key_Light.Num_Lock_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumLock"
+    },
+    "NumPadEight": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/8_Key_Light.8_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadEight"
+    },
+    "NumPadFive": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/5_Key_Light.5_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadFive"
+    },
+    "NumPadFour": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/4_Key_Light.4_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadFour"
+    },
+    "NumPadNine": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/9_Key_Light.9_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadNine"
+    },
+    "NumPadOne": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/1_Key_Light.1_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadOne"
+    },
+    "NumPadSeven": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/7_Key_Light.7_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadSeven"
+    },
+    "NumPadSix": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/6_Key_Light.6_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadSix"
+    },
+    "NumPadThree": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/3_Key_Light.3_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadThree"
+    },
+    "NumPadTwo": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/2_Key_Light.2_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadTwo"
+    },
+    "NumPadZero": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/0_Key_Light.0_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "NumPadZero"
+    },
+    "O": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/O_Key_Light.O_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "O"
+    },
+    "One": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/1_Key_Light.1_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "One"
+    },
+    "P": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/P_Key_Light.P_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "P"
+    },
+    "PageDown": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Page_Down_Key_Light.Page_Down_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "PageDown"
+    },
+    "PageUp": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Page_Up_Key_Light.Page_Up_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "PageUp"
+    },
+    "Pause": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/P_Key_Light.P_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Pause"
+    },
+    "Period": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Default/keyboard_period.keyboard_period'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Period"
+    },
+    "Q": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Q_Key_Light.Q_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Q"
+    },
+    "Quote": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Quote_Key_Light.Quote_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Quote"
+    },
+    "R": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/R_Key_Light.R_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "R"
+    },
+    "Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Arrow_Right_Key_Light.Arrow_Right_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Right"
+    },
+    "RightAlt": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Alt_Key_Light.Alt_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "RightAlt"
+    },
+    "RightBracket": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Bracket_Right_Key_Light.Bracket_Right_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "RightBracket"
+    },
+    "RightCommand": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Command_Key_Light.Command_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "RightCommand"
+    },
+    "RightControl": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Ctrl_Key_Light.Ctrl_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "RightControl"
+    },
+    "RightMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/KBM/Double/mouse_right_resized.mouse_right_resized'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "RightMouseButton"
+    },
+    "RightParantheses": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "RightParantheses"
+    },
+    "RightShift": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Shift_Key_Light.Shift_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "RightShift"
+    },
+    "S": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/S_Key_Light.S_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "S"
+    },
+    "ScrollLock": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Alt_Key_Light.Alt_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "ScrollLock"
+    },
+    "Section": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Section"
+    },
+    "Semicolon": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Semicolon_Key_Light.Semicolon_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Semicolon"
+    },
+    "Seven": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/7_Key_Light.7_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Seven"
+    },
+    "Six": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/6_Key_Light.6_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Six"
+    },
+    "Slash": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/ForwardSlash_Key_Light.ForwardSlash_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Slash"
+    },
+    "SpaceBar": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Space_Key_Light.Space_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "SpaceBar"
+    },
+    "Subtract": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Minus_Key_Light.Minus_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Subtract"
+    },
+    "T": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/T_Key_Light.T_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "T"
+    },
+    "Tab": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Tab_Key_Light.Tab_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Tab"
+    },
+    "Three": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/3_Key_Light.3_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Three"
+    },
+    "ThumbMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "ThumbMouseButton"
+    },
+    "ThumbMouseButton2": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "ThumbMouseButton2"
+    },
+    "Tilde": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Tilda_Key_Light.Tilda_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Tilde"
+    },
+    "Two": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/2_Key_Light.2_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Two"
+    },
+    "U": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/U_Key_Light.U_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "U"
+    },
+    "Underscore": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "None",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Underscore"
+    },
+    "Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Arrow_Up_Key_Light.Arrow_Up_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Up"
+    },
+    "V": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/V_Key_Light.V_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "V"
+    },
+    "W": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/W_Key_Light.W_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "W"
+    },
+    "X": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/X_Key_Light.X_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "X"
+    },
+    "Y": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Y_Key_Light.Y_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Y"
+    },
+    "Z": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/Z_Key_Light.Z_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Z"
+    },
+    "Zero": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/InputPrompts/NewKBM/Light/0_Key_Light.0_Key_Light'",
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": "Zero"
+    }
+  },
+  "table": "DT_ControlIcons"
+}

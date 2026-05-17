@@ -1,0 +1,91 @@
+{
+  "rows": {
+    "PhysMat_Biomass": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": 0.0,
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": 0,
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": 0,
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "a01f7ca69c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "PhysMat_Dirt": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": 0.0,
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": 0,
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": 0,
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "20207ca69c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "PhysMat_Grass": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": 0.0,
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": 0,
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": 0,
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "c01f7ca69c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "PhysMat_Rock_OC": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": 0.0,
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": 0,
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": 0,
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "e01f7ca69c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "PhysMat_Rock_OW": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": 0.0,
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": 0,
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": 0,
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "00207ca69c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "PhysMat_Sand": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": 0.0,
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": 0,
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": 0,
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "a028232e9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "Pickables_8_A8B9441B47FF739A3B241F92EA333421",
+      "off": 0,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F",
+      "off": 80,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44",
+      "off": 84,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651",
+      "off": 88,
+      "size": 8,
+      "type": "DoubleProperty"
+    }
+  ],
+  "size": 96,
+  "struct": "S_TileMiningData",
+  "table": "DT_GroundMiningSpawns_OnHit"
+}

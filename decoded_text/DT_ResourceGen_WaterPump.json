@@ -1,0 +1,10 @@
+{
+  "rows": {
+    "Food_WaterBottle_2": {
+      "MaxQuantity_7_03EA2B63456BB6A0B594DE9283C40792": "1",
+      "Pickable_10_89ED8C364B5CFDDB155FCEB476386D1D": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_WaterBottle_2.BP_Pickable_Food_WaterBottle_2_C'",
+      "SpawnChancePerQuantity_8_84DB5FBD4E341B776541AA853014390C": "1.000000"
+    }
+  },
+  "table": "DT_ResourceGen_WaterPump"
+}

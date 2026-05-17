@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Habitats_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Habitats_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Habitats",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"4638AEF14387BD9E55B92B86D3AF4030\", \"Habitats\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"6CF8C37F49115A9E4B0E13B38927C36E\", \"<Important>Habitats</> are buildable structures which allow for the placement of <Important>Facilities</>, as well as furnishings and decorations, within them.\\r\\n\\r\\nThere are many shapes and sizes of <Important>Habitat</> which you\\'ll use to build up your <Important>Outpost</>, but for now, you can only construct the humble <Facility>Makeshift Habitat</>.\\r\\n\\r\\nConstructing <Important>Habitats</>, just like <Important>Facilities</>, is done with <Important>Build Mode</> <Cyan>(B)</>.\\r\\n\\r\\nIn order to construct the <Facility>Makeshift Habitat</>, you will need to continue to scavenge <Item>Scrap</> and refine several <Item>Building Materials</>.\\r\\n\\r\\n\\r\\nClear away more <Item>Scrap</> to make space and for use in <Important>Refining</>, then construct the <Facility>Makeshift Habitat</> using <Important>Build Mode</> <Cyan>(B)</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Habitats"
+}

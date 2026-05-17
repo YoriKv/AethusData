@@ -1,0 +1,10 @@
+{
+  "rows": {
+    "Food_WaterBottle_1": {
+      "MaxQuantity_7_03EA2B63456BB6A0B594DE9283C40792": "2",
+      "Pickable_10_89ED8C364B5CFDDB155FCEB476386D1D": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'",
+      "SpawnChancePerQuantity_8_84DB5FBD4E341B776541AA853014390C": "0.750000"
+    }
+  },
+  "table": "DT_ResourceGen_BiomassPlanter_1"
+}

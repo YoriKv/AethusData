@@ -1,0 +1,396 @@
+{
+  "rows": {
+    "NewRow_0": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": {
+        "_type": "FString",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": 0,
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": {
+        "_type": "ObjectProperty",
+        "ptr": 2871366739168
+      },
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40ce61269c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": 0,
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": true,
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": true,
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": 0,
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": 0
+    },
+    "NewRow_1": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": {
+        "_type": "FString",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": 0,
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": {
+        "_type": "ObjectProperty",
+        "ptr": 2870947630608
+      },
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00ce61269c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": 0,
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": false,
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": true,
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": 1,
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": 0
+    },
+    "NewRow_2": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": {
+        "_type": "FString",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": 0,
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": {
+        "_type": "ObjectProperty",
+        "ptr": 2870942062384
+      },
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00be61269c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": {
+        "_type": "FName",
+        "comp_idx": 1615784,
+        "number": 0
+      },
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": 2,
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": false,
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": true,
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": 1,
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": 0
+    },
+    "NewRow_3": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": {
+        "_type": "FString",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": 0,
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": {
+        "_type": "ObjectProperty",
+        "ptr": 2869840449072
+      },
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0cd61269c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": 2,
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": true,
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": true,
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": 0,
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": 0
+    },
+    "NewRow_5": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": {
+        "_type": "FString",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": 0,
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": {
+        "_type": "ObjectProperty",
+        "ptr": 2870941893808
+      },
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80cd61269c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": {
+        "_raw_hex": "402e25189c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": 0,
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": false,
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": true,
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": 1,
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": 0
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67",
+      "off": 0,
+      "size": 1,
+      "type": "BoolProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Speaker_36_89ED888F4AEC9D75F85E1E916D783393",
+      "off": 1,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D",
+      "off": 8,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A",
+      "off": 16,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB",
+      "off": 32,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665",
+      "off": 36,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348",
+      "off": 48,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3",
+      "off": 128,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99",
+      "off": 208,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F",
+      "off": 224,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B",
+      "off": 232,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533",
+      "off": 236,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC",
+      "off": 244,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7",
+      "off": 248,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF",
+      "off": 328,
+      "size": 1,
+      "type": "BoolProperty"
+    },
+    {
+      "dim": 1,
+      "name": "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47",
+      "off": 336,
+      "size": 16,
+      "type": "StrProperty"
+    }
+  ],
+  "size": 352,
+  "struct": "S_DialogueAsset",
+  "table": "DT_DialogueSet_Intro_Suit"
+}

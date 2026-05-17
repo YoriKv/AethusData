@@ -1,0 +1,146 @@
+{
+  "rows": {
+    "PTK_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": {
+        "_type": "FName",
+        "comp_idx": 1635214,
+        "number": 2
+      },
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": 0,
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": {
+        "_raw_hex": "c0829a8f9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": {
+        "_raw_hex": "00839a8f9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "ID_7_36191F704728C859262071AAE60BE053",
+      "off": 0,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "NextID_4_398AFFF64389DFF30E0EA48E18EBA378",
+      "off": 8,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D",
+      "off": 16,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24",
+      "off": 24,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B",
+      "off": 40,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE",
+      "off": 56,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B",
+      "off": 72,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834",
+      "off": 152,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4",
+      "off": 232,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F",
+      "off": 312,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF",
+      "off": 320,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD",
+      "off": 328,
+      "size": 8,
+      "type": "ObjectProperty"
+    }
+  ],
+  "size": 336,
+  "struct": "S_Tutorials",
+  "table": "DT_Tutorials_PathToKalynite"
+}

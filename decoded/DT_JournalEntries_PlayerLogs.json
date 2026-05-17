@@ -1,0 +1,831 @@
+{
+  "rows": {
+    "LW_PlayerLog_AI_Containment_Constructed": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "4050bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864349184
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "0050bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c04fbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_AfterIota": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "404bbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320285056
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "004bbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c04abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_AfterKryptos": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c054bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747109504
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8054bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4054bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_AfterOmicron": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c058bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483147392
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8058bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4058bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_AfterSigma": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c055bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943978496
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8055bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4055bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_AfterTau": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "404cbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865390080
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "004cbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c04bbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_BeforeOmicron": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c059bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483093248
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8059bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4059bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_BeforeSigma": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c056bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8056bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4056bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_BeforeTau": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "404dbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016055424
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "004dbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c04cbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_BeforeX5": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c05abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934923392
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "805abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "405abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Crystal": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c057bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013846784
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8057bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4057bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Epsilon_FacilityExposition": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c048bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943953152
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8048bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4048bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Epsilon_Intro": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "004abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864308096
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8049bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4049bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_FinalStub": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c053bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8053bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4053bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Kappa_DamTime": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "4052bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067621888
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "0052bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c051bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Kappa_StanleyFound": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "4051bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022725120
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "0051bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c050bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Lambda_Discovered": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c047bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396927232
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8047bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4047bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Lambda_Fixed": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c046bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870623969280
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8046bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4046bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Mu_Discovered": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c045bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631007616
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8045bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4045bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Mu_Explored": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c044bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396930688
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8044bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4044bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Omega": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c052bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483094400
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "0063bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c062bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Resistance": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "404fbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483098624
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "004fbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c04ebba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Rho": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "404ebba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655459584
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "004ebba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "c04dbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Theta_Discovered": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c043bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631014912
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8043bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4043bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_PlayerLog_Theta_Explored": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c042bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067634944
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "8042bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "4042bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_CliffbaseHabitat_Discovered": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "8041bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865373184
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "4041bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "0041bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_ClifftopHabitat": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "0034bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240133760
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c033bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "8033bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_ClifftopHabitat_ElevatorDiscovered": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "0033bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870662735104
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c032bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "8032bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_CraterFacility_Bodies_Discovered": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "803fbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655463808
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "403fbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "003fbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_CraterFacility_Climber_Blocked": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "803ebba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483092864
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "403ebba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "003ebba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_CraterFacility_Discovered": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "8040bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483092480
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "4040bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "0040bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_CraterFacility_Solution_Found": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "803dbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "403dbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "003dbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_EMP_Crafted": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "803cbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "403cbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "003cbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_EMP_Detonated": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "803bbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871769136896
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "403bbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "003bbba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_Epsilon_PreIntro": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "803abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "403abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "003abba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_HeadUnderground": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "0036bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396949504
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c035bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "8035bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_IntroToColony": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "0037bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396929536
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c036bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "8036bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_OuterCavernsRockfall": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "0035bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240117248
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c034bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "8034bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_PlayerLog_OuterCavernsSetLoose": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 0,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "0032bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631015296
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c031bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "0042bba29c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2",
+      "off": 0,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A",
+      "off": 16,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410",
+      "off": 32,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3",
+      "off": 40,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D",
+      "off": 56,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD",
+      "off": 57,
+      "size": 1,
+      "type": "BoolProperty"
+    }
+  ],
+  "size": 58,
+  "struct": "S_JournalEntry",
+  "table": "DT_JournalEntries_PlayerLogs"
+}

@@ -1,0 +1,365 @@
+{
+  "rows": {
+    "SE_AirDecreasing": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_AirDecreasing_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_AirDecreasing",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/gas_mask.gas_mask'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_AirDecreasing_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_AirIncreasing": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_AirIncreasing_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_AirIncreasing",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/gas_mask.gas_mask'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_AirIncreasing_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_CoolantShield": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_CoolantShield_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_CoolantShield",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/extinguisher.extinguisher'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_CoolantShield_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_Dehydrated": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Dehydrated_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Dehydrated",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/plastic_bottle.plastic_bottle'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Dehydrated_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_Drunk": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Drunk_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Drunk",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/flask.flask'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "300.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Drunk_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator0"
+    },
+    "SE_EMField": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_EMField_Name\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_EMField",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/radio.radio'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_EMField_Description\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_Energised_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Energised_Description_L\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Energised_L",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/soda.soda'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Energised_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_Energised_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Energised_Description_M\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Energised_M",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/soda.soda'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Energised_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator3"
+    },
+    "SE_Energised_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Energised_Description_S\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Energised_S",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/soda.soda'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Energised_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_EnergyDrink": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_EnergyDrink_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_EnergyDrink",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/soda.soda'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "600.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_EnergyDrink_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_HeatDrink": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_HeatDrink_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_HeatDrink",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/soda.soda'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "300.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_HeatDrink_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_Hydrated_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Hydrated_Description_L\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Hydrated_L",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/plastic_bottle.plastic_bottle'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Hydrated_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_Hydrated_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Hydrated_Description_M\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Hydrated_M",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/plastic_bottle.plastic_bottle'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Hydrated_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator3"
+    },
+    "SE_Hydrated_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Hydrated_Description_S\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Hydrated_S",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/plastic_bottle.plastic_bottle'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Hydrated_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_InOutpost": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_InOutpost_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_InOutpost",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/roof.roof'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_InOutpost_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_Injector_Health": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Injector_Health_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Injector_Health",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/syringe1.syringe1'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "10.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Injector_Health_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_Injector_Speed": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Injector_Speed_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Injector_Speed",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/syringe1.syringe1'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "1200.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Injector_Speed_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_Injector_Strength": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Injector_Strength_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Injector_Strength",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/syringe1.syringe1'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "1200.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Injector_Strength_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_Malnourished": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"Vitality_Buff_Description_Nutrition_Neg\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Malnourished",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/stomach.stomach'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"Vitality_Buff_Name_Nutrition_Neg\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_Mesmerized": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Mesmerized_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Mesmerized",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/footprints.footprints'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Mesmerized_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_MycelialSpores": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_MycelialSpores_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_MycelialSpores",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/mushrooms.mushrooms'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_MycelialSpores_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_MycelialVaccine": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_MycelialVaccine_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_MycelialVaccine",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/mushrooms.mushrooms'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "900.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_MycelialVaccine_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_Overencumbered": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Overencumbered_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Overencumbered",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/anvil.anvil'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Overencumbered_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_OxygenPoisoning": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_OxygenPoisoning_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_OxygenPoisoning",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/3__Inventory_+_HUD/Icon_-_Oxygen.Icon_-_Oxygen'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_OxygenPoisoning_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_OxygenWithdrawal": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_OxygenWithdrawal_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_OxygenWithdrawal",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/UI/3__Inventory_+_HUD/Icon_-_Oxygen_-_Alert.Icon_-_Oxygen_-_Alert'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "300.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_OxygenWithdrawal_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_PassingOut": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_PassingOut_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_PassingOut",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/skull.skull'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "300.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_PassingOut_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_RadShield": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_RadShield_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_RadShield",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/pills.pills'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_RadShield_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_Sleepy": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Sleepy_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Sleepy",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/sleeping_bag.sleeping_bag'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Sleepy_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_Sleepy_Mild": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Sleepy_Mild_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Sleepy_Mild",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/sleeping_bag.sleeping_bag'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Sleepy_Mild_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator0"
+    },
+    "SE_SpeedTabs": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SpeedTabs_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_SpeedTabs",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/pill.pill'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "60.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SpeedTabs_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_Strengthened_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Strengthened_Description_L\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Strengthened_L",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/stomach.stomach'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Strengthened_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_Strengthened_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Strengthened_Description_M\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Strengthened_M",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/stomach.stomach'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Strengthened_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator3"
+    },
+    "SE_Strengthened_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Strengthened_Description_S\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Strengthened_S",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/stomach.stomach'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Strengthened_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_Suffocating": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Suffocating_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Suffocating",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/skull.skull'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_Suffocating_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_SuitOvercharge_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SuitOvercharge_L_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_SuitOvercharge_L",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/wrench.wrench'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "180.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SuitOvercharge_L_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    },
+    "SE_SuitOvercharge_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SuitOvercharge_M_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_SuitOvercharge_M",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/wrench.wrench'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "120.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SuitOvercharge_M_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator3"
+    },
+    "SE_SuitOvercharge_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SuitOvercharge_S_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_SuitOvercharge_S",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/wrench.wrench'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "60.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_SuitOvercharge_S_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_Tired": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"Vitality_Buff_Description_Energy_Neg\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_Tired",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/battery_empty.battery_empty'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "0.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"Vitality_Buff_Name_Energy_Neg\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator2"
+    },
+    "SE_WellRested": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_WellRested_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_WellRested",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/battery.battery'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "300.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_WellRested_Name\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator1"
+    },
+    "SE_WellRested_Bonus": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_WellRested_Bonus_Description\")",
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": "SE_WellRested_Bonus",
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": "/Script/Engine.Texture2D'/Game/over_250_survival_flat_icons/battery.battery'",
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": "600.000000",
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/StatusEffects/ST_StatusEffectsAndVitality.ST_StatusEffectsAndVitality\", \"SE_WellRested_Bonus_Title\")",
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": "0",
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": "NewEnumerator4"
+    }
+  },
+  "table": "DT_StatusEffects"
+}

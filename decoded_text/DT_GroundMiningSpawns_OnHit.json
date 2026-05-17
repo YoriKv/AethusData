@@ -1,0 +1,41 @@
+{
+  "rows": {
+    "PhysMat_Biomass": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "0",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 0.100000))"
+    },
+    "PhysMat_Dirt": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "0",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt_Chunk.BP_Pickable_Ore_Dirt_Chunk_C'\", 0.200000))"
+    },
+    "PhysMat_Grass": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "0",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.050000))"
+    },
+    "PhysMat_Rock_OC": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "0",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Chunk.BP_Pickable_Ore_Stone_Chunk_C'\", 0.200000))"
+    },
+    "PhysMat_Rock_OW": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "0",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Chunk.BP_Pickable_Ore_Stone_Chunk_C'\", 0.200000))"
+    },
+    "PhysMat_Sand": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "0",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt_Chunk.BP_Pickable_Ore_Dirt_Chunk_C'\", 0.200000))"
+    }
+  },
+  "table": "DT_GroundMiningSpawns_OnHit"
+}

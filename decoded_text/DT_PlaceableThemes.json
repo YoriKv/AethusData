@@ -1,0 +1,113 @@
+{
+  "rows": {
+    "ARC_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_1_png.SM_Prop_Container_02_1024x1024_1_png'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_1_png.SM_Prop_Container_02_1024x1024_1_png'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_1024x1024_6_png.SM_Prop_Carpet_Mat_01_1024x1024_6_png'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "()",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "()",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.Material'/Game/PolygonScifiWorlds/Materials/Alts/Mat_PolygonSciFiWorlds_01_C_Placeables.Mat_PolygonSciFiWorlds_01_C_Placeables'\"),(\"Space\", \"/Script/Engine.Material'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_B.MAT_PolygonSciFiSpace_01_B'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_Rough_ARC_1.Mat_PolygonScifi_01_Rough_ARC_1'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_ARC_1\")"
+    },
+    "ARC_Purchase_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_1_1024x1024.SM_Prop_Container_02_Theme_1_1024x1024'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_1_1024x1024.SM_Prop_Container_02_Theme_1_1024x1024'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_Theme_1_1024x1024.SM_Prop_Carpet_Mat_01_Theme_1_1024x1024'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "((\"IP_Dialogue_ARCLevel_Advanced_4_Complete\", True))",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Arc_Purchase_1\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "V",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "True",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifiWorlds/Materials/Alts/Skin_Alts/Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1a.Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1a'\"),(\"Space\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_1.MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_1'\"),(\"SciFi\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_1.Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_1'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_ARC_Purchase_1\")"
+    },
+    "ARC_Purchase_2": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_2_1024x1024.SM_Prop_Container_02_Theme_2_1024x1024'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_2_1024x1024.SM_Prop_Container_02_Theme_2_1024x1024'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_Theme_2_1024x1024.SM_Prop_Carpet_Mat_01_Theme_2_1024x1024'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "((\"IP_Dialogue_ARCLevel_Advanced_4_Complete\", True))",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Arc_Purchase_2\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "V",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "True",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifiWorlds/Materials/Alts/Skin_Alts/Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1b.Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1b'\"),(\"Space\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_2.MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_2'\"),(\"SciFi\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_2.Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_2'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_ARC_Purchase_2\")"
+    },
+    "ARC_Purchase_3": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_3_1024x1024.SM_Prop_Container_02_Theme_3_1024x1024'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_3_1024x1024.SM_Prop_Container_02_Theme_3_1024x1024'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_Theme_3_1024x1024.SM_Prop_Carpet_Mat_01_Theme_3_1024x1024'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "((\"IP_Dialogue_ARCLevel_Advanced_4_Complete\", True))",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Arc_Purchase_3\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "V",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "True",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifiWorlds/Materials/Alts/Skin_Alts/Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1c.Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1c'\"),(\"Space\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_3.MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_3'\"),(\"SciFi\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_3.Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_3'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_ARC_Purchase_3\")"
+    },
+    "ARC_Purchase_4": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_4_1024x1024.SM_Prop_Container_02_Theme_4_1024x1024'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_4_1024x1024.SM_Prop_Container_02_Theme_4_1024x1024'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_Theme_4_1024x1024.SM_Prop_Carpet_Mat_01_Theme_4_1024x1024'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "((\"IP_Dialogue_ARCLevel_Advanced_4_Complete\", True))",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Arc_Purchase_4\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "V",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "True",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifiWorlds/Materials/Alts/Skin_Alts/Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1d.Mat_PolygonSciFiWorlds_01_C_HueShift_Theme_1d'\"),(\"Space\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_4.MAT_PolygonSciFiSpace_01_B_HueShift_Theme_ARC_Purchase_4'\"),(\"SciFi\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_4.Mat_PolygonScifi_01_A_HueShift_Theme_Purchase_4'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_ARC_Purchase_4\")"
+    },
+    "Casma_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_3_png.SM_Prop_Container_02_1024x1024_3_png'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_3_png.SM_Prop_Container_02_1024x1024_3_png'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_1024x1024_4_png.SM_Prop_Carpet_Mat_01_1024x1024_4_png'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "()",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Casma_1\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.Material'/Game/PolygonScifiWorlds/Materials/Alts/Mat_PolygonSciFiWorlds_04_C.Mat_PolygonSciFiWorlds_04_C'\"),(\"Space\", \"/Script/Engine.Material'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_E.MAT_PolygonSciFiSpace_02_E'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_Rough_Kasma_1.Mat_PolygonScifi_01_Rough_Kasma_1'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_Kasma_1\")"
+    },
+    "Easter_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Habitat_Small_4_1024x1024_1_png.SM_Habitat_Small_4_1024x1024_1_png'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Habitat_Small_4_1024x1024_1_png.SM_Habitat_Small_4_1024x1024_1_png'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Habitat_Small_4_1024x1024_1_png.SM_Habitat_Small_4_1024x1024_1_png'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "((\"IP_Timing_Easter_1\", True))",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Easter_1\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifiWorlds/Materials/Alts/Mat_PolygonSciFiWorlds_01_C_Placeables_Inst.Mat_PolygonSciFiWorlds_01_C_Placeables_Inst'\"),(\"Space\", \"/Script/Engine.Material'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_B.MAT_PolygonSciFiSpace_01_B'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_Rough.Mat_PolygonScifi_01_Rough'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_Easter_1\")"
+    },
+    "Regis_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_4_png.SM_Prop_Container_02_1024x1024_4_png'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_4_png.SM_Prop_Container_02_1024x1024_4_png'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_1024x1024_3_png.SM_Prop_Carpet_Mat_01_1024x1024_3_png'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "()",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Regis_1\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.Material'/Game/PolygonScifiWorlds/Materials/Alts/Mat_PolygonSciFiWorlds_02_A.Mat_PolygonSciFiWorlds_02_A'\"),(\"Space\", \"/Script/Engine.Material'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_04_B.MAT_PolygonSciFiSpace_04_B'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_Rough_Regis_1.Mat_PolygonScifi_01_Rough_Regis_1'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_Regis_1\")"
+    },
+    "Supporters_Gold": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_Supporters_1024x1024.SM_Prop_Container_02_Theme_Supporters_1024x1024'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_Theme_Supporters_1024x1024.SM_Prop_Container_02_Theme_Supporters_1024x1024'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_Theme_Supporters_1024x1024.SM_Prop_Carpet_Mat_01_Theme_Supporters_1024x1024'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "((\"IP_Theme_Unlock_Supporters\", True))",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Supporters\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonScifiWorlds/Materials/Alts/Mat_PolygonScifiWorlds_01_Supporters_Inst.Mat_PolygonScifiWorlds_01_Supporters_Inst'\"),(\"Space\", \"/Script/Engine.Material'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_Supporters.MAT_PolygonSciFiSpace_01_Supporters'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_A_Supporters.Mat_PolygonScifi_01_A_Supporters'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_Supporters\")"
+    },
+    "Virtus_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_2_png.SM_Prop_Container_02_1024x1024_2_png'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_2_png.SM_Prop_Container_02_1024x1024_2_png'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_1024x1024_2_png.SM_Prop_Carpet_Mat_01_1024x1024_2_png'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "()",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Virtus_1\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.Material'/Game/PolygonScifiWorlds/Materials/Alts/Mat_PolygonScifiWorlds_01_A.Mat_PolygonSciFiWorlds_01_A'\"),(\"Space\", \"/Script/Engine.MaterialInstanceConstant'/Game/PolygonSciFiSpace/Materials/MAT_PolygonSciFiSpace_01_A_Inst.MAT_PolygonSciFiSpace_01_A_Inst'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_Rough_Virtus_1.Mat_PolygonScifi_01_Rough_Virtus_1'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_Virtus_1\")"
+    },
+    "Xmas_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_7_png.SM_Prop_Container_02_1024x1024_7_png'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_7_png.SM_Prop_Container_02_1024x1024_7_png'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/BP_Placeable_Decoration_Carpet_1_C_1024x1024_2_png.BP_Placeable_Decoration_Carpet_1_C_1024x1024_2_png'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "((\"IP_Timing_Xmas_1\", True))",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Xmas_1\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.Material'/Game/PolygonScifiWorlds/Materials/Alts/Skin_Alts/Mat_PolygonSciFiWorlds_Xmas.Mat_PolygonSciFiWorlds_Xmas'\"),(\"Space\", \"/Script/Engine.Material'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_01_Xmas.MAT_PolygonSciFiSpace_01_Xmas'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_Rough.Mat_PolygonScifi_01_Rough'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_Xmas_1\")"
+    },
+    "Yakatani_1": {
+      "Icons_27_70E19F5C4EBC73EBEDB611BC6522D3C8": "((\"Worlds\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_5_png.SM_Prop_Container_02_1024x1024_5_png'\"),(\"Space\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Container_02_1024x1024_5_png.SM_Prop_Container_02_1024x1024_5_png'\"),(\"SciFi\", \"/Script/Engine.Texture2D'/Game/StrikeTheEarth/Textures/Icons/SM_Prop_Carpet_Mat_01_1024x1024_5_png.SM_Prop_Carpet_Mat_01_1024x1024_5_png'\"))",
+      "InfoportionStateToDisplayTheme_18_5FE79E034EF357F3B6D5428A40037D4F": "()",
+      "InfoportionStateToUnlockTheme_19_067FD89F4F7E5AABA14D36AA3580CB1F": "((\"IP_Theme_Unlock_Yakatani_1\", True))",
+      "MarketLevel_33_237CFCB6408E7C8E572BC19F6916ADC4": "",
+      "MarketOnly_29_4AC9A8914AFD696A39090EA8CC6669ED": "False",
+      "MaterialMap_23_A3A8481B456CFEF263CA6E8DF9F5D024": "((\"Worlds\", \"/Script/Engine.Material'/Game/PolygonScifiWorlds/Materials/Alts/Mat_PolygonSciFiWorlds_02_C.Mat_PolygonSciFiWorlds_02_C'\"),(\"Space\", \"/Script/Engine.Material'/Game/PolygonSciFiSpace/Materials/Alternates/MAT_PolygonSciFiSpace_02_D.MAT_PolygonSciFiSpace_02_D'\"),(\"SciFi\", \"/Script/Engine.Material'/Game/PolygonScifi/Materials/Mat_PolygonScifi_01_Rough_Yakatani_1.Mat_PolygonScifi_01_Rough_Yakatani_1'\"))",
+      "ReadableName_2_47AFC2F042ADC7F452B4B9A9FAA08060": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/BuildMode/ST_BuildMode.ST_BuildMode\", \"BuildMode_Button_Theme_Yakatani_1\")"
+    }
+  },
+  "table": "DT_PlaceableThemes"
+}

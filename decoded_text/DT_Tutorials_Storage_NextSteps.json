@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "NextSteps_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "NextSteps_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "((\"IP_Tutorial_NextSteps_Complete\", True))",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Compass",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "((\"IP_Tutorial_NextSteps_Complete\", False))",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Primary_OW_Intro_BedBuild\", NewEnumerator2),(\"Task_Primary_OW_Intro_EnterCaves\", NewEnumerator1),(\"Task_Secondary_OM_VitalityTutorial_2\", NewEnumerator1),(\"Task_Secondary_OM_StorageTutorial\", NewEnumerator1))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"0DB9BC324E6AB3D534135E92BB8A8AFB\", \"Next Steps\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"525962734F65F3136149CC884D2E643A\", \"With your first <Facility>Bed</> built, you can use its <Important>Info Panel</> to <Important>Sleep</> until a chosen <Important>Time of Day</>.\\r\\n\\r\\n\\r\\nYou now have several <Important>Objectives</> to work on in any order you like, so that you can continue to build up your <Important>Outpost</>. Remember to refer back to previous <Important>Tutorials</> if you feel stuck.\\r\\n\\r\\n\\r\\nPaths between the <Important>Surface</> and the <Important>Underground</> are marked by a cave icon on the <Important>Compass</> at the bottom of the screen - as you rotate the camera, these icons will move to indicate where things are.\\r\\n\\r\\nYour constructed <Facility>Habitats</> are also marked by icons on the <Important>Compass</> so that you can always find your way back to the <Important>Outpost</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "/Script/MediaAssets.FileMediaSource'/Game/Movies/splashvideo.splashvideo'"
+    }
+  },
+  "table": "DT_Tutorials_Storage_NextSteps"
+}

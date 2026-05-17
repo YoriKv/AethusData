@@ -1,0 +1,59 @@
+{
+  "rows": {
+    "NewRow_13": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Roland/Spring26/DT_DialogueSet_Spring26_Intro_Line2-002.DT_DialogueSet_Spring26_Intro_Line2-002'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"180E49124466A7943C9531B7AAE54582\", \"If you can find the Easter Eggs I\\'ve hidden down in the caverns, I\\'ll whip you up some blueprints for new decorations!\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "()",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator1",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "()",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    },
+    "NewRow_14": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Roland/Spring26/DT_DialogueSet_Spring26_Intro_line3-001.DT_DialogueSet_Spring26_Intro_line3-001'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"EE09E70049151570C99240833FBA1834\", \"First one\\'s easy, here\\'s the clue... \\\"It\\'s so hot and steamy here, I hope I don\\'t fall in while I operate this heavy machinery!\\\" Go on, get searching!\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "((\"IP_Dialogue_Spring26_Intro_Complete\", True))",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator1",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "((\"Task_Secondary_Spring26_1\", NewEnumerator1))",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    },
+    "NewRow_6": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Roland/Spring26/DT_DialogueSet_Spring26_Intro_line1-001.DT_DialogueSet_Spring26_Intro_line1-001'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"5675680E48F0E131D32949B3002F2271\", \"Maeve, I\\'ve taken the liberty of putting together a wee scavenger hunt while you were asleep...\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "((\"IP_Dialogue_Spring26_Intro_Complete\", True))",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator1",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "((\"Task_Secondary_Spring26_1\", NewEnumerator1))",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    }
+  },
+  "table": "DT_DialogueSet_Spring26_Intro"
+}

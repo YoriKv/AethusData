@@ -1,0 +1,75 @@
+{
+  "rows": {
+    "Facilities_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Facilities_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "((\"IP_Tutorial_Facilities_Complete\", True))",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Facilities_2",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "((\"IP_Tutorial_Facilities_Complete\", False))",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Primary_OW_Intro_CoreHabBuild\", NewEnumerator2),(\"Task_Primary_OW_Intro_GetRegolith\", NewEnumerator1))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"86B88B024A0038043904CEA37CD2AB8C\", \"Power Slots\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"D6720C604C068E7C5F266596E8872C96\", \"Congratulations, your first Habitat is complete!\\r\\n\\r\\nInteracting with the Habitat when within range (LMB) will provide information about it, including how many Power Slots it contains. \\r\\n\\r\\nThis is also visible when a Habitat is selected in the Building Menu.\\r\\n\\r\\nThe amount of Power Slots in a Habitat determines how many Facilities it can support, but this will be explained in more detail later.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Facilities_2": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Facilities_2",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Facilities_3",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Facilities_1",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"17E6F1BC41F637221E72E193CD73340F\", \"Facilities\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"FF8A761941ADCC0EB999B1A2CE7EBCCE\", \"Now that you\\'ve constructed your first Habitat, we can work on building our first Facility.\\r\\n\\r\\nFacilities are buildable objects which can perform various tasks - allowing you to refine materials, craft or store items, purchase new building plans, and more.\\r\\n\\r\\nMost Facilities can only be built within Habitats, and take up a certain amount of Power Slots.\\r\\n\\r\\nEnter your new Habitat now via the ramp and let\\'s take a look around.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Facilities_3": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Facilities_3",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Facilities_4",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Facilities_2",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"17E6F1BC41F637221E72E193CD73340F\", \"Facilities\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"4C4E880341C8F6F0AA0B3FAD39EF57FB\", \"Let\\'s build a storage crate - you can only carry so much on your person at one time, so let\\'s build somewhere we can store the resources we\\'re going to mine!\\r\\n\\r\\nBasic storage crates and items like decorations don\\'t take up any Power Slots, so you can build as many as you can fit within your Habitats.\\r\\n\\r\\nConstructing a crate, like all Facilities, requires Building Materials. \\r\\nWe can create Building Materials using the Regolith Printer - a Facility which, handily, comes with the Core Habitat!\\r\\n\\r\\nIn the corner of the hab you\\'ll see the Regolith Printer - approach it and interact with (LMB) like you did the container outside, then proceed to the next page of the tutorial.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Facilities_4": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Facilities_4",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Facilities_5",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Facilities_3",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"AACDF5AD4E57D6B9AACEBE960EC7D2E9\", \"Info Panel\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"2B4F840C4327A9EB79471CBF2713AA77\", \"Once again you can see the Info Panel, but this Facility shows additional information:\\r\\n\\r\\n- Inventory contents, if any. \\r\\n- Possible Refining recipes.\\r\\n\\r\\nAs you can see, five Regolith will Refine into one Building Material in this Facility.\\r\\n\\r\\nTo obtain Regolith, and the other resources you\\'ll need to build up the colony, we must begin mining operations!\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Facilities_5": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Facilities_5",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Facilities_4",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"96F01AF7402304A4344576A6CFA5D2DD\", \"Compass\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"204A55CF4AB3254B4CB73B91024CB3B0\", \"To aid you in navigating the world, there is a Compass along the bottom of the screen.\\r\\n\\r\\nThe light-blue marker in the centre shows your current heading - the way the camera is currently facing.\\r\\n\\r\\nIcons will appear on the Compass in the direction of Points of Interest, and indicate their distance from you.\\r\\nFor example, there is an outcrop of Regolith nodes to the South-West, as shown by the Pickaxe marker.\\r\\n\\r\\nHead out of the Habitat and head towards this marker, until you find rocks emerging from the ground.\\r\\n\\r\\nYour Core Habitat is always marked on your Compass as a white flag, in case you ever struggle to find your way back.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Facilities"
+}

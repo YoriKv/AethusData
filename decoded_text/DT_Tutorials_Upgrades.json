@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Upgrades_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Upgrades_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Upgrades",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"AB96354049CCBD153351FBAFEC6B8B2B\", \"Upgrades\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"4281C5204D05EF82DF1EA59CA958B57F\", \"You\\'ve unlocked the ability to purchase <Important>Upgrades</>!\\r\\n\\r\\n<Important>Upgrades</> require <Credits>Credits</> <img id=\\\"Credits\\\"/> to purchase, but grant powerful bonuses to your <Important>Suit</> or Roland\\'s <Important>Laser</>, allowing you to delve further into the underground and mine new resources.\\r\\n\\r\\n<Important>Interact</> <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with the <Facility>Trade Node</> and select the <Important>\\'View Upgrades\\'</> button to open the <Important>Upgrade Panel</>.\\r\\n\\r\\nYou have enough <Credits>Credits</> <img id=\\\"Credits\\\"/> to purchase your first <Important>Upgrade</> - <Important>Mining Power I</>.\\r\\nThis will upgrade Roland\\'s <Important>Laser</> with more power, allowing you to mine <Important>Kalynite Ore Nodes</>.\\r\\n\\r\\nYou can purchase this <Important>Upgrade</> by simply <Important>clicking</> <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> on its icon in the <Important>Upgrade Panel</>.\\r\\n\\r\\n<Important>Upgrades</> may require other <Important>Upgrades</> to be owned before they can be purchased. These are shown as lines in the <Important>Upgrade Panel</>.\\r\\n\\r\\nPurchasing an <Important>Upgrade</> allows you to access the next in the \\'chain\\' - for example, you can now purchase <Important>Mining Power II</> when you have enough <Credits>Credits</> <img id=\\\"Credits\\\"/>!\\r\\n\\r\\nYou\\'ll want to continue purchasing <Important>Upgrades</> in order to keep progressing deeper into the world.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Upgrades"
+}

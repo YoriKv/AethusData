@@ -1,0 +1,97 @@
+{
+  "rows": {
+    "AetheriumChunk_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/MagmaRifts/BP_CR_AetheriumChunk_1.BP_CR_AetheriumChunk_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.100000"
+    },
+    "CavernMushroom_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_CaveMushroom_1.BP_CR_CaveMushroom_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000"
+    },
+    "CavernMushroom_OC_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_CaveMushroom_2.BP_CR_CaveMushroom_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000"
+    },
+    "CavernMushroom_OC_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_CaveMushroom_3.BP_CR_CaveMushroom_3_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000"
+    },
+    "Egg_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_Egg_1.BP_CR_Egg_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.400000"
+    },
+    "HotSprings_Plant_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_HotSprings_Plant_1.BP_CR_HotSprings_Plant_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.450000"
+    },
+    "HotSprings_Plant_OC_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_HotSprings_Plant_2.BP_CR_HotSprings_Plant_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.450000"
+    },
+    "Lifeshroom_LW_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_LifeShroom_1.BP_CR_LifeShroom_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Lifeshroom_LW_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_LifeShroom_2.BP_CR_LifeShroom_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Lifeshroom_LW_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_LifeShroom_3.BP_CR_LifeShroom_3_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Mouldshroom_LW_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Mouldshroom_1.BP_CR_Mouldshroom_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.150000"
+    },
+    "Mouldshroom_LW_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Mouldshroom_2.BP_CR_Mouldshroom_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.150000"
+    },
+    "Mouldshroom_LW_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Mouldshroom_3.BP_CR_Mouldshroom_3_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.150000"
+    },
+    "Mouldshroom_LW_4": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Mouldshroom_4.BP_CR_Mouldshroom_4_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.150000"
+    },
+    "Plant_AntiRad_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/MagmaRifts/BP_CR_Plant_AntiRad_1.BP_CR_Plant_AntiRad_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Plant_AntiRad_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/MagmaRifts/BP_CR_Plant_AntiRad_2.BP_CR_Plant_AntiRad_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Plant_AntiRad_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/MagmaRifts/BP_CR_Plant_AntiRad_3.BP_CR_Plant_AntiRad_3_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Plant_Herbicide_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Plant_Herbicide_1.BP_CR_Plant_Herbicide_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Plant_Herbicide_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Plant_Herbicide_2.BP_CR_Plant_Herbicide_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Plant_Herbicide_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Plant_Herbicide_3.BP_CR_Plant_Herbicide_3_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.200000"
+    },
+    "Plant_Wheat_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/LostWorld/BP_CR_Wheat_1.BP_CR_Wheat_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000"
+    },
+    "SugarPlant_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_SugarPlant_1.BP_CR_SugarPlant_1_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000"
+    },
+    "SugarPlant_OC_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": "((Tile_13_3D1C9D6B4B8E937F8DA44EAB3C94B47B=\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/ClickResources/OuterCaverns/BP_CR_SugarPlant_2.BP_CR_SugarPlant_2_C'\",SpawnChance_8_8A835ECE4A353ED00B08948C84F6E5B5=1.000000))",
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": "0.300000"
+    }
+  },
+  "table": "DT_ClickResource_SpawnData"
+}

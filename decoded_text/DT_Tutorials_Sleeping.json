@@ -1,0 +1,33 @@
+{
+  "rows": {
+    "Sleeping_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Sleeping_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Sleeping_2",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"40B5004947B71CE7E91CFFB30F3F0A9B\", \"Sleeping\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"2460095D449A5D27FC684EB16D12AFFB\", \"Using the options in the bed\\'s Info Panel, you can choose a time of day to sleep until in order to pass time.\\r\\n\\r\\nDoing this will allow you to decide when to explore the world.\\r\\n\\r\\nYou can sleep to pass time using any bed you build or find in the world.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Sleeping_2": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Sleeping_2",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Sleeping_1",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"332178CA4D7D950536679D85C5695C25\", \"The Depths\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"09B6273F4D388FEF79AEE295B28CB444\", \"Now that we have a safe initial Habitat set up, it\\'s time to head underground.\\r\\n\\r\\nThe depths of Meridian contain countless treasures, just waiting to be discovered! \\r\\n\\r\\nLet\\'s go find them - head northeast from the container and past some more Regolith nodes to find an entrance to the cave system.\\r\\n\\r\\nOnce you find it, head inside...\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Sleeping"
+}

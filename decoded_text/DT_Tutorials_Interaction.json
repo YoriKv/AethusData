@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Interaction_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"698BDA0D4C3B51CA1FE3F4BDDC9F9AB8\", \"Info Panel\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"89F5C4BD4E6E4E7B7E404B969BBDA478\", \"Interacting with some objects, like those you build, will open an Info Panel, in the bottom right of the screen.\\r\\n\\r\\n(RMB) closes the Info Panel (and most other types of UI).\\r\\n\\r\\nThis panel provides information about the object depending on its type.\\r\\n\\r\\nIn the case of this container, it has an Inventory which contains items that you can hover over to view.\\r\\nYou will come across other types of containers and crates like this while exploring the world.\\r\\n\\r\\nYou can transfer an item from the inventory of other objects or containers in the world, to your own, by left-clicking its icon in the Info Panel. Right-click will transfer a full stack of items.\\r\\n\\r\\nSometimes you will also find items loose in the world - you can pull them towards you when in range with (LMB).\\r\\n\\r\\nPick up the item in the container to continue the tutorial.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Interaction"
+}

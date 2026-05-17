@@ -1,0 +1,17 @@
+{
+  "rows": {
+    "Copper": {
+      "CrushAmountNeededToSpawn_21_5F739E2E4551ADFD4265698C1A4C369D": "5",
+      "PickablesToSpawn_20_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 2),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 2))"
+    },
+    "Dirt": {
+      "CrushAmountNeededToSpawn_21_5F739E2E4551ADFD4265698C1A4C369D": "5",
+      "PickablesToSpawn_20_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 2))"
+    },
+    "Stone": {
+      "CrushAmountNeededToSpawn_21_5F739E2E4551ADFD4265698C1A4C369D": "5",
+      "PickablesToSpawn_20_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 2))"
+    }
+  },
+  "table": "DT_CrusherValues"
+}

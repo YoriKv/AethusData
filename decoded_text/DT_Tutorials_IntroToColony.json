@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "IntroToColony_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "IntroToColony_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Objectives",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"15303F084CC1359B81CCA1896C2D6959\", \"Objectives\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"2A2AEED1467E92EEDA7F2E85E9990FE5\", \"Welcome to the site of your claim on <Important>Meridian</>!\\r\\n\\r\\nIt is here that you will construct your <Important>Outpost</>, supporting your mining operations below the surface.\\r\\n\\r\\n<Important>Objectives</> are shown in the top-left of the screen - you can hover over this panel to view them or scroll the list if needed.\\r\\n\\r\\n<Important>Maeve</> will automatically record events and discoveries in the <Important>Journal</> <Cyan>(J)</> as you play.\\r\\n\\r\\nRefer to your <Important>Objectives</> and <Important>Journal</> if you ever get stuck and aren\\'t sure how to proceed.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_IntroToColony"
+}

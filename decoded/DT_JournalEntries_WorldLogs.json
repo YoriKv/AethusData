@@ -1,0 +1,1931 @@
+{
+  "rows": {
+    "JournalPad_LW_Epsilon_BackEntrance_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00c8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0c7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Epsilon_EmptyRoom": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40e6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0e5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Epsilon_Exterior_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40bfa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0bea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Epsilon_Exterior_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00cea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0cda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Epsilon_Harlow_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40d1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00d1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Epsilon_Loadmaster_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00cba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0caa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Epsilon_Moonshiners": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80dea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40dea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_FishingHab_FishingChargePlans": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0cba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80cba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_FishingHab_Loadmaster": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80cca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40cca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Kappa_Engineering_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80d0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40d0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Kappa_Engineering_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0cfa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80cfa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Kappa_Exterior_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40cda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00cda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_LW_Lambda_Interior_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0dda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80dda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_MR_FishingHab_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80faa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40faa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_MR_Rho_Engineering_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40e5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0e4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_OC_CliffbaseHabitat_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0c4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80c4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_OC_CraterFacility": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0b7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80b7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_OC_CraterFacility_Corpses": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00b7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0b6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_OC_CraterFacility_Exterior": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0c1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80c1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "JournalPad_OC_Vihaan_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40bea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00bea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Kryptos_Atrium_Log": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0f9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80f9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Kryptos_MedicalChief_Terminal": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80f4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40f4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Kryptos_ScanningSuite_Log_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00f3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0f2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "Kryptos_SurgerySuite_Log_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0f3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80f3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_DeepstoneMine": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40d7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00d7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Epsilon_ClimberStatus": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40caa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00caa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Epsilon_Ncuti_Intro": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40d8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0d7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Epsilon_Ncuti_Room": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80f7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40f7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Epsilon_Parker_Quarters": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "4006ad959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c005ad959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Epsilon_Tear_Paper": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40d9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0d8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Lambda_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80c9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40c9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Lambda_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0c8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80c8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_MR_Rho_Exterior_PowerRelay": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40e4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00e4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Mu_AntigenDrone": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00dda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80dca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Mu_HerbicideLog": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00dca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0dba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Mu_MobileLab": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00e7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0e6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Mu_PowerStats": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00cfa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80cea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Mu_SolarPanels": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40dba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0daa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Mu_Tear_Paper": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40daa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0d9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Tau_Stuck": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80e3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40e3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80c6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40c6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40d6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00d6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_3": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80d5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40d5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_4": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0d4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40d4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_5": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0d3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40d3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_6": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0d2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80d2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_Corpse": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00d2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0d1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "LW_ExpeditionLog_Theta_MobileLab_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40c7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00c7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_AetheriumMine_Found_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00f6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0f5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_AetheriumMine_MedicalHab": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0f6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80f6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Iota_AcceleratorRoom_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80dfa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40dfa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Iota_ControlRoom_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40e0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00e0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Iota_PrepRoom": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00e1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0e0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_Accomodation_Vihaan": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80f0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40f0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_Atrium_Accommodation": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80f1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00f1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_Labs_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0efa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80efa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_Labs_1a": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80ffa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40ffa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_Labs_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0fea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80fea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_Labs_3": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00fea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80fda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_LiOffice_Regrets": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80fba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00fba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_LiOffice_Vihaan": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40fca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00fca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_TestChamber_ControlConsole": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00fda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0fca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omega_Tower": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40f2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00f2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_Airlock": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40efa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00efa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_Bunker": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40e9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00e9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_ClimberControl_Code": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0eba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40eba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_Habitation_LisaCorpse": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0e7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80e7a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_Maintenance_ClimberLog": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80eea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00eea1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_Maintenance_Spores": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80eda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00eda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_Maintenance_StorageConsole": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80eca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40eca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_RelaxArea_Code": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80e8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40e8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_SecureRecords_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0eaa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80eaa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_SecureRecords_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00eaa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0e9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Omicron_Vihaan": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00f9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0f8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Sigma_Control": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40f5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00f5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Log_Sigma_DronePad": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": false,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40f8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00f8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Rho_MedBay_Log": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "4007ad959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c006ad959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "MR_Tau_MedBay_Log": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0e2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40e2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_AbandonedExcavation": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40bda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00bda1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_ClifftopHabitat_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80bca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40bca1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_ClifftopHabitat_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0bba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80bba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_ClifftopHabitat_3": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00bba1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0baa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_CraterFacility_ClimberLog": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0c5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40c5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_CraterFacility_ClimberStatus": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40b6a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0b5a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_Drilling_Status_Beta": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80c2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40c2a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_KryptosBridge": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0e1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "80e1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_Plains_Overlook_DrillSite_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00c1a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0c0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_Plains_Overlook_DrillSite_2": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40c0a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0bfa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OC_ExpeditionLog_WaterPump_Ruined": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40baa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00baa1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OM_ExpeditionLog_SpringsDrill_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "40c3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "00c3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "OM_ExpeditionLog_SurfaceCamp": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "80b9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40b9a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "PL_ExpeditionLog_Finale_Li_Bedroom": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "4008ad959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c007ad959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "PL_ExpeditionLog_Finale_Li_Office_1": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "00c4a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "c0c3a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    },
+    "PL_ExpeditionLog_Security_Checkpoint": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": true,
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": 1,
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": {
+        "_raw_hex": "c0b8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": {
+        "_raw_hex": "40b8a1959c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2",
+      "off": 0,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A",
+      "off": 16,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410",
+      "off": 32,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3",
+      "off": 40,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D",
+      "off": 56,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD",
+      "off": 57,
+      "size": 1,
+      "type": "BoolProperty"
+    }
+  ],
+  "size": 58,
+  "struct": "S_JournalEntry",
+  "table": "DT_JournalEntries_WorldLogs"
+}

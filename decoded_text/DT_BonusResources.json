@@ -1,0 +1,37 @@
+{
+  "rows": {
+    "NewRow": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator7",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_1\", 0.025000))"
+    },
+    "NewRow_0": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator10",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_2\", 0.025000))"
+    },
+    "NewRow_1": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator8",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_5\", 0.025000))"
+    },
+    "NewRow_2": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator9",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_4\", 0.025000))"
+    },
+    "NewRow_3": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator13",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_3\", 0.025000))"
+    },
+    "NewRow_4": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator11",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_6\", 0.025000))"
+    },
+    "NewRow_5": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator12",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_Archaeology\", 0.025000))"
+    },
+    "NewRow_6": {
+      "BonusResourceType_2_667F99AF443023D5056780B0F9627D68": "NewEnumerator14",
+      "Items_9_F87ECBF945CF05FB174ED28B6919AEA1": "((\"Geode_7\", 0.025000))"
+    }
+  },
+  "table": "DT_BonusResources"
+}

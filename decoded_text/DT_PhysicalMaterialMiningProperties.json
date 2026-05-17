@@ -1,0 +1,30 @@
+{
+  "rows": {
+    "PhysMat_Biomass": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/VFX/BP_VFX_MiningHit_Dirt.BP_VFX_MiningHit_Dirt_C'",
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": "/Script/Engine.SoundCue'/Game/StrikeTheEarth/Audio/Footsteps/SC_PlyrFts_TarPits.SC_PlyrFts_TarPits'",
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": "/Script/PhysicsCore.PhysicalMaterial'/Game/StrikeTheEarth/Materials/PhysMat_Biomass.PhysMat_Biomass'"
+    },
+    "PhysMat_Dirt": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/VFX/BP_VFX_MiningHit_Dirt.BP_VFX_MiningHit_Dirt_C'",
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": "/Script/Engine.SoundCue'/Game/StrikeTheEarth/Audio/Footsteps/Footstep_Dirt.Footstep_Dirt'",
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": "/Script/PhysicsCore.PhysicalMaterial'/Game/StrikeTheEarth/Materials/PhysMat_Dirt.PhysMat_Dirt'"
+    },
+    "PhysMat_Rock_OC": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/VFX/BP_VFX_MiningHit_Stone.BP_VFX_MiningHit_Stone_C'",
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": "/Script/Engine.SoundCue'/Game/StrikeTheEarth/Audio/Mining/SC_Hit_Rock_Ground.SC_Hit_Rock_Ground'",
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": "/Script/PhysicsCore.PhysicalMaterial'/Game/StrikeTheEarth/Materials/PhysMat_Rock_OC.PhysMat_Rock_OC'"
+    },
+    "PhysMat_Rock_OW": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/VFX/BP_VFX_MiningHit_Stone.BP_VFX_MiningHit_Stone_C'",
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": "/Script/Engine.SoundCue'/Game/StrikeTheEarth/Audio/Mining/SC_Hit_Rock_Ground.SC_Hit_Rock_Ground'",
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": "/Script/PhysicsCore.PhysicalMaterial'/Game/StrikeTheEarth/Materials/PhysMat_Rock_OW.PhysMat_Rock_OW'"
+    },
+    "PhysMat_Sand": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/VFX/BP_VFX_MiningHit_Dirt.BP_VFX_MiningHit_Dirt_C'",
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": "/Script/Engine.SoundCue'/Game/StrikeTheEarth/Audio/Footsteps/Footstep_Dirt.Footstep_Dirt'",
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": "/Script/PhysicsCore.PhysicalMaterial'/Game/StrikeTheEarth/Materials/PhysMat_Sand.PhysMat_Sand'"
+    }
+  },
+  "table": "DT_PhysicalMaterialMiningProperties"
+}

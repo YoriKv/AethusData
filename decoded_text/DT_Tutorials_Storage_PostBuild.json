@@ -1,0 +1,33 @@
+{
+  "rows": {
+    "Storage_Post_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Storage_Post_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "((\"IP_Tutorial_Storage_Complete\", True))",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Storage_Post_2",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "((\"IP_Tutorial_Storage_Complete\", False))",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Secondary_OM_StorageTutorial\", NewEnumerator2))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"25DB7FCC4BA8C001C4154C99FAAE39DC\", \"Weight\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"7242265B407F285D8B739BAA6395532C\", \"Maeve can only carry a certain amount of <Important>Weight</> at one time, made up of all the items currently carried in the <Important>Inventory</>.\\r\\n\\r\\nDifferent items have different <Important>Weights</>, so pay attention when gathering resources!\\r\\n\\r\\nHovering over an item shows its <Important>Tooltip</>, which shows the <Important>individual weight</> of one item, and the amount of that item in the <Important>\\'stack\\'</>.\\r\\n\\r\\nThe top-right of the <Important>Inventory</> panel shows Maeve\\'s current vs maximum carryable <Important>Weight</>.\\r\\n\\r\\nYou won\\'t be able to pick up new items when Maeve has reached her maximum <Important>Weight</> limit.\\r\\n\\r\\nYou will be able to obtain <Important>Upgrades</> to increase Maeve\\'s maximum carrying <Important>Weight</> later.\\r\\n\\r\\nIn the mean-time, you can utilize <Important>Storage Containers</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Storage_Post_2": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Storage_Post_2",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Weight",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Storage_Post_1",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"6BAB4E834DED8FB047E3C0B738A1650E\", \"Storage\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"28FB00B24DAEA7DF72E2A39EEFC53878\", \"<Important>Storage Containers</> like this newly-built <Facility>Makeshift Crate</> allow you to store items in your <Important>Habitats</> for later use.\\r\\n\\r\\nDifferent <Important>Storage Containers</> can hold different amounts of items, based on their total <Important>Weight.</> You can see the maximum held <Important>Weight</> of the <Important>Facility</> in its <Important>Info Panel</>.\\r\\nYou will be able to unlock larger <Important>Storage Containers</> as you progress through the game.\\r\\n\\r\\nYou can deposit items into a <Important>Storage Containers</> by <img id=\\\"LMB\\\"/> <Cyan>Interacting</> with it like any other <Important>Facility</>, then using <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> or <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> on the item\\'s icon in your <Important>Inventory</>, to transfer one item or the whole stack, respectively.\\r\\nThe <Important>Info Panel</> of the destination must be open in order to deposit items.\\r\\n\\r\\nTake items from a <Important>Storage Containers</> in the same way, by using <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> or <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> on the desired item in the <Important>Inventory</> section of the <Important>Info Panel</> of the <Important>Facility</>.\\r\\n\\r\\nOne special aspect of <Important>Storage Containers</> is that items within them will <Important>automatically</> be available for use in <Important>Crafting</>, alongside any items in your own <Important>Inventory</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Storage_PostBuild"
+}

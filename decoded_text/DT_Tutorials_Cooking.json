@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Cooking_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Cooking_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Cooking",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"F519FD0041BC2611817ABCB1A1C2AF06\", \"Frontier Cooking\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"2AA3B3034DED0AC9FBF407A61A59D9EA\", \"The <Facility>Grill</> and other similar <Important>Facilities</> allow you to cook and prepare meals and other items which can affect Maeve\\'s <Important>Vitality</>.\\r\\n\\r\\nInteract with the <Facility>Grill</> and click the <Important>Cooking</> button in the <Important>Info Panel</> to bring up the <Important>Cooking Panel</>.\\r\\n\\r\\n<Important>Recipes</> for items available for <Important>Cooking</> are shown, along with their required ingredients.\\r\\nYou can <Important>Pin</> a <Important>Recipe</> to the left side of the screen with  <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> in order to keep track of the required ingredients.\\r\\n\\r\\nClick the <Important>Recipe</> you\\'d like to prepare to start the process. Click multiple times to add items to the <Important>Queue</>.\\r\\n\\r\\nItems you have available for use as ingredients are shown in the right-hand <Important>Inventory</> panel. \\r\\n\\r\\nIngredients will be automatically taken from your <Important>Inventory</> when a recipe is added to the queue.\\r\\n\\r\\nItems prepared via <Important>Cooking</> will be placed in the <Important>Inventory</> of the <Facility>Grill</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Cooking"
+}

@@ -1,0 +1,421 @@
+{
+  "rows": {
+    "AirSupply_Capacity_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_034_blue.Tex_parts_034_blue'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "1500",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Capacity_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator6",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Capacity_1_Title\")"
+    },
+    "AirSupply_Capacity_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_034_orange.Tex_parts_034_orange'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator6)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "10000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Capacity_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator7",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Capacity_2_Title\")"
+    },
+    "AirSupply_Capacity_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_034.Tex_parts_034'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator6,NewEnumerator7)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "50000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Capacity_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator8",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Capacity_3_Title\")"
+    },
+    "AirSupply_Consumption_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_027.Tex_parts_027'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "2500",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Consumption_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator12",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Consumption_1_Title\")"
+    },
+    "AirSupply_Consumption_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_027.Tex_parts_027'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "2500",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Consumption_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator8",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Consumption_2_Title\")"
+    },
+    "AirSupply_Filters_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_35_blue.Tex_r_35_blue'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "3000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator36",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_1_Title\")"
+    },
+    "AirSupply_Filters_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_35.Tex_r_35'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator36)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "12500",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator37",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_2_Title\")"
+    },
+    "AirSupply_Filters_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_35_red.Tex_r_35_red'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator36,NewEnumerator37)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "50000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator38",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_3_Title\")"
+    },
+    "AirSupply_Filters_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_35_a.Tex_r_35_a'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "200",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_4_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator53",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_AirSupply_Filters_4_Title\")"
+    },
+    "BM_Roland": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_b_26.Tex_b_26'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "100",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Lockdown_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator45",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Lockdown_Title\")"
+    },
+    "BM_TetherHover_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_33.Tex_r_33'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator46)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "150",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityFloat_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator47",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityFloat_1_Title\")"
+    },
+    "BM_TetherHover_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_33_orange.Tex_r_33_orange'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator46,NewEnumerator47,NewEnumerator48)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "125",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityFloat_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator49",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityFloat_2_Title\")"
+    },
+    "BM_TetherJump_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_p_24_a.Tex_p_24_a'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "200",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityJump_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator46",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityJump_1_Title\")"
+    },
+    "BM_TetherJump_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_p_24_b.Tex_p_24_b'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator46,NewEnumerator47)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "125",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityJump_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator48",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityJump_2_Title\")"
+    },
+    "DirtRepeller": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_p_26.Tex_p_26'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "2000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_DirtRepeller_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator52",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_DirtRepeller_Title\")"
+    },
+    "DroneBuildCamera": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_036.Tex_parts_036'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "3000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_DroneCamera_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator23",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_DroneCamera_Title\")"
+    },
+    "DroneLight": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_28.Tex_r_28'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "5000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_DroneLight_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator24",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_DroneLight_Title\")"
+    },
+    "FallDamage_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_29.Tex_r_29'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "5000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_FallDamage_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator54",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_FallDamage_Title\")"
+    },
+    "GemFinder": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/CraftResourcesIcons/Textures/Tex_gemstone_09.Tex_gemstone_09'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "10000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GemFinder_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator25",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GemFinder_Title\")"
+    },
+    "GravityGrab_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_24.Tex_r_24'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "3000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityGrab_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator3",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityGrab_1_Title\")"
+    },
+    "GravityTethers_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_24_yellow.Tex_r_24_yellow'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "2000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator32",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_1_Title\")"
+    },
+    "GravityTethers_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_33.Tex_r_33'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator32)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "5000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator34",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_2_Title\")"
+    },
+    "GravityTethers_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_24.Tex_r_24'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator32,NewEnumerator34)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "10000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator33",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_3_Title\")"
+    },
+    "GravityTethers_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_33_orange.Tex_r_33_orange'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator34,NewEnumerator32,NewEnumerator33)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "20000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_4_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator35",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_GravityTether_4_Title\")"
+    },
+    "Heat_Cooling_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_18_a.Tex_r_18_a'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "200",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_HeatResistance_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator39",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_HeatResistance_1_Title\")"
+    },
+    "Heat_Cooling_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_18.Tex_r_18'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator39)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "50000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_HeatResistance_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator40",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_HeatResistance_2_Title\")"
+    },
+    "Heat_Cooling_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_r_18_b.Tex_r_18_b'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator39,NewEnumerator40)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "75000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_HeatResistance_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator41",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_HeatResistance_3_Title\")"
+    },
+    "Inventory_Weight_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_06.Tex_parts_06'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "2000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator19",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_1_Title\")"
+    },
+    "Inventory_Weight_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_06_b.Tex_parts_06_b'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator19)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "10000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator20",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_2_Title\")"
+    },
+    "Inventory_Weight_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_06_a.Tex_parts_06_a'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator19,NewEnumerator20)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "25000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator21",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_3_Title\")"
+    },
+    "Inventory_Weight_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_06_c.Tex_parts_06_c'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator19,NewEnumerator20,NewEnumerator21)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "50000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_4_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator22",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Inventory_Weight_4_Title\")"
+    },
+    "MiningEnergy_Capacity_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_g_27.Tex_g_27'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "1000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Capacity_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator13",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Capacity_1_Title\")"
+    },
+    "MiningEnergy_Capacity_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_g_27_orange.Tex_g_27_orange'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator13)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "15000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Capacity_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator14",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Capacity_2_Title\")"
+    },
+    "MiningEnergy_Capacity_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_g_27_red.Tex_g_27_red'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator13,NewEnumerator14)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "40000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Capacity_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator15",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Capacity_3_Title\")"
+    },
+    "MiningEnergy_Recharge_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_b_11.Tex_b_11'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "3000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Recharge_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator16",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Recharge_1_Title\")"
+    },
+    "MiningEnergy_Recharge_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_b_11_a.Tex_b_11_a'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator16)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "10000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Recharge_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator17",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Recharge_2_Title\")"
+    },
+    "MiningEnergy_Recharge_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_b_11_b.Tex_b_11_b'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator16,NewEnumerator17)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "30000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Recharge_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator18",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningEnergy_Recharge_3_Title\")"
+    },
+    "MiningPower_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/CraftResourcesIcons/Textures/Tex_stone_01.Tex_stone_01'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "500",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator0",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_1_Title\")"
+    },
+    "MiningPower_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/MiningIcons/Textures/Tex_MiningIcons_97_t.Tex_MiningIcons_97_t'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator0)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "7500",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator1",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_2_Title\")"
+    },
+    "MiningPower_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/CraftResourcesIcons/Textures/Tex_stone_03.Tex_stone_03'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator0,NewEnumerator1)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "15000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator4",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_3_Title\")"
+    },
+    "MiningPower_4": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/Resources_Icons/Textures/Tex_st_04.Tex_st_04'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator0,NewEnumerator1,NewEnumerator4)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "35000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_4_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator5",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_4_Title\")"
+    },
+    "MiningPower_5": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/MiningIcons/Textures/Tex_MiningIcons_96_t.Tex_MiningIcons_96_t'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "200",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_5_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator50",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_5_Title\")"
+    },
+    "MiningPower_6": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/CraftResourcesIcons/Textures/Tex_stone_02.Tex_stone_02'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "300",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_6_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator51",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MiningPower_6_Title\")"
+    },
+    "Prospecting_Optimization_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/CraftResourcesIcons/Textures/Tex_geode_01.Tex_geode_01'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "10000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Prospecting_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator26",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Prospecting_1_Title\")"
+    },
+    "Prospecting_Optimization_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/CraftResourcesIcons/Textures/Tex_bone_07.Tex_bone_07'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator26)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "20000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Prospecting_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator27",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_Prospecting_2_Title\")"
+    },
+    "Radiation_Resistance_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_g_30.Tex_g_30'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator39)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "100",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_RadiationResistance_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator42",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_RadiationResistance_1_Title\")"
+    },
+    "Radiation_Resistance_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_g_30_b.Tex_g_30_b'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator40)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "50000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_RadiationResistance_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator41",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_RadiationResistance_2_Title\")"
+    },
+    "Radiation_Resistance_3": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Skills_Icon/Textures/Tex_g_30.Tex_g_30'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator40,NewEnumerator41)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "75000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_RadiationResistance_3_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator42",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_RadiationResistance_3_Title\")"
+    },
+    "Speed_Increase_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_07.Tex_parts_07'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "4000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeed_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator28",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeed_1_Title\")"
+    },
+    "Speed_Increase_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/SciFi_Icons/Textures/Tex_parts_05.Tex_parts_05'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator28,NewEnumerator30)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "35000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeed_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator29",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeed_2_Title\")"
+    },
+    "Speed_Increase_Sprint_1": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/ModernInventoryIcons/Textures/Tex_syringe_01.Tex_syringe_01'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator28)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "15000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeedSprint_1_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator30",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeedSprint_1_Title\")"
+    },
+    "Speed_Increase_Sprint_2": {
+      "Icon_9_BA61060F422EE38A0F9F2AB2AA9B589B": "/Script/Engine.Texture2D'/Game/ModernInventoryIcons/Textures/Tex_syringe_02.Tex_syringe_02'",
+      "RequiredUpgrades_25_490CDDB9406DB68D401525A99FA9F5B1": "(NewEnumerator28,NewEnumerator30,NewEnumerator29)",
+      "UpgradeCost_21_52FFF5E14831D6A98A5EA395762306FD": "75000",
+      "UpgradeDescription_13_588EF95E4C49B7513B839B947AE5B861": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeedSprint_2_Description\")",
+      "UpgradeEnum_24_F41AF6A641E5AEEC5384B3A5E06FCC7D": "NewEnumerator31",
+      "UpgradeReadableName_6_FE35926E43A571E3B829B58EAB7DBA43": "LOCTABLE(\"/Game/TopDown/Blueprints/Upgrades/ST_Upgrades.ST_Upgrades\", \"Upgrade_MaxSpeedSprint_2_Title\")"
+    }
+  },
+  "table": "DT_Upgrades"
+}

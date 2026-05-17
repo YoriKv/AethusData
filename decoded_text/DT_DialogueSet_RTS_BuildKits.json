@@ -1,0 +1,59 @@
+{
+  "rows": {
+    "NewRow_19": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Roland/Pass5Nov25/DT_DialogueSet_RTS_BuildKits_Line2-001.DT_DialogueSet_RTS_BuildKits_Line2-001'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"2C9097DD4B8621DBC824AAB191F3D4AF\", \"Conveniently, there are some new plans on the Trade Node for an Expedition Hub, which we could use to create Buildkits for the underground, like the one we found.\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "()",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "LW_PlayerLog_BeforeTau",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator1",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "((\"Task_Secondary_ExpeditionHub\", NewEnumerator1),(\"Task_Secondary_BuildKits\", NewEnumerator2))",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    },
+    "NewRow_21": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Roland/Pass5Nov25/DT_DialogueSet_RTS_BuildKitsLine1-003.DT_DialogueSet_RTS_BuildKitsLine1-003'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"5EB4F60D47D3FFE353BF41A706D78048\", \"Maeve, if we want to get into the next facility after Rho safely, we\\'re going to need to repair and expand the power network we found down there.\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "()",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator1",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "()",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    },
+    "NewRow_22": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "BuildKit_PowerRelay",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Roland/Pass5Nov25/DT_DialogueSet_RTS_BuildKits_Line3-003.DT_DialogueSet_RTS_BuildKits_Line3-003'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"561A3FD141EF31A1122BEE99B20CABD5\", \"I\\'ve synthesised some plans for you to use once you\\'ve got the Hub built!\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "((\"IP_Dialogue_RTS_BuildKits_Complete\", True))",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator1",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "()",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    }
+  },
+  "table": "DT_DialogueSet_RTS_BuildKits"
+}

@@ -1,0 +1,113 @@
+{
+  "rows": {
+    "Fish_LW_FairyPool_L": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Ghost.BP_Pickable_Fish_Ghost_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.025000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "4"
+    },
+    "Fish_LW_FairyPool_M": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Ghost.BP_Pickable_Fish_Ghost_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.025000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    },
+    "Fish_LW_FairyPool_S": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Ghost.BP_Pickable_Fish_Ghost_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.025000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "4",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    },
+    "Fish_LW_SwampLake": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_AntiGravTech_1.BP_Pickable_AntiGravTech_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.025000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "4"
+    },
+    "Fish_LW_SwampPool_L": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_AntiGravTech_1.BP_Pickable_AntiGravTech_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.025000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "4"
+    },
+    "Fish_LW_SwampPool_M": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_AntiGravTech_1.BP_Pickable_AntiGravTech_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.025000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    },
+    "Fish_LW_SwampPool_S": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_AntiGravTech_1.BP_Pickable_AntiGravTech_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.025000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "4",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    },
+    "Fish_LW_TarPits": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_AntiGravTech_1.BP_Pickable_AntiGravTech_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_ProspectingItem_Bones_1.BP_Pickable_ProspectingItem_Bones_1_C'\", 0.400000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_Archaeology.BP_Pickable_Geode_Archaeology_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_ProspectingItem_Skull_1.BP_Pickable_ProspectingItem_Skull_1_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_ProspectingItem_Skull_2.BP_Pickable_ProspectingItem_Skull_2_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_ProspectingItem_Tail_1.BP_Pickable_ProspectingItem_Tail_1_C'\", 0.050000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_ProspectingItem_Ribs_1.BP_Pickable_ProspectingItem_Ribs_1_C'\", 0.050000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    },
+    "Fish_LW_UnderSea": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.750000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_AntiGravTech_1.BP_Pickable_AntiGravTech_1_C'\", 0.100000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "6",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "4"
+    },
+    "Fish_MR_LavaPool_M": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma.BP_Pickable_Fish_Magma_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma_Bulging.BP_Pickable_Fish_Magma_Bulging_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magmaworm.BP_Pickable_Fish_Magmaworm_C'\", 0.800000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "7",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "5"
+    },
+    "Fish_MR_LavaPool_M_NoAetherium": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma.BP_Pickable_Fish_Magma_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magmaworm.BP_Pickable_Fish_Magmaworm_C'\", 0.800000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "7",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "5"
+    },
+    "Fish_MR_LavaPool_S": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma.BP_Pickable_Fish_Magma_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma_Bulging.BP_Pickable_Fish_Magma_Bulging_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magmaworm.BP_Pickable_Fish_Magmaworm_C'\", 0.800000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "7",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "5"
+    },
+    "Fish_MR_LavaSea": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma.BP_Pickable_Fish_Magma_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma_Bulging.BP_Pickable_Fish_Magma_Bulging_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magmaworm.BP_Pickable_Fish_Magmaworm_C'\", 0.800000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "6",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "4"
+    },
+    "Fish_OC_HotSprings_L": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Shrimp.BP_Pickable_Fish_Shrimp_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.050000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "4"
+    },
+    "Fish_OC_HotSprings_M": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Medicine_1.BP_Pickable_Junk_Medicine_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Fuel_1.BP_Pickable_Junk_Fuel_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Junk_Tools_1.BP_Pickable_Junk_Tools_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Shrimp.BP_Pickable_Fish_Shrimp_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.050000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    },
+    "Fish_OC_HotSprings_S": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Shrimp.BP_Pickable_Fish_Shrimp_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.050000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "4",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "2"
+    },
+    "Fish_OM_Pool_M": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Scrap_S.BP_Pickable_Scrap_S_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Sandfish.BP_Pickable_Fish_Sandfish_C'\", 0.400000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "5",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    },
+    "Fish_OM_Pool_S": {
+      "ChanceForEachFish_12_037DED72490303AA16B437B4FD7D9C43": "0.500000",
+      "FishPickables_5_27BBC8EF415E0D1DF29F699471ABC4BF": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Scrap_S.BP_Pickable_Scrap_S_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Sandfish.BP_Pickable_Fish_Sandfish_C'\", 0.400000))",
+      "MaxQuantity_9_FD05E8A24DE462A0462B02B33DA829F3": "4",
+      "MinQuantity_15_A334C3AB49377B97F9CA58A49A6F57C8": "3"
+    }
+  },
+  "table": "DT_FishingReturns"
+}

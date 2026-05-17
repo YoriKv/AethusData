@@ -1,0 +1,95 @@
+{
+  "rows": {
+    "Food_CaveMushroom_1": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "300.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.300000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.100000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Mushroom_02.SM_Env_Plant_Mushroom_02'\",\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Mushroom_03.SM_Env_Plant_Mushroom_03'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "1",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "CavernMushroom_Hydroponics"
+    },
+    "Lifeshroom_1": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "540.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.550000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.400000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/Biomes/PNB_Enchanted_Forest/Models/Environment/SM_Env_Mushroom_Small_03.SM_Env_Mushroom_Small_03'\",\"/Script/Engine.StaticMesh'/Game/Biomes/PNB_Enchanted_Forest/Models/Environment/SM_Env_Mushroom_Small_02.SM_Env_Mushroom_Small_02'\",\"/Script/Engine.StaticMesh'/Game/Biomes/PNB_Enchanted_Forest/Models/Environment/SM_Env_Mushroom_Small_01.SM_Env_Mushroom_Small_01'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "1",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Lifeshroom_1_NotTile"
+    },
+    "Mouldshroom_1": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "540.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "2.200000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "1.800000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/Biomes/PNB_Enchanted_Forest/Models/Environment/SM_Env_Mushroom_Small_09.SM_Env_Mushroom_Small_09'\",\"/Script/Engine.StaticMesh'/Game/Biomes/PNB_Enchanted_Forest/Models/Environment/SM_Env_Mushroom_Small_10.SM_Env_Mushroom_Small_10'\",\"/Script/Engine.StaticMesh'/Game/Biomes/PNB_Enchanted_Forest/Models/Environment/SM_Env_Mushroom_Small_Group_05.SM_Env_Mushroom_Small_Group_05'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "1",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Mouldshroom_1_NotTile"
+    },
+    "Mycelium_2": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "300.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "4",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.110000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.110000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Hallowed_02.SM_Env_Plant_Hallowed_02'\",\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Hallowed_01.SM_Env_Plant_Hallowed_01'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "0",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Plant_Mycelia_NotTile"
+    },
+    "Plant_AntiRad": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "640.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.850000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.850000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/PolygonDungeons/Meshes/Environments/Misc/SM_Env_Mushroom_Small_02_Rad.SM_Env_Mushroom_Small_02_Rad'\",\"/Script/Engine.StaticMesh'/Game/PolygonDungeons/Meshes/Environments/Misc/SM_Env_Mushroom_Small_01_Rad.SM_Env_Mushroom_Small_01_Rad'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "1",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Plant_AntiRad_NotTile"
+    },
+    "Plant_Wheat": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "420.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.400000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.400000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/PolygonApocalypseWasteland/Models/Environment/SM_Env_Reeds_04.SM_Env_Reeds_04'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "1",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Plant_Wheat_NotTile"
+    },
+    "Reagent_Mycelium": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "500.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.079510",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.079510",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Hallowed_02_a.SM_Env_Plant_Hallowed_02_a'\",\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Hallowed_01_a.SM_Env_Plant_Hallowed_01_a'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "0",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Reagent_Mycelium_NotTile"
+    },
+    "Seed_Glowtus": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "420.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.800000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.450000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Cactus_02.SM_Env_Plant_Cactus_02'\",\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Cactus_03.SM_Env_Plant_Cactus_03'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "0",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Glowtus_OC_1"
+    },
+    "Seed_HotSprings": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "360.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "0.450000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.350000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/PolygonScifiWorlds/Meshes/Environments/SM_Env_Plant_Fern_01.SM_Env_Plant_Fern_01'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "1",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Seed_HotSprings_NotTile"
+    },
+    "Seed_Sugar": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": "480.000000",
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": "1",
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": "1.200000",
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": "0.800000",
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": "(\"/Script/Engine.StaticMesh'/Game/Biomes/PNB_Arid_Desert/Models/Environment/SM_Env_Succulent_Combined.SM_Env_Succulent_Combined'\")",
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": "0",
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": "Seed_Sugar_NotTile"
+    }
+  },
+  "table": "DT_Seeds"
+}

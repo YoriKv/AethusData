@@ -1,0 +1,59 @@
+{
+  "rows": {
+    "NewRow_2": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Maeve/Pass_3/Maeve_cliffbase_door_1.Maeve_cliffbase_door_1'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"A244C33245739B53A987BDA33A9BEBBD\", \"Hm, I can see lights on, but the door won\\'t open.\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "()",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "True",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator0",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "()",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    },
+    "NewRow_3": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Roland/Pass_3/VO_Roland_CliffbaseHabitat_Door_1-004.VO_Roland_CliffbaseHabitat_Door_1-004'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"3D6B2867434061C00715F6A1683DCB3D\", \"It appears that the servos are fried.\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "()",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator1",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "()",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    },
+    "NewRow_4": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Maeve/Pass_3/Maeve_cliffbase_door_2.Maeve_cliffbase_door_2'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"02FAE5B348C481A766C5E29F977B057A\", \"*Groan* Ok, if I can replace those servos, I can get inside and use this place as a jumping-off point for the rest of the area.\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "()",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "((\"IP_Dialogue_OC_Habitat_DiscoverCliffbaseHabitat_DoorJammed_Complete\", True))",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "OC_PlayerLog_CliffbaseHabitat_Discovered",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "True",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "True",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator0",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "((\"Task_Secondary_OC_CliffbaseRepair\", NewEnumerator1))",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    }
+  },
+  "table": "DT_DialogueSet_OC_Habitat_DiscoverCliffbaseHabitat_DoorJammed"
+}

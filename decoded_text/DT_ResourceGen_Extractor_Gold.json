@@ -1,0 +1,20 @@
+{
+  "rows": {
+    "Ore_1": {
+      "MaxQuantity_7_03EA2B63456BB6A0B594DE9283C40792": "1",
+      "Pickable_10_89ED8C364B5CFDDB155FCEB476386D1D": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'",
+      "SpawnChancePerQuantity_8_84DB5FBD4E341B776541AA853014390C": "0.400000"
+    },
+    "Ore_4": {
+      "MaxQuantity_7_03EA2B63456BB6A0B594DE9283C40792": "2",
+      "Pickable_10_89ED8C364B5CFDDB155FCEB476386D1D": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'",
+      "SpawnChancePerQuantity_8_84DB5FBD4E341B776541AA853014390C": "0.400000"
+    },
+    "Stone": {
+      "MaxQuantity_7_03EA2B63456BB6A0B594DE9283C40792": "2",
+      "Pickable_10_89ED8C364B5CFDDB155FCEB476386D1D": "/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'",
+      "SpawnChancePerQuantity_8_84DB5FBD4E341B776541AA853014390C": "0.700000"
+    }
+  },
+  "table": "DT_ResourceGen_Extractor_Gold"
+}

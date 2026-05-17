@@ -1,0 +1,2559 @@
+{
+  "rows": {
+    "Accent_Black": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358240,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549157504
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450227584
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "0008ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358256,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000cef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Blue": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357440,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483094016
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450267264
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00f9d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357456,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "4005ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Bronze": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358192,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871268485120
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450228864
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c007ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358208,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "e00bef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Chrome": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358144,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934945664
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450268544
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "8007ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358160,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "c00bef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Copper": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357472,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869912402432
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450241664
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40f9d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357488,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Gold": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357504,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067605376
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450234624
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80f9d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357520,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "c005ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "a005ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Green_Yakatani": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358336,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871268487040
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450232064
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0f7d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358352,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "400cef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Grey_Casma": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358432,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483123200
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450239104
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80f8d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358448,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "c004ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Orange_Regis": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358368,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013839872
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450237184
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00f8d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358384,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "4004ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Purple_Casma": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358400,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864304256
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450229504
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40f8d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358416,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "8004ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Ruby": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358112,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631058304
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450238464
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "4007ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358128,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "800bef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_White": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358288,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631032192
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450267904
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "4008ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358304,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "200cef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Accent_Yellow": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358464,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631036800
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450228224
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0f8d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357424,
+        "max": 16,
+        "num": 3
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "0005ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Black": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357904,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450227584
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00fcd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357920,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "6007ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Blue": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357104,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450267264
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0fdd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357120,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "a000ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Bronze": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357856,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450228864
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0fbd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357872,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "4007ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Christmas_25": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357136,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 0,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40fed0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357152,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "0001ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "e000ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Chrome": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357808,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450268544
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80fbd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357824,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "2007ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Default": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357168,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450241664
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80fed0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357184,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Gold": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357200,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450234624
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0fed0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357216,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "6001ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "4001ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Green_Dark": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356944,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450232064
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80fcd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356960,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "a007ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Grey_Casma": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357040,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450239104
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40fdd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357056,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "2000ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Orange": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356976,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450237184
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0fcd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356992,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "e007ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Purple": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357008,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450229504
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00fdd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357024,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "2008ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Ruby": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357776,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450238464
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40fbd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357792,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "e006ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_White": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356896,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450267904
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40fcd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356912,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "8007ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Chassis_Yellow": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357072,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450228224
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80fdd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357088,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "6000ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_Blue": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358592,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934924928
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "000000000000034300007f4300007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450236544
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "8003ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358608,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "c008ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_Default": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358864,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00007f4300006e430000254300007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450230144
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "0005ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358880,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_Green": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358640,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013815296
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "deffc73c0000803f0000000000007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450230784
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c003ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358656,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "e008ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_Orange": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358736,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483140096
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "0000803f89247a3e0000000000007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450230144
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "4004ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358752,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "2009ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_Purple": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358544,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631052160
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "0000803f000000002aa94f3f00007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450240384
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "4003ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358560,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "a008ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_Red": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358784,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483140096
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "0000803f20d3da3b0000000000007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450241024
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "8004ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358800,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "4009ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_White": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358832,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067623808
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00007f4300007f4300007f4300007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450237824
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c004ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358848,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "6009ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Light_Yellow": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358688,
+        "max": 16,
+        "num": 2
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869912402432
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "0000803f3604373f0000000000007f43",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450233344
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "0004ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358704,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "0009ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Black": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357360,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022765824
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450227584
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0ffd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357376,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "0002ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Blue": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356560,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549142144
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450267264
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00f1d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356576,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "8003ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Bronze": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357312,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067605376
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450228864
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80ffd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357328,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "e001ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Chrome": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357264,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631034880
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450268544
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40ffd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357280,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "c001ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Default": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356592,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450241664
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40f1d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356608,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Gold": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356624,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016067712
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450234624
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80f1d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356640,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "20ce7f6b9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "0004ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Green_Dark": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356400,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240114944
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450232064
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0efd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356416,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "4002ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Grey_Casma": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356496,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747112960
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450239104
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80f0d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356512,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "0003ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Orange": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356432,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483113600
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450237184
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00f0d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356448,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "8002ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Purple": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356464,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549149824
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450229504
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40f0d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356480,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "c002ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Ruby": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357232,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865355904
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450238464
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00ffd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357248,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "8001ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_White": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357408,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022715904
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450267904
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80efd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356368,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "2002ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Suit_Yellow": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356528,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747059584
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450228224
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0f0d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050356544,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "4003ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Undersuit_Black": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357728,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869912402432
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450242304
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00fbd0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357744,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Undersuit_Grey": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357616,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631037184
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450266624
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "40fad0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357632,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "4006ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Undersuit_Grey_Dark": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357696,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934941056
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450231424
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0fad0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357712,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "a006ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Undersuit_Grey_Light": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357584,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655453056
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450235264
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "00fad0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357600,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "0006ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Undersuit_Grey_Medium": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357664,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865384320
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450239744
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "80fad0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357680,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "6006ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Undersuit_White": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357536,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943990016
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450232704
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c0f9d0859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357552,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "e005ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_Black": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358976,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240129920
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450233984
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c005ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358992,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "200aef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_Blue": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358016,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934924928
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450236544
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "8006ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358032,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "e00aef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_Default": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358080,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2869912402432
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450233344
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "0007ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358096,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_Green": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357984,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013815296
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450230784
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "4006ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358000,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "a00aef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_Mirrored": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358896,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320294272
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450235904
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "4005ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358912,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "c009ef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_Purple": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357952,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631052160
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450240384
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "0006ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050357968,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "600aef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_Red": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": true,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358048,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 2,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483140096
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450241024
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "c006ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358064,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "200bef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Visor_White": {
+      "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2": false,
+      "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358928,
+        "max": 16,
+        "num": 1
+      },
+      "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7": 1,
+      "Icon_30_7B236B7646A84FB8CF16F88730657375": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067623808
+      },
+      "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08": {
+        "_raw_hex": "00000000000000000000000000000000",
+        "_type": "StructProperty"
+      },
+      "Material_6_C94D6D464AA258AA53E9E690A4482DE2": {
+        "_type": "ObjectProperty",
+        "ptr": 2871450237824
+      },
+      "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C": {
+        "_raw_hex": "8005ca859c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Slots_26_C449230544F9FECC5C2E369641A0B98E": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871050358944,
+        "max": 16,
+        "num": 1
+      },
+      "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D": {
+        "_raw_hex": "000aef849c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "ReadableName_2_0300F3F14AEF62377F56AEA643089F9C",
+      "off": 0,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Material_6_C94D6D464AA258AA53E9E690A4482DE2",
+      "off": 16,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Slots_26_C449230544F9FECC5C2E369641A0B98E",
+      "off": 24,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "UnlockInfoportionMap_16_81353D7E4B99A63440A52A8872FB478D",
+      "off": 40,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "VisibleInfoportionMap_18_5D1EA35C4B2219666567F88CC7184A02",
+      "off": 120,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "LightValue_21_0E613EC14FE1ECA228A23C8E87958D08",
+      "off": 200,
+      "size": 16,
+      "type": "StructProperty"
+    },
+    {
+      "dim": 1,
+      "name": "CustomizationCategory_27_FB10D9724E6E19D9A9C5AB85AE07B0F2",
+      "off": 216,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Icon_30_7B236B7646A84FB8CF16F88730657375",
+      "off": 232,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "AllowRandomDiscovery_33_813553424167D86C504F6C90CB8DEDA2",
+      "off": 240,
+      "size": 1,
+      "type": "BoolProperty"
+    },
+    {
+      "dim": 1,
+      "name": "CustomizationRoute_36_986A73AB48DC563DAF093983E8631AD7",
+      "off": 241,
+      "size": 1,
+      "type": "ByteProperty"
+    }
+  ],
+  "size": 242,
+  "struct": "S_PlayerCustomization",
+  "table": "DT_PlayerCustomizations"
+}

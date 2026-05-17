@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AETHUS · recipes / prices</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&family=Major+Mono+Display&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:           #0a0c0f;
+    --bg-deep:      #07090b;
+    --surface:      #10141a;
+    --surface-2:    #161c24;
+    --surface-3:    #1b2330;
+    --border:       #1d2530;
+    --border-bright:#2c3849;
+    --text:         #d8d3c3;
+    --text-bright:  #f4ecd6;
+    --text-dim:     #7d8693;
+    --text-faint:   #4a525c;
+    --accent:       #ff9d3a;
+    --accent-deep:  #c2660d;
+    --accent-glow:  #ffb86b;
+    --positive:     #6ee087;
+    --negative:     #ff5260;
+    --cyan:         #58c8d8;
+    --grid-line:    rgba(255, 157, 58, 0.045);
+    --grain:        rgba(255, 255, 255, 0.018);
+
+    --font-display: 'Major Mono Display', ui-monospace, monospace;
+    --font-mono:    'JetBrains Mono', ui-monospace, monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: var(--font-mono);
+    font-size: 13px;
+    line-height: 1.5;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    background-image:
+      linear-gradient(var(--grid-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--grid-line) 1px, transparent 1px),
+      radial-gradient(circle at 20% 0%, rgba(255, 157, 58, 0.04), transparent 50%),
+      radial-gradient(circle at 100% 100%, rgba(88, 200, 216, 0.025), transparent 60%);
+    background-size: 80px 80px, 80px 80px, 100% 100%, 100% 100%;
+    background-attachment: fixed;
+  }
+
+  /* scanline overlay */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 100;
+    background-image: repeating-linear-gradient(
+      0deg,
+      transparent 0,
+      transparent 2px,
+      var(--grain) 2px,
+      var(--grain) 3px
+    );
+    mix-blend-mode: overlay;
+  }
+
+  /* corner brackets on the viewport */
+  body::after {
+    content: '';
+    position: fixed;
+    inset: 16px;
+    pointer-events: none;
+    z-index: 90;
+    border: 0 solid var(--border-bright);
+    background:
+      linear-gradient(var(--accent), var(--accent)) top    left  / 28px 1px  no-repeat,
+      linear-gradient(var(--accent), var(--accent)) top    left  / 1px  28px no-repeat,
+      linear-gradient(var(--accent), var(--accent)) top    right / 28px 1px  no-repeat,
+      linear-gradient(var(--accent), var(--accent)) top    right / 1px  28px no-repeat,
+      linear-gradient(var(--accent), var(--accent)) bottom left  / 28px 1px  no-repeat,
+      linear-gradient(var(--accent), var(--accent)) bottom left  / 1px  28px no-repeat,
+      linear-gradient(var(--accent), var(--accent)) bottom right / 28px 1px  no-repeat,
+      linear-gradient(var(--accent), var(--accent)) bottom right / 1px  28px no-repeat;
+  }
+
+  .frame {
+    max-width: 1500px;
+    margin: 0 auto;
+    padding: 44px 36px 96px;
+    position: relative;
+  }
+
+  /* ---------- banner ---------- */
+
+  .banner {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 64px;
+    align-items: end;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 28px;
+  }
+
+  .banner__meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 14px;
+    font-size: 10px;
+    letter-spacing: 0.4em;
+    text-transform: uppercase;
+    color: var(--accent);
+  }
+  .banner__meta::before {
+    content: '';
+    width: 7px;
+    height: 7px;
+    background: var(--accent);
+    box-shadow: 0 0 8px var(--accent-glow);
+    animation: pulse 2.4s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: 0.25; }
+  }
+  .banner__meta span:last-child { color: var(--text-faint); }
+
+  .banner h1 {
+    font-family: var(--font-display);
+    font-size: clamp(54px, 8vw, 112px);
+    font-weight: 400;
+    line-height: 0.86;
+    letter-spacing: -0.015em;
+    color: var(--text-bright);
+    margin: 0;
+  }
+  .banner h1 .slash { color: var(--accent); font-weight: 400; }
+
+  .banner__subtitle {
+    margin-top: 18px;
+    font-size: 11px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+  .banner__subtitle span { color: var(--text-faint); }
+
+  .banner__stats {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(82px, max-content);
+    gap: 0;
+    border-left: 1px solid var(--border);
+  }
+  .banner__stats > div {
+    padding: 4px 18px;
+    border-right: 1px solid var(--border);
+  }
+  .banner__stats > div:last-child { border-right: none; }
+  .banner__stats dt {
+    font-size: 9px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin-bottom: 6px;
+  }
+  .banner__stats dd {
+    font-family: var(--font-mono);
+    font-size: 22px;
+    font-weight: 500;
+    color: var(--text-bright);
+    font-variant-numeric: tabular-nums;
+    line-height: 1;
+  }
+  .banner__stats .accent dd { color: var(--accent); }
+  .banner__stats .positive dd { color: var(--positive); }
+
+  /* ---------- controls ---------- */
+
+  .controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 18px;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+
+  .search {
+    flex: 1 1 320px;
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+  .search__label {
+    position: absolute;
+    left: 16px;
+    font-size: 10px;
+    letter-spacing: 0.3em;
+    color: var(--accent);
+    pointer-events: none;
+    font-weight: 600;
+  }
+  .search__kbd {
+    position: absolute;
+    right: 14px;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    color: var(--text-faint);
+    border: 1px solid var(--border-bright);
+    padding: 2px 6px;
+    pointer-events: none;
+    transition: opacity 0.15s;
+  }
+  .search input {
+    width: 100%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 2px solid var(--accent);
+    color: var(--text-bright);
+    font-family: var(--font-mono);
+    font-size: 14px;
+    padding: 13px 64px 13px 70px;
+    outline: none;
+    transition: border-color 0.18s, background 0.18s;
+  }
+  .search input:focus {
+    border-color: var(--border-bright);
+    border-left-color: var(--accent-glow);
+    background: var(--surface-2);
+  }
+  .search input:focus ~ .search__kbd { opacity: 0; }
+  .search input::placeholder { color: var(--text-faint); }
+
+  .filters {
+    display: flex;
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+  }
+  .chip {
+    background: var(--surface);
+    border: none;
+    color: var(--text-dim);
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    font-weight: 500;
+    padding: 12px 18px;
+    cursor: pointer;
+    transition: all 0.15s;
+    text-transform: uppercase;
+  }
+  .chip:hover { color: var(--text-bright); background: var(--surface-2); }
+  .chip.active {
+    background: var(--accent);
+    color: var(--bg);
+    font-weight: 700;
+  }
+
+  /* ---------- table ---------- */
+
+  .results {
+    border: 1px solid var(--border);
+    background: var(--surface);
+    overflow: hidden;
+    position: relative;
+  }
+
+  table.grid {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  .grid thead {
+    background: var(--surface-3);
+  }
+  .grid thead tr { border-bottom: 1px solid var(--border-bright); }
+
+  .grid th {
+    text-align: left;
+    font-weight: 500;
+    font-size: 10px;
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    padding: 14px 14px;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    position: relative;
+    transition: color 0.15s;
+  }
+  .grid th:hover { color: var(--accent); }
+  .grid th.num { text-align: right; }
+  .grid th.nosort { cursor: default; }
+  .grid th.nosort:hover { color: var(--text-faint); }
+
+  .grid th .arrow { display: inline-block; width: 12px; opacity: 0; transition: opacity 0.15s; }
+  .grid th[data-sort="asc"]  .arrow { opacity: 1; }
+  .grid th[data-sort="desc"] .arrow { opacity: 1; }
+  .grid th[data-sort] { color: var(--accent); }
+
+  .grid tbody tr {
+    border-bottom: 1px solid rgba(29,37,48,0.55);
+    transition: background 0.08s;
+  }
+  .grid tbody tr.row-main { cursor: default; }
+  .grid tbody tr.row-main.craftable { cursor: pointer; }
+  .grid tbody tr.row-main.craftable:hover { background: var(--surface-2); }
+  .grid tbody tr.row-main.expanded { background: var(--surface-2); }
+
+  .grid td {
+    padding: 10px 14px;
+    font-size: 13px;
+    font-variant-numeric: tabular-nums;
+    vertical-align: middle;
+  }
+  .grid td.num    { text-align: right; }
+  .grid td.dim    { color: var(--text-faint); }
+
+  .cell-item        { color: var(--text-bright); font-weight: 500; display: flex; flex-direction: column; gap: 2px; }
+  .cell-item__name  { color: var(--text-bright); font-weight: 500; }
+  .cell-item__id    { color: var(--text-faint); font-size: 10.5px; letter-spacing: 0.04em; }
+  .cell-item__row   { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+  .cell-sell        { color: var(--accent); }
+  .cell-profit.pos  { color: var(--positive); }
+  .cell-profit.neg  { color: var(--negative); }
+  .cell-profit.zero { color: var(--text-dim); }
+  .cell-qty         { color: var(--text-dim); }
+  .cell-qty::before { content: '× '; color: var(--text-faint); }
+
+  .badge {
+    display: inline-block;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    padding: 2px 6px;
+    border: 1px solid var(--border-bright);
+    color: var(--text-faint);
+    margin-left: 8px;
+    text-transform: uppercase;
+    vertical-align: middle;
+  }
+  .badge.craft  { color: var(--accent); border-color: var(--accent-deep); }
+  .badge.sel    { color: var(--positive); border-color: var(--positive); }
+  .badge.alt    { color: var(--text-dim); border-color: var(--border-bright); }
+
+  .detail__recipe + .detail__recipe {
+    margin-top: 16px;
+    padding-top: 14px;
+    border-top: 1px dashed var(--border);
+  }
+
+  .toggle {
+    background: transparent;
+    border: 1px solid var(--border-bright);
+    color: var(--text-dim);
+    font-family: inherit;
+    font-size: 11px;
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s;
+    line-height: 1;
+  }
+  .toggle:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+  .row-main.expanded .toggle {
+    background: var(--accent);
+    color: var(--bg);
+    border-color: var(--accent);
+  }
+
+  /* ---------- ingredient breakdown ---------- */
+
+  tr.row-detail td {
+    padding: 0;
+    background: var(--bg-deep);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .detail {
+    padding: 18px 22px 24px 32px;
+    border-left: 2px solid var(--accent);
+    animation: detail-in 0.18s ease-out;
+  }
+  @keyframes detail-in {
+    from { opacity: 0; transform: translateY(-4px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .detail__heading {
+    font-size: 10px;
+    letter-spacing: 0.32em;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    margin-bottom: 10px;
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .detail__heading .arrow { color: var(--accent); }
+  .detail__heading code {
+    color: var(--text);
+    background: var(--surface);
+    padding: 2px 8px;
+    border: 1px solid var(--border);
+    letter-spacing: 0.06em;
+    text-transform: none;
+    font-family: var(--font-mono);
+    font-size: 11px;
+  }
+
+  .detail__table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+  }
+  .detail__table th, .detail__table td {
+    padding: 6px 10px;
+    font-size: 12px;
+    text-align: left;
+    border-bottom: 1px dashed var(--border);
+    font-variant-numeric: tabular-nums;
+  }
+  .detail__table th {
+    color: var(--text-faint);
+    font-weight: 500;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    border-bottom-style: solid;
+  }
+  .detail__table .num { text-align: right; }
+  .detail__table .ing-name    { color: var(--text); }
+  .detail__table .ing-name.unpriced { color: var(--negative); }
+  .detail__table .ing-unit    { color: var(--accent); }
+
+  .detail__note {
+    font-size: 11px;
+    color: var(--text-faint);
+    letter-spacing: 0.05em;
+  }
+  .detail__note strong {
+    color: var(--negative);
+    font-weight: 500;
+  }
+
+  /* ---------- empty state ---------- */
+  .empty {
+    text-align: center;
+    padding: 80px 0;
+    color: var(--text-faint);
+    letter-spacing: 0.4em;
+    font-size: 12px;
+  }
+  .empty::before { content: '[ '; color: var(--accent); }
+  .empty::after  { content: ' ]'; color: var(--accent); }
+
+  /* ---------- footer ---------- */
+  footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+    padding-top: 16px;
+    border-top: 1px solid var(--border);
+    font-size: 10px;
+    color: var(--text-faint);
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  footer span:first-child::before { content: '◆ '; color: var(--accent); }
+
+  /* ---------- responsive ---------- */
+  @media (max-width: 920px) {
+    .banner {
+      grid-template-columns: 1fr;
+      gap: 28px;
+    }
+    .banner__stats {
+      grid-auto-flow: row;
+      grid-auto-columns: 1fr;
+      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+      border-left: none;
+      border-top: 1px solid var(--border);
+      padding-top: 14px;
+    }
+    .banner__stats > div { border-right: none; padding: 0 14px; border-left: 1px solid var(--border); }
+    .banner__stats > div:first-child { border-left: none; }
+  }
+</style>
+</head>
+<body>
+<div class="frame">
+
+  <header class="banner">
+    <div class="banner__title">
+      <div class="banner__meta">
+        <span>T-001 / price.matrix</span>
+        <span>· local data ·</span>
+        <span id="meta-rev">rev —</span>
+      </div>
+      <h1>recipes<span class="slash">/</span>prices</h1>
+      <p class="banner__subtitle">
+        aethus ·
+        <span>recipes & crafting margins</span>
+      </p>
+    </div>
+    <dl class="banner__stats">
+      <div>          <dt>Items</dt>     <dd id="stat-total">—</dd></div>
+      <div class="accent">   <dt>Sellable</dt>  <dd id="stat-sellable">—</dd></div>
+      <div>          <dt>Craftable</dt> <dd id="stat-craftable">—</dd></div>
+      <div class="positive"> <dt>Profitable</dt><dd id="stat-profit">—</dd></div>
+    </dl>
+  </header>
+
+  <section class="controls">
+    <div class="search">
+      <span class="search__label">QUERY</span>
+      <input type="search" id="q" placeholder="item · recipe · ingredient" autocomplete="off">
+      <span class="search__kbd">/</span>
+    </div>
+    <div class="filters">
+      <button class="chip" data-filter="craftable">Craftable</button>
+      <button class="chip" data-filter="sellable">Sellable</button>
+      <button class="chip" data-filter="profit">Profitable</button>
+    </div>
+  </section>
+
+  <section class="results">
+    <table class="grid">
+      <thead>
+        <tr>
+          <th class="sort" data-key="item">Item<span class="arrow"></span></th>
+          <th class="sort num" data-key="sell_price">Sell<span class="arrow"></span></th>
+          <th class="sort num" data-key="output_qty">Qty<span class="arrow"></span></th>
+          <th class="sort num" data-key="components_per_unit">Cost / unit<span class="arrow"></span></th>
+          <th class="sort num" data-key="profit_per_unit">Profit / unit<span class="arrow"></span></th>
+          <th class="nosort"></th>
+        </tr>
+      </thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <p class="empty" id="empty" hidden>NO MATCH</p>
+  </section>
+
+  <footer>
+    <span>pricing.html · static client</span>
+    <span><span id="data-count">0</span> rows visible / <span id="data-total">0</span> total</span>
+  </footer>
+</div>
+
+<script src="pricing-data.js"></script>
+<script>
+(function () {
+  'use strict';
+
+  // ---------- bootstrap ----------------------------------------------------
+  const payload = (window.PRICING_DATA && window.PRICING_DATA.items) || [];
+  if (!payload.length) {
+    document.getElementById('rows').innerHTML =
+      '<tr><td colspan="7" style="padding:40px;text-align:center;color:var(--negative);letter-spacing:.3em">'
+      + 'PRICING-DATA.JS NOT LOADED · run python tools/pricing.py</td></tr>';
+    return;
+  }
+  document.getElementById('meta-rev').textContent = 'rev ' + payload.length;
+  document.getElementById('data-total').textContent = payload.length;
+
+  // ---------- state --------------------------------------------------------
+  const state = {
+    query: '',
+    filters: new Set(),
+    sortKey: 'item',
+    sortDir: 'asc',
+    expanded: new Set(),
+  };
+
+  const FILTERS = {
+    craftable: d => d.is_craftable,
+    sellable:  d => d.sell_price != null,
+    profit:    d => d.profit_per_unit != null && d.profit_per_unit > 0,
+  };
+
+  // ---------- helpers ------------------------------------------------------
+  const $  = (s, c=document) => c.querySelector(s);
+  const $$ = (s, c=document) => Array.from(c.querySelectorAll(s));
+
+  const fmt = (n) => {
+    if (n == null) return '—';
+    if (typeof n !== 'number') return String(n);
+    const r = Math.round(n * 100) / 100;
+    return r.toLocaleString('en-US', { maximumFractionDigits: 2 });
+  };
+  const fmtSigned = (n) => {
+    if (n == null) return '—';
+    return (n > 0 ? '+' : '') + fmt(n);
+  };
+
+  function matchQuery(d, q) {
+    if (!q) return true;
+    if (d.item.toLowerCase().includes(q)) return true;
+    if (d.display_name && d.display_name.toLowerCase().includes(q)) return true;
+    if (d.recipe_id && d.recipe_id.toLowerCase().includes(q)) return true;
+    if (d.ingredients) {
+      for (const i of d.ingredients) {
+        if (i.name.toLowerCase().includes(q)) return true;
+        if (i.display_name && i.display_name.toLowerCase().includes(q)) return true;
+      }
+    }
+    if (d.unpriced_ingredients) {
+      for (const n of d.unpriced_ingredients) {
+        if (n.toLowerCase().includes(q)) return true;
+      }
+    }
+    return false;
+  }
+
+  function filterAndSort() {
+    const q = state.query.trim().toLowerCase();
+    const filters = Array.from(state.filters).map(f => FILTERS[f]);
+
+    const filtered = payload.filter(d => {
+      if (!matchQuery(d, q)) return false;
+      for (const fn of filters) if (!fn(d)) return false;
+      return true;
+    });
+
+    const dir = state.sortDir === 'asc' ? 1 : -1;
+    const key = state.sortKey;
+    // For the visible "item" column, prefer display_name so the sort order
+    // matches what the user actually sees.
+    const sortValue = (d) => key === 'item'
+      ? (d.display_name || d.item).toLowerCase()
+      : d[key];
+    filtered.sort((a, b) => {
+      let av = sortValue(a), bv = sortValue(b);
+      if (av == null && bv == null) return a.item.localeCompare(b.item);
+      if (av == null) return 1;
+      if (bv == null) return -1;
+      if (typeof av === 'string') return av.localeCompare(bv) * dir;
+      return (av - bv) * dir;
+    });
+    return filtered;
+  }
+
+  // ---------- stats --------------------------------------------------------
+  function updateStats(visible) {
+    $('#stat-total').textContent     = payload.length;
+    $('#stat-sellable').textContent  = payload.filter(FILTERS.sellable).length;
+    $('#stat-craftable').textContent = payload.filter(FILTERS.craftable).length;
+    $('#stat-profit').textContent    = payload.filter(FILTERS.profit).length;
+    $('#data-count').textContent     = visible.length;
+  }
+
+  // ---------- row rendering ------------------------------------------------
+  function profitClass(p) {
+    if (p == null) return 'zero';
+    if (p > 0) return 'pos';
+    if (p < 0) return 'neg';
+    return 'zero';
+  }
+
+  function renderRows(rows) {
+    const tbody = $('#rows');
+    const frag = document.createDocumentFragment();
+
+    rows.forEach(d => {
+      const expanded = state.expanded.has(d.item);
+      const tr = document.createElement('tr');
+      tr.className = 'row-main' + (d.is_craftable ? ' craftable' : '') + (expanded ? ' expanded' : '');
+      tr.dataset.item = d.item;
+      const primary = d.display_name || d.item;
+      const showId  = d.display_name && d.display_name !== d.item;
+      tr.innerHTML = `
+        <td>
+          <div class="cell-item">
+            <div class="cell-item__row">
+              <span class="cell-item__name">${escape(primary)}</span>
+              ${d.is_craftable ? '<span class="badge craft">CRAFT</span>' : ''}
+              ${d.unpriced_ingredients && d.unpriced_ingredients.length
+                  ? `<span class="badge" title="${escape(d.unpriced_ingredients.join(', '))}">+${d.unpriced_ingredients.length} unpriced</span>`
+                  : ''}
+            </div>
+            ${showId ? `<span class="cell-item__id">${escape(d.item)}</span>` : ''}
+          </div>
+        </td>
+        <td class="num ${d.sell_price != null ? 'cell-sell' : 'dim'}">${d.sell_price != null ? fmt(d.sell_price) : '—'}</td>
+        <td class="num ${d.output_qty != null ? 'cell-qty' : 'dim'}">${d.output_qty != null ? d.output_qty : '—'}</td>
+        <td class="num ${d.components_per_unit != null ? '' : 'dim'}">${d.components_per_unit != null ? fmt(d.components_per_unit) : '—'}</td>
+        <td class="num cell-profit ${profitClass(d.profit_per_unit)}">${d.profit_per_unit != null ? fmtSigned(d.profit_per_unit) : '—'}</td>
+        <td class="num">${d.is_craftable ? `<button class="toggle" aria-label="expand">${expanded ? '−' : '+'}</button>` : ''}</td>
+      `;
+
+      if (d.is_craftable) {
+        tr.addEventListener('click', () => toggle(d.item));
+      }
+
+      frag.appendChild(tr);
+
+      if (expanded && d.is_craftable) {
+        frag.appendChild(renderDetail(d));
+      }
+    });
+
+    tbody.replaceChildren(frag);
+    $('#empty').hidden = rows.length > 0;
+  }
+
+  function renderDetail(d) {
+    const tr = document.createElement('tr');
+    tr.className = 'row-detail';
+    const td = document.createElement('td');
+    td.colSpan = 7;
+
+    // Back-compat: synthesize a single-recipe array from top-level fields if
+    // older pricing-data.js is loaded.
+    const recipes = (d.recipes && d.recipes.length) ? d.recipes : [{
+      recipe_id:            d.recipe_id,
+      output_qty:           d.output_qty,
+      ingredients:          d.ingredients,
+      components_total:     d.components_total,
+      components_per_unit:  d.components_per_unit,
+      unpriced_ingredients: d.unpriced_ingredients || [],
+      selected:             true,
+    }];
+    const multi = recipes.length > 1;
+
+    td.innerHTML =
+      `<div class="detail">${recipes.map(r => renderRecipeBlock(d, r, multi)).join('')}</div>`;
+    tr.appendChild(td);
+    return tr;
+  }
+
+  function renderRecipeBlock(item, r, multi) {
+    const ingredientsHtml = (r.ingredients || []).map(i => {
+      const unpriced = i.unit_price == null;
+      const primary  = i.display_name || i.name;
+      const showId   = i.display_name && i.display_name !== i.name;
+      return `
+        <tr>
+          <td class="ing-name ${unpriced ? 'unpriced' : ''}">
+            ${escape(primary)}
+            ${showId ? `<span class="cell-item__id" style="margin-left:8px">${escape(i.name)}</span>` : ''}
+          </td>
+          <td class="num">× ${i.qty}</td>
+          <td class="num ${unpriced ? 'dim' : 'ing-unit'}">${unpriced ? '—' : fmt(i.unit_price)}</td>
+          <td class="num ${unpriced ? 'dim' : ''}">${unpriced ? '—' : fmt(i.subtotal)}</td>
+        </tr>
+      `;
+    }).join('');
+
+    const showProfit = r.selected && item.profit_per_unit != null;
+    const summary = r.components_total != null
+      ? `<span>Σ components = <strong style="color:var(--text)">${fmt(r.components_total)}</strong></span>
+         <span>per unit = <strong style="color:var(--text)">${fmt(r.components_per_unit)}</strong></span>
+         ${showProfit
+           ? `<span>margin = <strong style="color:var(--${profitClass(item.profit_per_unit) === 'pos' ? 'positive' : profitClass(item.profit_per_unit) === 'neg' ? 'negative' : 'text-dim'})">${fmtSigned(item.profit_per_unit)}</strong></span>`
+           : ''}`
+      : (r.unpriced_ingredients && r.unpriced_ingredients.length
+          ? `<span><strong>${r.unpriced_ingredients.length}</strong> input${r.unpriced_ingredients.length === 1 ? '' : 's'} have no sell value &mdash; full cost unknown</span>`
+          : '');
+
+    const badge = multi
+      ? (r.selected
+          ? '<span class="badge sel">SELECTED</span>'
+          : '<span class="badge alt">ALT</span>')
+      : '';
+
+    return `
+      <div class="detail__recipe">
+        <div class="detail__heading">
+          <span>Recipe</span>
+          <code>${escape(r.recipe_id || '')}</code>
+          ${badge}
+          <span class="arrow">→</span>
+          <code>${escape(item.item)}</code>
+          <span>× ${r.output_qty ?? 1}</span>
+        </div>
+        <table class="detail__table">
+          <thead>
+            <tr>
+              <th>Input</th>
+              <th class="num">Qty</th>
+              <th class="num">Unit value</th>
+              <th class="num">Subtotal</th>
+            </tr>
+          </thead>
+          <tbody>${ingredientsHtml}</tbody>
+        </table>
+        <div class="detail__note">${summary}</div>
+      </div>
+    `;
+  }
+
+  function escape(s) {
+    return String(s)
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;');
+  }
+
+  // ---------- interactions -------------------------------------------------
+  function render() {
+    const visible = filterAndSort();
+    renderRows(visible);
+    updateStats(visible);
+    updateSortIndicators();
+  }
+
+  function toggle(item) {
+    if (state.expanded.has(item)) state.expanded.delete(item);
+    else state.expanded.add(item);
+    render();
+  }
+
+  function updateSortIndicators() {
+    $$('.sort').forEach(th => {
+      th.removeAttribute('data-sort');
+      const arrow = th.querySelector('.arrow');
+      if (arrow) arrow.textContent = '';
+      if (th.dataset.key === state.sortKey) {
+        th.dataset.sort = state.sortDir;
+        if (arrow) arrow.textContent = state.sortDir === 'asc' ? '▴' : '▾';
+      }
+    });
+  }
+
+  // search
+  $('#q').addEventListener('input', e => {
+    state.query = e.target.value;
+    render();
+  });
+
+  // filters
+  $$('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      const f = chip.dataset.filter;
+      if (state.filters.has(f)) { state.filters.delete(f); chip.classList.remove('active'); }
+      else                       { state.filters.add(f);     chip.classList.add('active'); }
+      render();
+    });
+  });
+
+  // sort headers
+  $$('.sort').forEach(th => {
+    th.addEventListener('click', () => {
+      const key = th.dataset.key;
+      if (state.sortKey === key) {
+        state.sortDir = state.sortDir === 'asc' ? 'desc' : 'asc';
+      } else {
+        state.sortKey = key;
+        // default numeric columns to descending (most-interesting-first)
+        state.sortDir = th.classList.contains('num') ? 'desc' : 'asc';
+      }
+      render();
+    });
+  });
+
+  // keyboard: '/' focuses search, Esc clears it
+  document.addEventListener('keydown', (e) => {
+    if (e.key === '/' && document.activeElement !== $('#q')) {
+      e.preventDefault();
+      $('#q').focus();
+      $('#q').select();
+    } else if (e.key === 'Escape' && document.activeElement === $('#q')) {
+      $('#q').value = '';
+      state.query = '';
+      render();
+      $('#q').blur();
+    }
+  });
+
+  // initial paint
+  render();
+})();
+</script>
+</body>
+</html>

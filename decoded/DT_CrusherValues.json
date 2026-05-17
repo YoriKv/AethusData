@@ -1,0 +1,44 @@
+{
+  "rows": {
+    "Copper": {
+      "CrushAmountNeededToSpawn_21_5F739E2E4551ADFD4265698C1A4C369D": 5,
+      "PickablesToSpawn_20_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "c0cab1909c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Dirt": {
+      "CrushAmountNeededToSpawn_21_5F739E2E4551ADFD4265698C1A4C369D": 5,
+      "PickablesToSpawn_20_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "0053232e9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    },
+    "Stone": {
+      "CrushAmountNeededToSpawn_21_5F739E2E4551ADFD4265698C1A4C369D": 5,
+      "PickablesToSpawn_20_A8B9441B47FF739A3B241F92EA333421": {
+        "_raw_hex": "00c8d8a69c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "CrushAmountNeededToSpawn_21_5F739E2E4551ADFD4265698C1A4C369D",
+      "off": 0,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PickablesToSpawn_20_A8B9441B47FF739A3B241F92EA333421",
+      "off": 8,
+      "size": 80,
+      "type": "MapProperty"
+    }
+  ],
+  "size": 88,
+  "struct": "S_CrusherValues",
+  "table": "DT_CrusherValues"
+}

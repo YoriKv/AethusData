@@ -1,0 +1,33 @@
+{
+  "rows": {
+    "BuildingFacilities_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "BuildingFacilities_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "((\"IP_Tutorial_BuildingFacilities_Complete\", True))",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Construction",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "BuildingFacilities_2",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "((\"IP_Tutorial_BuildingFacilities_Complete\", False))",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Primary_OW_Intro_ClearTheArea\", NewEnumerator2),(\"Task_Primary_OW_Intro_BuildMakeshiftSmelter\", NewEnumerator1))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"E98C54474B374D70AD4513A199FF3A0F\", \"Build Mode\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"B80ADB0A4F30E1150AE7D6B8707EAA96\", \"Building the <Important>Outpost</> is done using <Important>Build Mode</>.\\r\\n\\r\\nYou can open <Important>Build Mode</> with <Cyan>(B)</> to view available construction categories.\\r\\n\\r\\n<Important>Facilities</> are a type of construction which can perform various tasks - allowing you to refine materials, craft or store items, purchase new building plans, and more.\\r\\n\\r\\nTo get the <Important>Outpost</> started, you will need to construct a <Facility>Makeshift Smelter</> using the <Item>Metal Scrap</> you can gather around you.\\r\\n\\r\\n\\r\\nOnce you have picked up at least three scrap, open <Important>Build Mode</> and turn to the next page.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "BuildingFacilities_2": {
+      "ID_7_36191F704728C859262071AAE60BE053": "BuildingFacilities_2",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "BuildingFacilities_1",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"48D59C824E7104CB47725788072B10A7\", \"First Smelter\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"C70FBA814D6F0232A8A0C68ADB57E143\", \"With <Important>Build Mode</> active, select the <Important>Facilities</> category and then select the <Facility>Makeshift Smelter</>.\\r\\n\\r\\nWhen you select something for construction, a <Important>\\'Ghost\\'</> of that object will appear in the world at your cursor location. It can be rotated with <img id=\\\"MMB\\\"/> <Cyan>(MMB Scroll)</>.\\r\\n\\r\\nIt will glow <Important>blue</> when in a <Important>valid location</> and <Important>orange</> when it <Important>cannot be built</>.\\r\\n\\r\\nYou can see the cost of the construction by hovering over its icon. \\r\\n\\r\\n\\r\\nWith the <Facility>Makeshift Smelter</> selected, use <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> to place it at a clear location when the <Important>\\'Ghost\\'</> is valid (blue).\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "/Script/MediaAssets.FileMediaSource'/Game/Movies/splashvideo.splashvideo'"
+    }
+  },
+  "table": "DT_Tutorials_BuildingFacilities"
+}

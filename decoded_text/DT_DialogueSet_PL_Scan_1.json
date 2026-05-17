@@ -1,0 +1,41 @@
+{
+  "rows": {
+    "NewRow_1": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Trudy/Oct25/DT_DialogueSet_Pl_Claim_Scan_1_1_1.DT_DialogueSet_Pl_Claim_Scan_1_1_1'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"534A8F714CC7CE89FE1C18B10691B233\", \"Everything looking OK? That\\'s great. Now, there should be a crate containing the arming key nearby. The code is 1992.\")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "((\"IP_Has_PL_Key\", False))",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "((\"IP_Dialogue_PL_Scan_1_Complete\", True))",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "False",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator2",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "((\"Task_Primary_PL_6\", NewEnumerator2),(\"Task_Primary_PL_7\", NewEnumerator1))",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    },
+    "NewRow_2": {
+      "AchievementToTrigger_68_835137E74BC539A386BD80A4F1EDBF47": "",
+      "CraftingRecipeToUnlock_63_1CD092944B18B837191688A9601C331F": "None",
+      "CreditsToAdd_40_3D0A1C8B4368F62361047CB4BF00306B": "0",
+      "DialogueAudio_4_E29DE7BE4E6FC9305309A0BB1B5AF65D": "/Script/Engine.SoundWave'/Game/StrikeTheEarth/Audio/Dialogue/Trudy/Oct25/DT_DialogueSet_Pl_Claim_Scan_1_2_1.DT_DialogueSet_Pl_Claim_Scan_1_2_1'",
+      "DialogueText_10_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"BD9CA4B94C90A8AF94A3C3B9626E24C9\", \"Everything looking OK? That\\'s great. Now, use the key to arm the charges. \")",
+      "InfoportionRequirements_28_361F4D6B476653206A17849EBE1F42F3": "((\"IP_Has_PL_Key\", True))",
+      "InfoportionsToSet_19_F3CEC1734ED5DFFD1E1C3087F2E00348": "((\"IP_Dialogue_PL_Scan_1_Complete\", True))",
+      "JournalEntryToAdd_43_36DF753B4BE2FE20540716B6BCF44533": "None",
+      "JournalEntryType_46_8A7166A64960DA6E64619E908B58A2BC": "NewEnumerator0",
+      "PlaceablesToUnlock_32_18B696084BB53E5626641CABDE456B99": "",
+      "PlayerDialogue_1_14CDE93F42BD8BF93C5C6881A43D0F67": "False",
+      "RecordDialogue_65_E50859714B09E962A29FA1889AC705AF": "False",
+      "Speaker_36_89ED888F4AEC9D75F85E1E916D783393": "NewEnumerator2",
+      "TaskStatesToSet_59_1834718F49C42D97960514908585BFB7": "((\"Task_Primary_PL_6\", NewEnumerator2),(\"Task_Primary_PL_8\", NewEnumerator1))",
+      "TutorialIDToPush_49_090D89AD47BDBE905171749E514A8665": "None",
+      "TutorialToPush_14_2E68018D412A7410516B3CB4952C46FB": "NewEnumerator5"
+    }
+  },
+  "table": "DT_DialogueSet_PL_Scan_1"
+}

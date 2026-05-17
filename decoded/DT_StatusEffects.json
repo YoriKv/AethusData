@@ -1,0 +1,938 @@
+{
+  "rows": {
+    "SE_AirDecreasing": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "4063159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648253,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483125888
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "6063159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_AirIncreasing": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "8063159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648262,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483125888
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a0c783369c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_CoolantShield": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c06b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648271,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067656448
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e06b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_Dehydrated": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "0068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648280,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240132224
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "2068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_Drunk": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c06c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648288,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483147008
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 300.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e06c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 0
+    },
+    "SE_EMField": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "4073159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648293,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943975040
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "6073159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_Energised_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "806a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648299,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943969664
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a06a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_Energised_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c06a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648307,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943969664
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e06a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 3
+    },
+    "SE_Energised_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "006b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648315,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943969664
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "206b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_EnergyDrink": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "006c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648323,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943969664
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 600.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "206c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_HeatDrink": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "8073159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648331,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943969664
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 300.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "606b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_Hydrated_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "4068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648338,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240132224
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "6068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_Hydrated_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "8068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648346,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240132224
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 3
+    },
+    "SE_Hydrated_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648354,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240132224
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e068159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_InOutpost": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "806c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648393,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067642624
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a06c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_Injector_Health": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "406f159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648362,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631048704
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 10.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "606f159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_Injector_Speed": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c06e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648372,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631048704
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 1200.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e06e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_Injector_Strength": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "006f159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648382,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631048704
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 1200.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "206f159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_Malnourished": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "0069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648400,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240122624
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "2069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_Mesmerized": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c072159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648409,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865370496
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e072159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_MycelialSpores": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "406e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648417,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865372800
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "606e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_MycelialVaccine": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "006e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648427,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865372800
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 900.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "206e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_Overencumbered": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "006a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648437,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067598848
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "206a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_OxygenPoisoning": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "806c7f6b9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648447,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631010304
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "209d7f6b9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_OxygenWithdrawal": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "806e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648457,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2870623956224
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 300.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a06e159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_PassingOut": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "0073159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648468,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747074176
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 300.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "2073159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_RadShield": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "806b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648476,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871514914304
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a06b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_Sleepy": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c06d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648483,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320284288
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e06d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_Sleepy_Mild": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "806d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648489,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320284288
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a06d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 0
+    },
+    "SE_SpeedTabs": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "406c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648497,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320273536
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 60.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "606c159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_Strengthened_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "4069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648504,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240122624
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "6069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_Strengthened_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "8069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648514,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240122624
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 3
+    },
+    "SE_Strengthened_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648524,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240122624
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e069159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_Suffocating": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "406b159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648534,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747074176
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "2063159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_SuitOvercharge_L": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "4067159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648542,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320311936
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 180.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "6067159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    },
+    "SE_SuitOvercharge_M": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "8067159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648553,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320311936
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 120.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "a067159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 3
+    },
+    "SE_SuitOvercharge_S": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "c067159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648564,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320311936
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 60.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "e067159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_Tired": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "406a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648575,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549141376
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 0.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "606a159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 1
+    },
+    "SE_WellRested": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "406d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648580,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030692608
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 300.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "606d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 2
+    },
+    "SE_WellRested_Bonus": {
+      "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E": {
+        "_raw_hex": "006d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8": {
+        "_type": "FName",
+        "comp_idx": 1648588,
+        "number": 0
+      },
+      "Icon_13_9525093A4472BF0EF2BCC982369C1172": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030692608
+      },
+      "Length_10_7745F88E4C7857CC6837DEA064FD780B": 600.0,
+      "Name_5_6C15D1BC4BC53F166CCD00937EE1B112": {
+        "_raw_hex": "206d159d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Priority_19_28CF4F374C03AA632E814A91E65FD4F4": 0,
+      "Type_16_10F26F764EAE108859FAA990FCA833EF": 4
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "ID_2_544E1ED04E0DAC36A159FD9FEEE461A8",
+      "off": 0,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Name_5_6C15D1BC4BC53F166CCD00937EE1B112",
+      "off": 8,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Description_7_AA2406D64EAFF3121B8AC5BA98609B3E",
+      "off": 24,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Length_10_7745F88E4C7857CC6837DEA064FD780B",
+      "off": 40,
+      "size": 8,
+      "type": "DoubleProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Icon_13_9525093A4472BF0EF2BCC982369C1172",
+      "off": 48,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Type_16_10F26F764EAE108859FAA990FCA833EF",
+      "off": 56,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Priority_19_28CF4F374C03AA632E814A91E65FD4F4",
+      "off": 60,
+      "size": 4,
+      "type": "IntProperty"
+    }
+  ],
+  "size": 64,
+  "struct": "S_StatusEffect",
+  "table": "DT_StatusEffects"
+}

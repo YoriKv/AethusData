@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "TimeOfDay_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "TimeOfDay_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "((\"IP_Tutorial_TimeOfDay_Complete\", True))",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_TimeOfDay",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "(\"Bed_1\")",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "((\"IP_Tutorial_TimeOfDay_Complete\", False))",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Primary_OW_Intro_CoreHabBuild\", NewEnumerator2),(\"Task_Primary_OW_Intro_BedBuild\", NewEnumerator1))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"46029EED4527B5DB2064F5974B2E53DE\", \"Time of Day\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"781E3C944B8DAF52877E979B94DCA4CE\", \"Time passes slowly on <Important>Meridian</>, but day will eventually turn to night as the sun sets.\\r\\nThe current <Important>Time of Day</> is displayed in the lower-left of the screen.\\r\\n\\r\\nAs darkness descends, it will naturally become <Important>more difficult</> to expand your <Important>Outpost</>.\\r\\n\\r\\nYou can use <Facility>Beds</> to <Important>Sleep</> and pass the time to a desired section of the day.\\r\\n\\r\\nUsing the knowledge you\\'ve gained so far, construct a <Facility>Bed</> within your <Facility>Makeshift Habitat</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_TimeOfDay"
+}

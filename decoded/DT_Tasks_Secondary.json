@@ -1,0 +1,2777 @@
+{
+  "rows": {
+    "Task_Secondary_ARC_0": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40d304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629386,
+        "number": 1
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572256,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80d304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_ARC_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40d204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629386,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572192,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80d204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_ARC_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40d104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629386,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572128,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80d104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_ARC_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40d004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629386,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237871552,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80d004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_ARC_4": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00cf04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629386,
+        "number": 5
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572064,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40cf04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_ARC_5": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80de04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629386,
+        "number": 6
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572032,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0de04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_ARC_6": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80dd04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629386,
+        "number": 7
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571968,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0dd04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_BuildKits": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0d904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629396,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806016,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00da04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_ExpeditionHub": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00d904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629409,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806000,
+        "max": 2,
+        "num": 2
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237871264,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40d904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_KMC_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0e504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629424,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805968,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00e604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_KMC_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00e504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629424,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673573824,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40e504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_KMC_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00e404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629424,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805952,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40e404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40c304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629434,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805168,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80c304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_1a": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40cd04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629452,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806144,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80cd04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80c204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629434,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572736,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0c204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80c104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629434,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805152,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0c104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_4": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0c004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629434,
+        "number": 5
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237872032,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00c104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_4a": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80bf04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629471,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805136,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0bf04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_5": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0be04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629434,
+        "number": 6
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805120,
+        "max": 2,
+        "num": 2
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237871888,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00bf04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Lambda_Discover_6": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00ce04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629434,
+        "number": 7
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805104,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40ce04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0cb04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629490,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806112,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00cc04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00cb04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629490,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237871696,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40cb04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_2a": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0c904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629506,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806096,
+        "max": 2,
+        "num": 1
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572608,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00ca04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_2b": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0c804839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629523,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806080,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00c904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_2c": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00c804839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629540,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806064,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40c804839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40c704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629490,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572480,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80c704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_4": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40c604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629490,
+        "number": 5
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572416,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80c604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Mu_Discover_5": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0d504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629490,
+        "number": 6
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572352,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00d604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_MycelialVaccine_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0b504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629557,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805200,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00b604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_MycelialVaccine_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80c504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629557,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805184,
+        "max": 2,
+        "num": 2
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237872320,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0c504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_MycelialVaccine_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40c404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629557,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572768,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80c404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_SporeArea_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80b604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629575,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805216,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0b604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_TearPaper_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0d404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629590,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806048,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00d504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_TearPaper_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00d404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629590,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806032,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40d404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_LW_Theta_Discover_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80cc04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629605,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237806128,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0cc04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_MinorDrives": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00db04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629622,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237871408,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40db04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_CliffbaseExtractor": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80bb04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629636,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805296,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 95,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0bb04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_CliffbaseRepair": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80bc04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629655,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572864,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0bc04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_ClifftopPowerUp": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80bd04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629673,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572896,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 97,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0bd04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_ConstructCraterFacilityClimber_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40b904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629691,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805248,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80b904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_ConstructCraterFacilityClimber_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80b804839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629691,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237872512,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0b804839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_ConstructCraterFacilityClimber_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40b704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629691,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805232,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80b704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_Crate_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80b504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629716,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805408,
+        "max": 2,
+        "num": 1
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571168,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 0,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40a504839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_FindBackEntrance_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0ba04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629729,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805280,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00bb04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_FindGoldDrillSite_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00ba04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629747,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805264,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40ba04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OC_SideEntrance_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40ae04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629766,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673572960,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 98,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80ae04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_BuildCommsAntenna": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80b004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629782,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805344,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 99,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0b004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_BuildDronePod": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00af04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629801,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805312,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 99,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40af04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_BuildRTG": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80b404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629818,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571104,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 99,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0b404839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_BuildTradeNode": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40b104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629832,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805360,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 99,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80b104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_ConstructCrusherAndSmelter": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80b204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629849,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805376,
+        "max": 2,
+        "num": 2
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237869632,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 98,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0b204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_ConstructPrinter": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80b304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629872,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805392,
+        "max": 2,
+        "num": 1
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571040,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 98,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0b304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_Crate_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00a604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629890,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571200,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 0,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40a604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_FirstUpgrade": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0af04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629903,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805328,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 99,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00b004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_StorageTutorial": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0a604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629919,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805424,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 2,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00a704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_VitalityTutorial_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0a904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629937,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805472,
+        "max": 2,
+        "num": 1
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571328,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 99,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00aa04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_VitalityTutorial_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0a804839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629937,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805456,
+        "max": 2,
+        "num": 2
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237869824,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 1,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00a904839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_OM_VitalityTutorial_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80a704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629937,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805440,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 99,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0a704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Omicron_Climber_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40e304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629955,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805936,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80e304839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Omicron_Climber_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80e204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629955,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805920,
+        "max": 2,
+        "num": 2
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237871216,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0e204839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_PL_GetKeycard_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "00ad04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629971,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571520,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 0,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "40ad04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_PL_MineNode_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0ab04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629986,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571456,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 0,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00ac04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_PL_MineNode_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0aa04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1629986,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673571392,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 0,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00ab04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Rho_Drive": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80dc04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1630000,
+        "number": 0
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237871456,
+        "max": 3,
+        "num": 3
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0dc04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Spring26_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40e104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1630013,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673573664,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80e104839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Spring26_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40e004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1630013,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673573600,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80e004839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Spring26_3": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "40df04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1630013,
+        "number": 4
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673573536,
+        "max": 2,
+        "num": 2
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "80df04839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Tau_Rods_1": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "c0d704839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1630026,
+        "number": 2
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871673573952,
+        "max": 4,
+        "num": 3
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871236286336,
+        "max": 4,
+        "num": 4
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "00d804839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    },
+    "Task_Secondary_Tau_Rods_2": {
+      "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6": {
+        "_raw_hex": "80e604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "ID_2_DAF8D3C44D7CF591C642E79886670EEB": {
+        "_type": "FName",
+        "comp_idx": 1630026,
+        "number": 3
+      },
+      "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "Objectives_24_84A1100C4D55394BDB46728B17F77804": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871237805984,
+        "max": 1,
+        "num": 1
+      },
+      "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C": 0,
+      "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A": 96,
+      "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000800bb45d9c0200000000000000000000",
+        "_type": "StructProperty"
+      },
+      "TimedTask_41_40E1903448B7C28F5580BF832FFEB089": false,
+      "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3": {
+        "_raw_hex": "c0e604839c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Type_19_1460127A4012720AEBC1D89EB271BA08": 1
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "ID_2_DAF8D3C44D7CF591C642E79886670EEB",
+      "off": 0,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Type_19_1460127A4012720AEBC1D89EB271BA08",
+      "off": 8,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Title_5_2D90B4A64EEECE8C2022B7BFC4A044F3",
+      "off": 16,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "DescriptionShort_7_C96E292E4794E943A7EF9D91EAA5BFE6",
+      "off": 32,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "DescriptionLong_9_A9B3F9DE4D4A9A8519C34FABD5650F50",
+      "off": 48,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Objectives_24_84A1100C4D55394BDB46728B17F77804",
+      "off": 64,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "ObjectiveCompleteInfoportions_37_166BC6054F07E36B65A932A34DF7339C",
+      "off": 80,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PrimaryTaskOrdering_27_752CF67646BA09920CDBC9873223F02C",
+      "off": 96,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "SecondaryTaskPriority_30_FE6623F94A733519832DEEA921C5739A",
+      "off": 100,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TimedTask_41_40E1903448B7C28F5580BF832FFEB089",
+      "off": 104,
+      "size": 1,
+      "type": "BoolProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TimedTaskData_42_42228DD84950870E596544A1A1E37F5D",
+      "off": 112,
+      "size": 40,
+      "type": "StructProperty"
+    }
+  ],
+  "size": 152,
+  "struct": "S_Task",
+  "table": "DT_Tasks_Secondary"
+}

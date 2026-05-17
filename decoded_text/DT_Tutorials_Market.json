@@ -1,0 +1,47 @@
+{
+  "rows": {
+    "Market_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Market_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Market_2",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"2E4CC00548118AE2D75D30A0F4E08598\", \"The Market\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"4B5A0DF347E7156978C113934037A697\", \"You\\'ve unlocked the ability to access the <Important>ARC Market</>! You can do so through the <Facility>Trade Node</>.\\r\\n\\r\\nThe <Important>ARC Planetary Exchange Network</> - the <Important>Market</> - allows you to sell resources you\\'ve gathered for <Credits>Credits</> <img id=\\\"Credits\\\"/>, and use those <Credits>Credits</> <img id=\\\"Credits\\\"/> to purchase <Important>Construction Blueprints</> for your <Important>Outpost</> as well as new <Important>Crafting Plans</>.\\r\\n\\r\\nThe <Facility>Trade Node</> is the first of the <Important>Facilities</> that can access the <Important>Market</>.\\r\\nMore advanced <Important>Facilities</> allow access to purchase more advanced <Important>Blueprints</> and <Important>Plans</>.\\r\\n\\r\\n<Important>Interact</> <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with the <Facility>Trade Node</> and select the <Important>\\'Open Market\\'</> button to open the <Important>Market Panel</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Market_2": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Market_2",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Market_3",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Market_1",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"7694BD824C0A551BCB44CCA401B2ED2E\", \"How to Sell\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"19400F134F7BFD5EA81487ACE68B2DFC\", \"Items and resources that you are carrying are shown in the list on the <Important>right side</> of the <Important>Market Panel</>.\\r\\n\\r\\nYou can use the <Important>+ and - buttons</> to select how many of each type of item you\\'d like to <Important>Sell</> to <Important>ARC</>.\\r\\n\\r\\nClicking <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> the item button itself will select <Important>all of that item</> for sale, and clicking it again will <Important>deselect</> all of that item.\\r\\n\\r\\nAll selected items, and their total value, are shown in the <Important>central panel</>.\\r\\n\\r\\nUse the <Important>\\'SELL\\'</> button to sell all selected items to <Important>ARC</> and gain the indicated amount of <Credits>Credits</> <img id=\\\"Credits\\\"/>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Market_3": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Market_3",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Market_2",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"D9CB38044553DB4A0ECAA29AA895CEF8\", \"How to Buy\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"6A566CBB46547934B2CC15ABCE22FD8C\", \"The <Important>left side</> of the <Important>Market Panel</> contains <Important>Crafting Plans</> and <Important>Construction Blueprints</>.\\r\\n\\r\\nClicking <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> the relevant header button for each <Important>category</> will display those items that are available for sale in a list.\\r\\n\\r\\nClicking <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> an item will <Important>select</> it for purchase, and display information about it as well as its cost in <Credits>Credits</> <img id=\\\"Credits\\\"/> in the central panel.\\r\\n\\r\\nYou can filter for specific items using the search box above the category buttons.\\r\\n\\r\\nUse the <Important>\\'PURCHASE\\'</> button to purchase the selected <Important>Plan</> or <Important>Blueprint</>, for the indicated amount of <Credits>Credits</> <img id=\\\"Credits\\\"/>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Market"
+}

@@ -1,0 +1,61 @@
+{
+  "rows": {
+    "MiningAndRefining_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "MiningAndRefining_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "((\"IP_Tutorial_MiningAndRefining_Complete\", True))",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Refining",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "MiningAndRefining_2",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "(\"Habitat_Makeshift\")",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "((\"IP_Tutorial_MiningAndRefining_Complete\", False))",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Primary_OW_Intro_BuildMakeshiftSmelter\", NewEnumerator2),(\"Task_Primary_OW_Intro_CoreHabBuild\", NewEnumerator1))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"D5FFB6564A3B03C665D489ACD0B45505\", \"Refining\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"81196D75454CFE70FBD2D2BDFAA44341\", \"<important>Refining</> allows you to turn resources into others - the <Facility>Makeshift Smelter</> will refine <Item>Scrap</> into <Item>Building Materials</>.\\r\\n\\r\\nInteracting <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with some objects, like the <Facility>Smelter</>, will open the <important>Info Panel</>.\\r\\nIt can be closed with <img id=\\\"RMB\\\"/> <Cyan>(RMB)</>.\\r\\n\\r\\nThis <important>Facility</> will produce one unit of <Item>Building Materials</> for every two units of <Item>Scrap</> deposited, as well as one unit of <Item>Biomass</> for fuel, as shown in the <important>Refining</> element of the <important>Info Panel</>.\\r\\n\\r\\n\\r\\nPress <Important>Next</> to learn how to use the <Important>Hotbar</>, the first step towards getting items into the <Facility>Smelter</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "MiningAndRefining_2": {
+      "ID_7_36191F704728C859262071AAE60BE053": "MiningAndRefining_2",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "MiningAndRefining_3",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "MiningAndRefining_1",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"3F37AF0D4FDECCDF95D1419AB4A9D6E1\", \"Hotbar\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"EE79A51D44D58544337C1D903187DEF4\", \"The <Important>Hotbar</> is located along the bottom of the screen.\\r\\nYou can assign items to your <Important>Hotbar</> in your <Important>Inventory</> to <important>throw</> them.\\r\\n\\r\\nPress a number key <Cyan>(1-9)</> while hovering over an item to assign it to that <Important>Slot</>.\\r\\nUse that number key to then select that <Important>Hotbar Slot</>.\\r\\n\\r\\nYou can also scroll through <Important>Hotbar Slots</> with <img id=\\\"MMB\\\"/> <Cyan>(MMB Scroll)</>.\\r\\n\\r\\nWith a filled <Important>Hotbar Slot</> selected, you can throw the item towards the mouse cursor location with <Cyan>(R)</>.\\r\\n\\r\\nHolding <Cyan>(R)</> throws repeatedly, and throwing speed increases over time.\\r\\n\\r\\n\\r\\nPress <Important>Next</> to learn how to get items into the <Facility>Smelter</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "/Script/MediaAssets.FileMediaSource'/Game/Movies/splashvideo.splashvideo'"
+    },
+    "MiningAndRefining_3": {
+      "ID_7_36191F704728C859262071AAE60BE053": "MiningAndRefining_3",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "MiningAndRefining_4",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "MiningAndRefining_2",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"A01EE4FC44A8117B549B6B85CFE4768C\", \"Intakes\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"61645CCA405A2741360D5C9F2AE6514E\", \"To add items to a <Important>Facility</> you will need to use its <Important>Intake</>.\\r\\n\\r\\nThese often look like open boxes attached to the <Important>Facility</> - in the case of the <Facility>Smelter</>, you just need to drop items directly into it.\\r\\n\\r\\nPutting items into an <Important>Intake</> adds them to the <Important>Facility\\'s Inventory</>, where they will be processed in the selected <Important>Refining Recipe</> when the requirements have been met.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "/Script/MediaAssets.FileMediaSource'/Game/Movies/splashvideo.splashvideo'"
+    },
+    "MiningAndRefining_4": {
+      "ID_7_36191F704728C859262071AAE60BE053": "MiningAndRefining_4",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "MiningAndRefining_3",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"6E918F084E2076CF571369B13DD3DE1A\", \"Refining Recipes\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"2F8909A041DF6C5C31A43C81D3174669\", \"<Important>Facilities</> may have multiple <Important>Refining Recipes</> available, and you will unlock new <Important>Recipes</> during the course of the game. \\r\\n\\r\\nYou can select your desired <Important>Recipe</> from the scrollable list - for the <Facility>Smelter</> though, there is currently only one <Important>Recipe</> available.\\r\\n\\r\\n\\r\\nYou can take an item from a <Important>Facility</> by clicking its icon <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> in the <Important>Inventory</> section of the <Important>Info Panel</>.\\r\\n\\r\\n\\r\\nDeposit at least two <Item>Scrap</> into the <Important>Intake</>, along with one <Item>Biomass</>, and then pick up the <Item>Building Materials</> that are created to progress.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "/Script/MediaAssets.FileMediaSource'/Game/Movies/splashvideo.splashvideo'"
+    }
+  },
+  "table": "DT_Tutorials_MiningAndRefining"
+}

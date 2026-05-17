@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Snapping_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Snapping_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Snapping",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "(\"Platform_S_Ramp\")",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"97D118A54D82F8840CBC169E47CD9F28\", \"Snapping\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"71E0A62C44D1EA4756A3C7BE66528935\", \"You\\'ll need to build an <Facility>Access Platform</> to get up to your new <Facility>Basic Habitat</>.\\r\\n\\r\\nConstructions like <Important>Habitats</> and <Important>Platforms</> will <Important>\\'snap\\'</> to certain locations on others, like doorways, so that you can <Important>easily connect them together</>.\\r\\n\\r\\nIn this way, you can create an interconnected set of <Important>Habitats</>!\\r\\n\\r\\nTry hovering the <Important>\\'ghost\\'</> of an <Facility>Access Platform</> over the door of your new <Facility>Basic Habitat</> to see this in action.\\r\\n\\r\\nIf you need to move any of your existing <Important>Habitats</> or <Important>Facilities</>, you can use the <Important>Modify</> function of <Important>Build Mode</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Snapping"
+}

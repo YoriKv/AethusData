@@ -1,0 +1,230 @@
+{
+  "rows": {
+    "AetheriumChunk_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593760,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.1
+    },
+    "CavernMushroom_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836594256,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3
+    },
+    "CavernMushroom_OC_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836594048,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3
+    },
+    "CavernMushroom_OC_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836594032,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3
+    },
+    "Egg_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593984,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.4
+    },
+    "HotSprings_Plant_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836594016,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.45
+    },
+    "HotSprings_Plant_OC_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836594000,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.45
+    },
+    "Lifeshroom_LW_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593936,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Lifeshroom_LW_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593920,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Lifeshroom_LW_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593904,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Mouldshroom_LW_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593888,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.15
+    },
+    "Mouldshroom_LW_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593872,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.15
+    },
+    "Mouldshroom_LW_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593856,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.15
+    },
+    "Mouldshroom_LW_4": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593840,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.15
+    },
+    "Plant_AntiRad_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593744,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Plant_AntiRad_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836594784,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Plant_AntiRad_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836594768,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Plant_Herbicide_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593824,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Plant_Herbicide_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593808,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Plant_Herbicide_3": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593792,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.2
+    },
+    "Plant_Wheat_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593776,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3
+    },
+    "SugarPlant_OC_1": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593968,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3
+    },
+    "SugarPlant_OC_2": {
+      "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871836593952,
+        "max": 1,
+        "num": 1
+      },
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "ClickResourceSpawnPossibilities_14_3D1C9D6B4B8E937F8DA44EAB3C94B47B",
+      "off": 0,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5",
+      "off": 16,
+      "size": 8,
+      "type": "DoubleProperty"
+    }
+  ],
+  "size": 24,
+  "struct": "S_ClickResourceSpawnData",
+  "table": "DT_ClickResource_SpawnData"
+}

@@ -1,0 +1,100 @@
+{
+  "rows": {
+    "PhysMat_Biomass": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": {
+        "_type": "ClassProperty",
+        "ptr": 2871265920000
+      },
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": {
+        "_type": "ObjectProperty",
+        "ptr": 2870612666608
+      },
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": {
+        "_type": "ObjectProperty",
+        "ptr": 2869969905696
+      }
+    },
+    "PhysMat_Dirt": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": {
+        "_type": "ClassProperty",
+        "ptr": 2871265920000
+      },
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": {
+        "_type": "ObjectProperty",
+        "ptr": 2870612665120
+      },
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": {
+        "_type": "ObjectProperty",
+        "ptr": 2871548594240
+      }
+    },
+    "PhysMat_Rock_OC": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": {
+        "_type": "ClassProperty",
+        "ptr": 2871265972864
+      },
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": {
+        "_type": "ObjectProperty",
+        "ptr": 2871506868064
+      },
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": {
+        "_type": "ObjectProperty",
+        "ptr": 2871007342336
+      }
+    },
+    "PhysMat_Rock_OW": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": {
+        "_type": "ClassProperty",
+        "ptr": 2871265972864
+      },
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": {
+        "_type": "ObjectProperty",
+        "ptr": 2871506868064
+      },
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": {
+        "_type": "ObjectProperty",
+        "ptr": 2871007336896
+      }
+    },
+    "PhysMat_Sand": {
+      "HitVFX_8_B033AC434E0E96C3A098FE960503E939": {
+        "_type": "ClassProperty",
+        "ptr": 2871265920000
+      },
+      "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244": {
+        "_type": "ObjectProperty",
+        "ptr": 2870612665120
+      },
+      "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355": {
+        "_type": "ObjectProperty",
+        "ptr": 2869860629728
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "PhysicalMaterial_2_DFCBCC8346AF946076B41BB759651355",
+      "off": 0,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "MiningSound_5_ACA2C311423405FB810E56ABF2F1D244",
+      "off": 8,
+      "size": 8,
+      "type": "ObjectProperty"
+    },
+    {
+      "dim": 1,
+      "name": "HitVFX_8_B033AC434E0E96C3A098FE960503E939",
+      "off": 16,
+      "size": 8,
+      "type": "ClassProperty"
+    }
+  ],
+  "size": 24,
+  "struct": "S_PhysicalMaterialMiningProperties",
+  "table": "DT_PhysicalMaterialMiningProperties"
+}

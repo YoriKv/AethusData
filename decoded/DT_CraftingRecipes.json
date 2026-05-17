@@ -1,0 +1,3820 @@
+{
+  "rows": {
+    "AntiGravTech_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "80be224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0be224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660695,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546192,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "AquaculturePack_Ghostfish": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80cc224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660702,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545968,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "AquaculturePack_Magmafish": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0cc224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660716,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545984,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "AquaculturePack_Minnow": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00cc224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660730,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545936,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "AquaculturePack_Mussel": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0cb224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660742,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545920,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "AquaculturePack_Sandfish": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40cc224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660754,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545952,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "AquaculturePack_Shrimp": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80cb224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660767,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545904,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Battery_RTG_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "60c9204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80c9204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603533,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544816,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Battery_RTG_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "20c9204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40c9204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603533,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544800,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Battery_Small_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "c0b7224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00b8224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603540,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544848,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "Battery_Small_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 7,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "40b7224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80b7224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603540,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544832,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "BlackMarketInfo_Empty": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "1064452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000080c1224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660784,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545280,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_CoolantCompressor": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 8,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80314c2b9c02000006000000060000003f00000000000000000000000000000000000000000000000600000080000000ffffffff000000000000000000000000c0ca224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660796,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545808,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_Crate_L": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 8,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "501d462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660810,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545840,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_Empty": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "801d462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "b01d462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660819,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545872,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_Lightstick": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 8,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40cb224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660827,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545856,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_OxygenGenerator": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 8,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00314c2b9c02000006000000060000003f00000000000000000000000000000000000000000000000600000080000000ffffffff00000000000000000000000080ca224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1649003,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545792,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_PowerRelay": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 8,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "9061452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000000cb224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1659920,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545824,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_RadGenerator": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 8,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80304c2b9c02000006000000060000003f00000000000000000000000000000000000000000000000600000080000000ffffffff00000000000000000000000040ca224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660838,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545776,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BuildKit_ShieldGenerator": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 8,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00304c2b9c02000006000000060000003f00000000000000000000000000000000000000000000000600000080000000ffffffff00000000000000000000000000ca224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660850,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545760,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "BypassKey": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "d012462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "0013462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660863,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545216,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "CognitiveLinkModule": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "00124c2b9c02000005000000060000001f00000000000000000000000000000000000000000000000500000080000000ffffffff00000000000000000000000000ba224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "801a4c2b9c02000005000000060000001f00000000000000000000000000000000000000000000000500000080000000ffffffff00000000000000000000000040ba224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1650881,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545008,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Decoder_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "80ba224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0ba224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660874,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545024,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "DrillBit_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "0065452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff000000000000000000000000c0c2224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603679,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545376,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "DrillBit_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80c2224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603679,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545360,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "DrillBit_3": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00114c2b9c02000005000000060000001f00000000000000000000000000000000000000000000000500000080000000ffffffff00000000000000000000000040c2224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603679,
+        "number": 4
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545344,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "EMPCharge": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 7,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80114c2b9c02000006000000060000003f00000000000000000000000000000000000000000000000600000080000000ffffffff00000000000000000000000040b9224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1649793,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544976,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Electronics_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "d015462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "0016462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603707,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544912,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "Electronics_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "c0b8224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00b9224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603707,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544896,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Electronics_3": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "40b8224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80b8224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603707,
+        "number": 4
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544880,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Electronics_Reagent_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "d01e462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a012462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660879,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545200,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Electronics_Reagent_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "00c0224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40c0224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660879,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545184,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "FishingCharge_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 7,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "00be224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40be224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660920,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546176,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "FocusingLens_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "b064452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000000c2224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603714,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545328,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "FocusingLens_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "6064452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff000000000000000000000000c0c1224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603714,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545312,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "FocusingLens_3": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "4061452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff000000000000000000000000c0c9224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603714,
+        "number": 4
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545744,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "FocusingLens_4": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "f060452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000080c9224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603714,
+        "number": 5
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545728,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Bread_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 9,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0c8204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660928,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545568,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_CactusFruit_Cooked": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 10,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "4015462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660943,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544720,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "Food_Cake_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 9,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0c4224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603721,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545536,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_CaveMushroom_Stew": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 12,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0c5224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660956,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544656,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "Food_CaveMushroom_Stew_Rich": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 12,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "4066452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000080c5224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660968,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545696,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_MagmaSnack": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 7,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "20c8204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660983,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 3,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "c0c3224c9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545440,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Moonshine_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 11,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "f065452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000040c5224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1660992,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545680,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_NutrientBar_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 12,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a0c8204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661000,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545520,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Omelette_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 12,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "1015462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661009,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545664,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Pie_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 9,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "5014462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661017,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545552,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_PioneerStew": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 12,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "2014462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661022,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545504,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Shrimp": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 10,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e0c8204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661031,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545616,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Soda_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 11,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 2,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0b5224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603727,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544688,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Soda_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 11,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "9066452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000000c6224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603727,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544672,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_SpeedTabs": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 1,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e014462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603733,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545648,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "Food_Stew_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 12,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "8014462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661038,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545600,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Stew_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 12,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00c5224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661038,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545584,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_Sugar": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 13,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "b014462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661044,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545632,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Food_WaterBottle_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 11,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 1,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00c9204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661050,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544704,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "FuelRodMould": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "c0c7204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e0c7204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661070,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545296,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Glowstick_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c088723d9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661077,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545088,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Glowstick_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a015462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661077,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544864,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "HerbicideCharge_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0c9e7379c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 535313,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545040,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Injector_AntiRad": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e061452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000000cd224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661095,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546048,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Injector_Empty": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "701e462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603798,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546144,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Injector_Health": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40ce224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603806,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546128,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Injector_Oxygen": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "d062452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff000000000000000000000000c0cd224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603815,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546096,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Injector_Speed": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "8062452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000080cd224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603824,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546080,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Injector_Strength": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "2063452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000000ce224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603832,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546112,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Injector_Vaccine": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "3062452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000040cd224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661104,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546064,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "MiningExplosive_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "1018462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661120,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545072,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "MiningExplosive_Terraform_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a065452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000080c3224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603986,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545424,
+        "max": 16,
+        "num": 2
+      }
+    },
+    "MiningExplosive_Terraform_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "5065452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000040c3224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603986,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545408,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "MiningExplosive_Terraform_3": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00c3224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1603986,
+        "number": 4
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545392,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Mycelium_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "e01d462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1593582,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 10,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546000,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Mycelium_3": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 2,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "101e462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1593582,
+        "number": 4
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 5,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546016,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore_1_Frame": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "f016462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "2017462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661137,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": true,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544960,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore_3_Frame": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "3016462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "6016462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604011,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544928,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Ore_4_Frame": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "9016462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c016462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604018,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544944,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "OxygenDome_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "7015462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604025,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544752,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "OxygenDome_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 2,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 6,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00b6224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604025,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544736,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Quakemaker_Charge": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 1,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "5017462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604071,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545056,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "ReactorCore_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "00c1224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40c1224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1650367,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545248,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "ReactorCore_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "80c0224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c0c0224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1650367,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545232,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "ReactorHousing_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "3013462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "6013462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661149,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545264,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent_Drone_1": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "c0b6224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "00b7224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604138,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544784,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent_Drone_2": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "40b6224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80b6224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604138,
+        "number": 3
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544768,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent_Fish_1_Fish_10": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 1661164,
+        "number": 11
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 7,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40c8204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661157,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "00c4224c9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545456,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent_Fish_1_Fish_Ghost": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 1661175,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 7,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "80c8204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661157,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "80c4224c9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545488,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent_Fish_1_Fish_Minnow": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 1661189,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 7,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 3,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "60c8204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661157,
+        "number": 2
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "40c4224c9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545472,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent_Mycelium": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 6,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "401e462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661203,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546032,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Reagent_Wheat": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 5,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 5,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a0c7204c9c02000001000000010000000100000000000000000000000000000000000000000000000100000080000000ffffffff00000000000000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661212,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 2,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021545888,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "RemoteRestartChip": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "00bf224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "40bf224c9c02000003000000030000000700000000000000000000000000000000000000000000000300000080000000ffffffff00000000020000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1650830,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546208,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "ReprogramChip": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 8,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "7063452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000080bf224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "c063452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff000000000000000000000000c0bf224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1604151,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546224,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Seed_Sugar": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 0,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 4,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "a01e462b9c02000002000000020000000300000000000000000000000000000000000000000000000200000080000000ffffffff00000000010000000000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661220,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": false,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021546160,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "ThermoPump": {
+      "AlternateItemName_77_8539303F441F197186A675A245E3FBE7": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D": 4,
+      "Duration_19_38986B654560205708B78F8FE0E67E07": 10,
+      "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA": {
+        "_raw_hex": "e066452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff00000000000000000000000080b9224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": {
+        "_raw_hex": "9052452b9c02000004000000040000000f00000000000000000000000000000000000000000000000400000080000000ffffffff000000000000000000000000c0b9224c9c0200001000000000000000",
+        "_type": "MapProperty"
+      },
+      "OutputResource_43_A546D54E4C12D32547E953B495D53658": {
+        "_type": "FName",
+        "comp_idx": 1661231,
+        "number": 0
+      },
+      "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D": 1,
+      "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE": {
+        "_raw_hex": "800bb45d9c0200000000000000000000",
+        "_type": "TextProperty"
+      },
+      "Recyclable_85_61AFE9954A10842B3E675F8965F1F530": true,
+      "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D": 0,
+      "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B": false,
+      "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870021544992,
+        "max": 16,
+        "num": 1
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4",
+      "off": 0,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "InputResourcesInCoreHabitat_83_54F3F5FB4ADD44E39E0B44A820C801FA",
+      "off": 80,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "OutputResource_43_A546D54E4C12D32547E953B495D53658",
+      "off": 160,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Quantity_46_BDD2209E428AEAD8121E5189A447ED5D",
+      "off": 168,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Duration_19_38986B654560205708B78F8FE0E67E07",
+      "off": 172,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "CraftableCategoryEnum_65_B725BA814176B2E5115FE69DEFC8FA6D",
+      "off": 176,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RecipeReadableName_49_914D45694868B8F7348805AEDEC383AE",
+      "off": 184,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RecipeDescription_51_4FA413FD4F90B2A550BA1CA337F66D89",
+      "off": 200,
+      "size": 16,
+      "type": "TextProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RequiredRecipeUpgrades_58_B10F5AD744F65B9EB66BBEA382E7194D",
+      "off": 216,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "ValidCraftingStations_69_6BFB4F4F4CFC392E91BDD3B61D652B20",
+      "off": 224,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "UnlockedFromStart_74_4F60E4E941952DA57CDC9BB1D237A64B",
+      "off": 240,
+      "size": 1,
+      "type": "BoolProperty"
+    },
+    {
+      "dim": 1,
+      "name": "AlternateItemName_77_8539303F441F197186A675A245E3FBE7",
+      "off": 244,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Recyclable_85_61AFE9954A10842B3E675F8965F1F530",
+      "off": 252,
+      "size": 1,
+      "type": "BoolProperty"
+    }
+  ],
+  "size": 253,
+  "struct": "S_CraftingRecipes",
+  "table": "DT_CraftingRecipes"
+}

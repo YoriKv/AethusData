@@ -1,0 +1,238 @@
+{
+  "rows": {
+    "Food_CaveMushroom_1": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 300.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.3,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.1,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820194976,
+        "max": 2,
+        "num": 2
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 1,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1694988,
+        "number": 0
+      }
+    },
+    "Lifeshroom_1": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 540.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.55,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.4,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2870069065600,
+        "max": 4,
+        "num": 3
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 1,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695008,
+        "number": 0
+      }
+    },
+    "Mouldshroom_1": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 540.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 2.2,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 1.8,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871827073216,
+        "max": 4,
+        "num": 3
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 1,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695019,
+        "number": 0
+      }
+    },
+    "Mycelium_2": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 300.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 4,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.11,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.11,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820195840,
+        "max": 2,
+        "num": 2
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695043,
+        "number": 0
+      }
+    },
+    "Plant_AntiRad": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 640.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.85,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.85,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820195872,
+        "max": 2,
+        "num": 2
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 1,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695031,
+        "number": 0
+      }
+    },
+    "Plant_Wheat": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 420.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.4,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.4,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820195808,
+        "max": 2,
+        "num": 1
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 1,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695055,
+        "number": 0
+      }
+    },
+    "Reagent_Mycelium": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 500.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.07951,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.07951,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820195776,
+        "max": 2,
+        "num": 2
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695066,
+        "number": 0
+      }
+    },
+    "Seed_Glowtus": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 420.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.8,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.45,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820195184,
+        "max": 2,
+        "num": 2
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695002,
+        "number": 2
+      }
+    },
+    "Seed_HotSprings": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 360.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.45,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.35,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820195680,
+        "max": 2,
+        "num": 1
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 1,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695086,
+        "number": 0
+      }
+    },
+    "Seed_Sugar": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 480.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 1,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 1.2,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.8,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871820195744,
+        "max": 2,
+        "num": 1
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1695099,
+        "number": 0
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "TileName_2_32CCEA9D433181F0402C31937CD626CC",
+      "off": 0,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093",
+      "off": 8,
+      "size": 8,
+      "type": "DoubleProperty"
+    },
+    {
+      "dim": 1,
+      "name": "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5",
+      "off": 16,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F",
+      "off": 24,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371",
+      "off": 40,
+      "size": 8,
+      "type": "DoubleProperty"
+    },
+    {
+      "dim": 1,
+      "name": "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD",
+      "off": 48,
+      "size": 8,
+      "type": "DoubleProperty"
+    },
+    {
+      "dim": 1,
+      "name": "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3",
+      "off": 56,
+      "size": 4,
+      "type": "IntProperty"
+    }
+  ],
+  "size": 60,
+  "struct": "S_Seeds",
+  "table": "DT_Seeds"
+}

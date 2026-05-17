@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "PTK_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "PTK_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"7C97650D4BBF3E934C490ABAF06F0FD6\", \"Roadblock\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"1E4014C64051DC122BEFA48857E25F1F\", \"<Important>You now have a goal that requires several steps to achieve!</>\\r\\n\\r\\nTo obtain the <Item>Mining Explosives</> required to blast your way through, you\\'ll need to refine different resources at several <Important>Facilities</>, before <Important>Crafting</> them.\\r\\n\\r\\nAs a reminder, new <Important>Facility Plans</> have been unlocked and are available for expanding your <Important>Outpost</> to achieve this goal.\\r\\n\\r\\nRefer back to your <Important>Journal</> <Cyan>(J)</> to reference the steps required to proceed into the next area of the cavern.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_PathToKalynite"
+}

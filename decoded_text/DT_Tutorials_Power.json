@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Power_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Power_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_PowerSlots",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "(\"Stool_2\",\"Lightstick_1\",\"Plant_Pot_1\",\"Table_Square_1\",\"DirtSifter_1\",\"Crate_S\")",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"CB5BD9A94B91433FDB78C79298D26553\", \"Power Slots\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"BD3B17E841960A36718E6A9D83C6CB45\", \"Congratulations on constructing your first proper <Important>Habitat</>! You are well on the way to creating a thriving <Important>Outpost</>.\\r\\n\\r\\nYou\\'ve now unlocked a large amount of new <Important>Facilities</> for construction.\\r\\n\\r\\nIn order to function, most <Important>Facilities</> that are built within <Important>Habitats</> require <Important>Power</>, provided via <Important>Power Slots</>.\\r\\n<Important>Facilities</> display the amount of <Important>Power Slots</> they require in <Important>Build Mode</>, and once constructed, display how many they are occupying in their <Important>Info Panel</>.\\r\\n\\r\\n<Important>Habitats</> display the amount of <Important>Power Slots</> they provide in the same ways.\\r\\nBlue slots are occupied, and grey slots are empty.\\r\\n\\r\\nPlacing a <Important>Facility</> within a <Important>Habitat</> automatically connects it to <Important>Power</>, and occupies free <Important>Power Slots</>.\\r\\n<Important>Deconstructing</> a <Important>Facility</> will free up any <Important>Power Slots</> it was occupying.\\r\\n\\r\\nYou\\'ll need to continue expanding the <Important>Outpost</> over time with new <Important>Habitats</> in order to support the <Important>Facilities</> you\\'ll want to construct.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Power"
+}

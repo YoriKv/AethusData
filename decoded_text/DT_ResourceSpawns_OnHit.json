@@ -1,0 +1,1025 @@
+{
+  "rows": {
+    "Aquaculture_Ghostfish_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Ghost.BP_Pickable_Fish_Ghost_C'\", 0.700000))"
+    },
+    "Aquaculture_Magmafish_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Magma.BP_Pickable_Fish_Magma_C'\", 0.700000))"
+    },
+    "Aquaculture_Minnow_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "6",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Minnow.BP_Pickable_Fish_Minnow_C'\", 0.700000))"
+    },
+    "Aquaculture_Mussel_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Mussel.BP_Pickable_Fish_Mussel_C'\", 0.700000))"
+    },
+    "Aquaculture_Sandfish_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Sandfish.BP_Pickable_Fish_Sandfish_C'\", 0.700000))"
+    },
+    "Aquaculture_Shrimp_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Fish_Shrimp.BP_Pickable_Fish_Shrimp_C'\", 0.700000))"
+    },
+    "Archaeology_TarPits_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_Archaeology.BP_Pickable_Geode_Archaeology_C'\", 0.007000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Archaeology_TarPits_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_Archaeology.BP_Pickable_Geode_Archaeology_C'\", 0.007000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Cactus_Overworld_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_10": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CactusFruit.BP_Pickable_Food_CactusFruit_C'\", 0.600000))"
+    },
+    "Cactus_Overworld_11": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CactusFruit.BP_Pickable_Food_CactusFruit_C'\", 0.600000))"
+    },
+    "Cactus_Overworld_12": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CactusFruit.BP_Pickable_Food_CactusFruit_C'\", 0.600000))"
+    },
+    "Cactus_Overworld_13": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CactusFruit.BP_Pickable_Food_CactusFruit_C'\", 0.600000))"
+    },
+    "Cactus_Overworld_14": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_2": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_3": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_4": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_5": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_6": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_7": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_8": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CactusFruit.BP_Pickable_Food_CactusFruit_C'\", 1.000000))"
+    },
+    "Cactus_Overworld_9": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CactusFruit.BP_Pickable_Food_CactusFruit_C'\", 1.000000))"
+    },
+    "CavernMushroom_Hydroponics": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.550000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CaveMushroom_1.BP_Pickable_Food_CaveMushroom_1_C'\", 0.550000))"
+    },
+    "CavernMushroom_OC_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "1",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CaveMushroom_1.BP_Pickable_Food_CaveMushroom_1_C'\", 1.000000))"
+    },
+    "CavernMushroom_OC_2": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "1",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CaveMushroom_1.BP_Pickable_Food_CaveMushroom_1_C'\", 1.000000))"
+    },
+    "CavernMushroom_OC_3": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "1",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Food_CaveMushroom_1.BP_Pickable_Food_CaveMushroom_1_C'\", 1.000000))"
+    },
+    "Destructible_Crate_Square_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.200000))"
+    },
+    "Destructible_Crate_Wide_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.200000))"
+    },
+    "Dirt_Jungle_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_Jungle_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_Jungle_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_Jungle_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000))"
+    },
+    "Dirt_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000))"
+    },
+    "Dirt_Overworld_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "16",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.900000))"
+    },
+    "Dirt_Overworld_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "13",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.900000))"
+    },
+    "Dirt_Overworld_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "9",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.900000))"
+    },
+    "Dirt_Overworld_XL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "19",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.900000))"
+    },
+    "Dirt_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000))"
+    },
+    "Dirt_Spike_OM_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt_Chunk.BP_Pickable_Ore_Dirt_Chunk_C'\", 0.800000))"
+    },
+    "Dirt_Spike_OM_2": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "6",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt_Chunk.BP_Pickable_Ore_Dirt_Chunk_C'\", 0.800000))"
+    },
+    "Dirt_Swamp_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_Swamp_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_Swamp_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_Swamp_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000))"
+    },
+    "Dirt_XL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "27",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000))"
+    },
+    "Dirt_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Dirt.BP_Pickable_Ore_Dirt_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000))"
+    },
+    "GemCluster_Aqua_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_Archaeology.BP_Pickable_Geode_Archaeology_C'\", 0.005000))"
+    },
+    "GemCluster_Aqua_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_Archaeology.BP_Pickable_Geode_Archaeology_C'\", 0.005000))"
+    },
+    "GemCluster_Aqua_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_Archaeology.BP_Pickable_Geode_Archaeology_C'\", 0.005000))"
+    },
+    "GemCluster_Aqua_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_Archaeology.BP_Pickable_Geode_Archaeology_C'\", 0.005000))"
+    },
+    "GemCluster_Blue_PL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 1.000000))"
+    },
+    "GemCluster_Green_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "GemCluster_Green_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "GemCluster_Green_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "GemCluster_Green_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "GemCluster_Pink_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "GemCluster_Pink_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "GemCluster_Pink_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "GemCluster_Pink_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "GemCluster_Red_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "GemCluster_Red_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "GemCluster_Red_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "GemCluster_Red_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "GemCluster_Teal_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "GemCluster_Teal_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "GemCluster_Teal_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "GemCluster_Teal_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.025000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Glowtus_OC_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.500000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_GlowtusFruit.BP_Pickable_GlowtusFruit_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Seed_Glowtus.BP_Pickable_Seed_Glowtus_C'\", 0.500000))"
+    },
+    "Glowtus_OC_2": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_GlowtusFruit.BP_Pickable_GlowtusFruit_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Seed_Glowtus.BP_Pickable_Seed_Glowtus_C'\", 0.500000))"
+    },
+    "Glowtus_OC_3": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_GlowtusFruit.BP_Pickable_GlowtusFruit_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Seed_Glowtus.BP_Pickable_Seed_Glowtus_C'\", 0.500000))"
+    },
+    "Greatwood_Jungle_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Greatwood.BP_Pickable_Ore_Greatwood_C'\", 0.900000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Yellow.BP_Pickable_Gem_Yellow_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Yellow_Superior.BP_Pickable_Gem_Yellow_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Yellow_Flawless.BP_Pickable_Gem_Yellow_Flawless_C'\", 0.002000))"
+    },
+    "Greatwood_Swamp_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Warpwood.BP_Pickable_Ore_Warpwood_C'\", 0.900000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Yellow_Corrupt.BP_Pickable_Gem_Yellow_Corrupt_C'\", 0.040000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 0.500000))"
+    },
+    "Lifeshroom_1_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.500000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Lifeshroom_1.BP_Pickable_Lifeshroom_1_C'\", 0.600000))"
+    },
+    "Motherlode_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Motherlode.BP_Pickable_Gem_Motherlode_C'\", 0.200000))"
+    },
+    "Motherlode_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Motherlode.BP_Pickable_Gem_Motherlode_C'\", 0.200000))"
+    },
+    "Motherlode_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Motherlode.BP_Pickable_Gem_Motherlode_C'\", 0.200000))"
+    },
+    "Motherlode_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Motherlode.BP_Pickable_Gem_Motherlode_C'\", 0.200000))"
+    },
+    "Mouldshroom_1_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.500000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mouldshroom_1.BP_Pickable_Mouldshroom_1_C'\", 0.600000))"
+    },
+    "Mycelia_LW_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.400000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_Queen.BP_Pickable_Mycelium_Queen_C'\", 0.120000))"
+    },
+    "Mycelium_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "18",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 1.000000))"
+    },
+    "Mycelium_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "13",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 1.000000))"
+    },
+    "Mycelium_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 1.000000))"
+    },
+    "Ore_1_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "Ore_1_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "Ore_1_PL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 1.000000))"
+    },
+    "Ore_1_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "Ore_1_XL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "27",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "Ore_1_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_1.BP_Pickable_Geode_1_C'\", 0.005000))"
+    },
+    "Ore_2_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "23",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_2.BP_Pickable_Reagent_2_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_2.BP_Pickable_Geode_2_C'\", 0.005000))"
+    },
+    "Ore_2_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "18",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_2.BP_Pickable_Reagent_2_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_2.BP_Pickable_Geode_2_C'\", 0.005000))"
+    },
+    "Ore_2_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "15",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_2.BP_Pickable_Reagent_2_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_2.BP_Pickable_Geode_2_C'\", 0.005000))"
+    },
+    "Ore_2_XL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "28",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_2.BP_Pickable_Reagent_2_C'\", 0.150000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_2.BP_Pickable_Geode_2_C'\", 0.005000))"
+    },
+    "Ore_3_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Ore_3_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Ore_3_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Ore_3_XL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "27",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_2.BP_Pickable_Ore_2_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_1.BP_Pickable_Reagent_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Ore_4_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_4.BP_Pickable_Ore_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_5.BP_Pickable_Reagent_5_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black.BP_Pickable_Gem_Black_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_SuperiorQuality.BP_Pickable_Gem_Black_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_FlawlessQuality.BP_Pickable_Gem_Black_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_4.BP_Pickable_Geode_4_C'\", 0.005000))"
+    },
+    "Ore_4_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_4.BP_Pickable_Ore_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_5.BP_Pickable_Reagent_5_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black.BP_Pickable_Gem_Black_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_SuperiorQuality.BP_Pickable_Gem_Black_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_FlawlessQuality.BP_Pickable_Gem_Black_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_4.BP_Pickable_Geode_4_C'\", 0.005000))"
+    },
+    "Ore_4_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_4.BP_Pickable_Ore_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_5.BP_Pickable_Reagent_5_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black.BP_Pickable_Gem_Black_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_SuperiorQuality.BP_Pickable_Gem_Black_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_FlawlessQuality.BP_Pickable_Gem_Black_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_4.BP_Pickable_Geode_4_C'\", 0.005000))"
+    },
+    "Ore_4_XL": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "27",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_4.BP_Pickable_Ore_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_5.BP_Pickable_Reagent_5_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black.BP_Pickable_Gem_Black_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_SuperiorQuality.BP_Pickable_Gem_Black_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Black_FlawlessQuality.BP_Pickable_Gem_Black_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_4.BP_Pickable_Geode_4_C'\", 0.005000))"
+    },
+    "Ore_5_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_5_LW_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_LW_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_LW_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_LW_Swamp_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_LW_Swamp_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_LW_Swamp_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_LW_Swamp_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_LW_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_5.BP_Pickable_Geode_5_C'\", 0.005000))"
+    },
+    "Ore_5_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.280000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_5_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_5_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_5.BP_Pickable_Ore_5_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_SuperiorQuality.BP_Pickable_Gem_Red_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red_FlawlessQuality.BP_Pickable_Gem_Red_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple.BP_Pickable_Gem_Purple_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_SuperiorQuality.BP_Pickable_Gem_Purple_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Purple_FlawlessQuality.BP_Pickable_Gem_Purple_FlawlessQuality_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue.BP_Pickable_Gem_Blue_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_SuperiorQuality.BP_Pickable_Gem_Blue_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Blue_FlawlessQuality.BP_Pickable_Gem_Blue_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_Swamp_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.006000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_Swamp_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_Swamp_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_Swamp_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_6_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_6.BP_Pickable_Ore_6_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.600000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_6.BP_Pickable_Geode_6_C'\", 0.005000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua.BP_Pickable_Gem_Aqua_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_SuperiorQuality.BP_Pickable_Gem_Aqua_SuperiorQuality_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Aqua_FlawlessQuality.BP_Pickable_Gem_Aqua_FlawlessQuality_C'\", 0.002000))"
+    },
+    "Ore_7_Aetherium_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_10.BP_Pickable_Geode_10_C'\", 0.005000))"
+    },
+    "Ore_7_Aetherium_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_10.BP_Pickable_Geode_10_C'\", 0.005000))"
+    },
+    "Ore_7_Aetherium_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_10.BP_Pickable_Geode_10_C'\", 0.005000))"
+    },
+    "Ore_7_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "Ore_7_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "Ore_7_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "Ore_7_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_7.BP_Pickable_Ore_7_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_7.BP_Pickable_Geode_7_C'\", 0.005000))"
+    },
+    "Ore_8_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "Ore_8_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "Ore_8_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "Ore_8_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_8.BP_Pickable_Ore_8_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_8.BP_Pickable_Reagent_8_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green.BP_Pickable_Gem_Green_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Superior.BP_Pickable_Gem_Green_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Green_Flawless.BP_Pickable_Gem_Green_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_8.BP_Pickable_Geode_8_C'\", 0.005000))"
+    },
+    "Ore_PL_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "()"
+    },
+    "Plant_AntiRad_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.500000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Plant_AntiRad.BP_Pickable_Plant_AntiRad_C'\", 0.600000))"
+    },
+    "Plant_Mycelia_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.600000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "4",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.500000))"
+    },
+    "Plant_Wheat_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.600000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Plant_Wheat.BP_Pickable_Plant_Wheat_C'\", 0.600000))"
+    },
+    "Reagent_7_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "4",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_7.BP_Pickable_Reagent_7_C'\", 0.160000))"
+    },
+    "Reagent_Mycelium_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.500000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_4.BP_Pickable_Mycelium_4_C'\", 1.000000))"
+    },
+    "Scrap_Overworld_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "1",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Scrap_S.BP_Pickable_Scrap_S_C'\", 1.000000))"
+    },
+    "Scrap_Overworld_2": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Scrap_S.BP_Pickable_Scrap_S_C'\", 1.000000))"
+    },
+    "Scrap_Overworld_3": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Scrap_S.BP_Pickable_Scrap_S_C'\", 1.000000))"
+    },
+    "Scrap_Overworld_5": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Scrap_S.BP_Pickable_Scrap_S_C'\", 1.000000))"
+    },
+    "Seed_HotSprings_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.550000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "3",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Plant_HotSprings.BP_Pickable_Plant_HotSprings_C'\", 0.600000))"
+    },
+    "Seed_Sugar_NotTile": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.500000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "2",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "2",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Plant_Sugar.BP_Pickable_Plant_Sugar_C'\", 0.600000))"
+    },
+    "Stone_Hard_Aetherium_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_10.BP_Pickable_Geode_10_C'\", 0.005000))"
+    },
+    "Stone_Hard_Aetherium_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_10.BP_Pickable_Geode_10_C'\", 0.005000))"
+    },
+    "Stone_Hard_Aetherium_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_10.BP_Pickable_Geode_10_C'\", 0.005000))"
+    },
+    "Stone_Hard_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "22",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000))"
+    },
+    "Stone_Hard_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "17",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000))"
+    },
+    "Stone_Hard_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000))"
+    },
+    "Stone_Hard_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Hard.BP_Pickable_Ore_Stone_Hard_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink.BP_Pickable_Gem_Pink_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Superior.BP_Pickable_Gem_Pink_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Pink_Flawless.BP_Pickable_Gem_Pink_Flawless_C'\", 0.002000))"
+    },
+    "Stone_Rockfall_Large": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "21",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.025000))"
+    },
+    "Stone_Rockfall_Small": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.800000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_3.BP_Pickable_Reagent_3_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_1.BP_Pickable_Ore_1_C'\", 0.100000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Red.BP_Pickable_Gem_Red_C'\", 0.025000))"
+    },
+    "Stone_Spike_OC_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Chunk.BP_Pickable_Ore_Stone_Chunk_C'\", 0.800000))"
+    },
+    "Stone_Spike_OC_2": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "6",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone.BP_Pickable_Ore_Stone_C'\", 0.300000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Chunk.BP_Pickable_Ore_Stone_Chunk_C'\", 0.800000))"
+    },
+    "Tangrite_Jungle_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tangrite_Jungle_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tangrite_Jungle_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tangrite_Jungle_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tangrite_Swamp_L": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "14",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tangrite_Swamp_M": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tangrite_Swamp_S": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tangrite_Swamp_XS": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "5",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_3.BP_Pickable_Ore_3_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Ore_Stone_Swamp.BP_Pickable_Ore_Stone_Swamp_C'\", 0.700000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_4.BP_Pickable_Reagent_4_C'\", 0.200000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal.BP_Pickable_Gem_Teal_C'\", 0.020000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Superior.BP_Pickable_Gem_Teal_Superior_C'\", 0.010000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Gem_Teal_Flawless.BP_Pickable_Gem_Teal_Flawless_C'\", 0.002000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/Geodes/BP_Pickable_Geode_3.BP_Pickable_Geode_3_C'\", 0.005000))"
+    },
+    "Tree_LW_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_6.BP_Pickable_Reagent_6_C'\", 0.300000))"
+    },
+    "Tree_LW_1_Sporelands": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_6.BP_Pickable_Reagent_6_C'\", 0.300000))"
+    },
+    "Tree_LW_5": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_6.BP_Pickable_Reagent_6_C'\", 0.300000))"
+    },
+    "Tree_LW_5_Sporelands": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium_3.BP_Pickable_Mycelium_3_C'\", 0.500000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Mycelium.BP_Pickable_Mycelium_C'\", 0.250000),(\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Reagent_6.BP_Pickable_Reagent_6_C'\", 0.300000))"
+    },
+    "Tree_Overworld_1": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "12",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Tree_Overworld_2": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "10",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    },
+    "Tree_Overworld_3": {
+      "ExtraResourceChance_19_3721B8084B02F0D0A5E705B642614651": "0.000000",
+      "MaxExtraResourcesFromGreenhouse_15_5BA8BAC74BDF39F83A5C98A1D5B79B44": "0",
+      "MaximumResources_11_C1BCAB334510B8AAB6D38789A28CE62F": "8",
+      "Pickables_8_A8B9441B47FF739A3B241F92EA333421": "((\"/Script/Engine.BlueprintGeneratedClass'/Game/TopDown/Blueprints/Pickables/BP_Pickable_Biomass_1.BP_Pickable_Biomass_1_C'\", 1.000000))"
+    }
+  },
+  "table": "DT_ResourceSpawns_OnHit"
+}

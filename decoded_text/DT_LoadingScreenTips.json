@@ -1,0 +1,169 @@
+{
+  "rows": {
+    "NewRow": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "1",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"1\")"
+    },
+    "NewRow_0": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "2",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"2\")"
+    },
+    "NewRow_1": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "3",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"3\")"
+    },
+    "NewRow_10": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "12",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"12\")"
+    },
+    "NewRow_11": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "13",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"13\")"
+    },
+    "NewRow_12": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "14",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"14\")"
+    },
+    "NewRow_13": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "15",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"15\")"
+    },
+    "NewRow_14": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "16",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"16\")"
+    },
+    "NewRow_15": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "17",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"17\")"
+    },
+    "NewRow_16": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "18",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"18\")"
+    },
+    "NewRow_17": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "19",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"19\")"
+    },
+    "NewRow_18": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "20",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"20\")"
+    },
+    "NewRow_19": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "21",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"21\")"
+    },
+    "NewRow_2": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "4",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"4\")"
+    },
+    "NewRow_20": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "22",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"22\")"
+    },
+    "NewRow_21": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "23",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"23\")"
+    },
+    "NewRow_22": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "24",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"24\")"
+    },
+    "NewRow_23": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "25",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"25\")"
+    },
+    "NewRow_24": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "26",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"26\")"
+    },
+    "NewRow_25": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "27",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"27\")"
+    },
+    "NewRow_26": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "28",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"28\")"
+    },
+    "NewRow_27": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "29",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"29\")"
+    },
+    "NewRow_28": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "30",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"30\")"
+    },
+    "NewRow_29": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "31",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"31\")"
+    },
+    "NewRow_3": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "5",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"5\")"
+    },
+    "NewRow_30": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "32",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"32\")"
+    },
+    "NewRow_31": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "33",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"33\")"
+    },
+    "NewRow_32": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "34",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"34\")"
+    },
+    "NewRow_33": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "35",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"35\")"
+    },
+    "NewRow_34": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "36",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"36\")"
+    },
+    "NewRow_35": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "37",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"37\")"
+    },
+    "NewRow_36": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "38",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"38\")"
+    },
+    "NewRow_37": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "39",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"39\")"
+    },
+    "NewRow_38": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "40",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"40\")"
+    },
+    "NewRow_39": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "41",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"41\")"
+    },
+    "NewRow_4": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "6",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"6\")"
+    },
+    "NewRow_5": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "7",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"7\")"
+    },
+    "NewRow_6": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "8",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"8\")"
+    },
+    "NewRow_7": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "9",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"9\")"
+    },
+    "NewRow_8": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "10",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"10\")"
+    },
+    "NewRow_9": {
+      "TipNum_2_C666FC7B4868D5BD2F791EBD1D17FAF7": "11",
+      "TipText_5_8E8112A549DF1D85B80C1886D4E0A38E": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/ST_LoadingScreenTips.ST_LoadingScreenTips\", \"11\")"
+    }
+  },
+  "table": "DT_LoadingScreenTips"
+}

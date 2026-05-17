@@ -1,0 +1,166 @@
+{
+  "rows": {
+    "AquaculturePack_Ghostfish": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 400.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 2,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.0,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.0,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1852518,
+        "number": 0
+      }
+    },
+    "AquaculturePack_Magmafish": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 450.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 2,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.0,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.0,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1852534,
+        "number": 0
+      }
+    },
+    "AquaculturePack_Minnow": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 300.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 3,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.0,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.0,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1852550,
+        "number": 0
+      }
+    },
+    "AquaculturePack_Mussel": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 450.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 2,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.0,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.0,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1852564,
+        "number": 0
+      }
+    },
+    "AquaculturePack_Sandfish": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 350.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 2,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.0,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.0,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1852578,
+        "number": 0
+      }
+    },
+    "AquaculturePack_Shrimp": {
+      "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093": 350.0,
+      "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3": 3,
+      "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD": 0.0,
+      "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371": 0.0,
+      "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F": {
+        "_type": "ArrayProperty",
+        "data_ptr": 0,
+        "max": 0,
+        "num": 0
+      },
+      "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5": 0,
+      "TileName_2_32CCEA9D433181F0402C31937CD626CC": {
+        "_type": "FName",
+        "comp_idx": 1852593,
+        "number": 0
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "TileName_2_32CCEA9D433181F0402C31937CD626CC",
+      "off": 0,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "GrowTimeSeconds_6_4DA06D2143DA6713A594A983D8280093",
+      "off": 8,
+      "size": 8,
+      "type": "DoubleProperty"
+    },
+    {
+      "dim": 1,
+      "name": "SeedsReturned_10_A10D223A48097182F02AAAA7F82915A5",
+      "off": 16,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PossibleMeshes_14_3238839C4556453E87AA4DAE27028C8F",
+      "off": 24,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "MeshStartScale_18_D11F18524A0CF8D18FB762A0B128E371",
+      "off": 40,
+      "size": 8,
+      "type": "DoubleProperty"
+    },
+    {
+      "dim": 1,
+      "name": "MeshEndScale_20_0D4D08ED423C1D87F61EBD99BC5F40BD",
+      "off": 48,
+      "size": 8,
+      "type": "DoubleProperty"
+    },
+    {
+      "dim": 1,
+      "name": "GuaranteedProducts_24_282F5A7B49888A95D68CEBBD3E4C5CF3",
+      "off": 56,
+      "size": 4,
+      "type": "IntProperty"
+    }
+  ],
+  "size": 60,
+  "struct": "S_Seeds",
+  "table": "DT_Aquaculture"
+}

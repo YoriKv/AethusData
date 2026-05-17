@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "RestoringFunctionality_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "RestoringFunctionality_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_RestoringFunctionality",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"7B94B11749D8122C1440E1B1446FF035\", \"Required Items\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"47ED82E643AFB1B0BC655C8C82BB19B2\", \"Certain objects in the world require <Important>specific items</> to be present in their <Important>Inventory</> in order to function.\\r\\n\\r\\nItems required to restore functionality are shown in the <Important>Inventory</> of the object as <Important>greyed-out icons with a border</>.\\r\\n\\r\\nYou will need to <Important>find</> or <Important>craft</> these items and <Important>deposit</> them within the object to <Important>restore functionality</>.\\r\\n\\r\\nIn the case of this <Important>elevator</>, acquiring a <Item>Power Cell</> and adding it to the <Important>Inventory</> of the elevator will restore power and allow you to <Important>quickly ascend or descend from this location</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_RestoringFunctionality"
+}

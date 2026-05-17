@@ -1,0 +1,253 @@
+{
+  "rows": {
+    "Tutorial_Airlocks": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_Airlocks_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"3332F7C94256CB620C99B299EF8D08FB\", \"Larger <Important>Habitats</> must be connected to other <Important>Structures</> as well as <Important>Platforms</> using <Facility>Airlocks</>.\\r\\n\\r\\nYou can use a <Facility>Door Seal</> to close off unused entrances.\\r\\n\\r\\nThese items can be found in the <Important>Structures</> tab within <Important>Build Mode</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Caverns": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"8AF701D94F87BA3B0E2842A74783FF5A\", \"The Caverns\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"01C16A704FA77DB429DA3CAF0BE9B6F0\", \"Within the <Important>Caverns</> of <Important>Aethus</> you are at risk from various hazards, so be careful.\\r\\n\\r\\nYou can come and go via <Important>Cave Entrances</> at any time - these are marked on your <Important>Compass</>.\\r\\n\\r\\nWhile <Important>Underground</> you will need to manage two resources - <Health>Health</> and <Air>Air</>.\\r\\n\\r\\nThese are shown in the lower left corner of the screen.\\r\\n\\r\\nAt the exit to the <Important>Surface</>, your <Air>Air Supply</> will recharge.\\r\\nAs you descend deeper into the <Important>Caverns</>, your <Air>Air Supply</> will gradually <Important>decrease</>.\\r\\n\\r\\nReaching a level of zero will cause your <Health>Health</> to start degrading.\\r\\n\\r\\nYour <Air>Air Supply</> level is displayed in <Air>blue</> at the lower left corner of the screen by the 02 icon.\\r\\n\\r\\nThe lights on Maeve\\'s suit will change colour depending on your air supply state - <Yellow>yellow</> to <Health>red</> as your air supply decreases, and <Green>green</> for increasing or steady.\\r\\n\\r\\nIn your exploration you will also <Important>discover areas or craft items</> which can <Important>refill</> your <Air>Air Supply</>, so keep an eye out!\\r\\n\\r\\nMake sure to return to the <Important>Surface</> or air-supplied areas frequently to refill!\\r\\n\\r\\nYour <Health>Health</> is displayed at the bottom left of the screen, in <Health>red</> by the heart icon.\\r\\nIt will gradually regenerate over time if you are hurt, as long as you have a stable <Air>Air Supply</>.\\r\\n\\r\\nIf your <Health>Health</> reaches zero you will <Important>collapse</> and be returned to safety on the <Important>Surface</>, but <Important>drop all of your carried items</> (except critical items).\\r\\n\\r\\n<Important>If you can return to the same location, you can retrieve these items.</>\\r\\n<Important>You can disable dropping items on passing out in the Settings.</>\\r\\n\\r\\nAs you explore, remember you can use your suit\\'s Scan ability <Cyan>(X)</> to highlight interactable objects and resources within the environment.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Compass": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"08608F6B47DB7B1D8B199C9292950D93\", \"Compass\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"14B0BCDC4131A53955198688C1D5FE1B\", \"<Important>Points of Interest</> are marked by icons on the <Important>Compass</> at the top of the screen - as you rotate the camera, these icons will move to indicate where things are.\\r\\n\\r\\nYour constructed <Facility>Habitats</> are also marked by icons on the <Important>Compass</> so that you can always find your way back to the <Important>Outpost</>.\\r\\n\\r\\nYou may need to approach some <Important>Points of Interest</>to discover what they are and permanently mark them for later reference.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Construction": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"ECF89FC54B329A254B93FEB91F8E2501\", \"Build Mode\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"B047037D41490F95B8E31095F2014184\", \"Building your <Important>Outpost</> is done using <Important>Build Mode</>.\\r\\n\\r\\nYou can open <Important>Build Mode</> with <Cyan>(B)</> to view available construction categories.\\r\\nMany more categories and constructions will become available over time.\\r\\n\\r\\n<Important>Facilities</> are a type of construction which can perform various tasks - allowing you to refine materials, craft or store items, purchase new building plans, and more.\\r\\n\\r\\nWhen you select something for construction, a <Important>\\'Ghost\\'</> of that object will appear in the world at your cursor location. It can be placed with <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> and rotated with <img id=\\\"MMB\\\"/> <Cyan>(CTRL + MMB Scroll)</>.\\r\\nIt will glow <Important>blue</> when in a <Important>valid location</> and <Important>orange</> when it <Important>cannot be built</>.\\r\\n\\r\\nTrying to build while the position is invalid will prompt a notification of the issue.\\r\\n\\r\\nYou can see the cost of the construction by hovering over its icon. \\r\\nConstructions that you do not have the required materials to build will be greyed out but can still be hovered to view their information.\\r\\n\\r\\nYou can <Important>Pin</> a construction blueprint to the left side of the screen with <img id=\\\"RMB\\\"/> <Cyan>(RMB)</>, in order to keep track of what materials are required to build it.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Cooking": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"D123F990478DA96B02DC82AE177F2CC1\", \"Frontier Cooking\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"49C4933747B1081EBD4BE48562FB7219\", \"The <Facility>Grill</> and other similar <Important>Facilities</> allow you to cook and prepare meals and other items which can affect Maeve\\'s <Important>Vitality</>.\\r\\n\\r\\nInteract with the <Facility>Grill</> and click the <Important>Cooking</> button in the <Important>Info Panel</> to bring up the <Important>Cooking Panel</>.\\r\\n\\r\\n<Important>Recipes</> for items available for <Important>Cooking</> are shown, along with their required ingredients.\\r\\nYou can <Important>Pin</> a <Important>Recipe</> to the left side of the screen with  <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> in order to keep track of the required ingredients.\\r\\n\\r\\nClick the <Important>Recipe</> you\\'d like to prepare to start the process. Click multiple times to add items to the <Important>Queue</>.\\r\\n\\r\\nItems you have available for use as ingredients are shown in the right-hand <Important>Inventory</> panel. \\r\\n\\r\\nIngredients will be automatically taken from your <Important>Inventory</> when a recipe is added to the queue.\\r\\n\\r\\nItems prepared via <Important>Cooking</> will be placed in the <Important>Inventory</> of the <Facility>Grill</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Crafting": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"616DCCC141F720F3C0AEBFA1A14A7858\", \"Crafting\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"1D9046B84F18057A19A4DEA2921283C3\", \"The <Facility>Crafting Bench</> and other <Important>Crafting Facilities</> allow you to manufacture useful items you will need to progress.\\r\\n\\r\\nInteract with the <Facility>Crafting Bench</> and click the <Important>Crafting Panel</> button in the <Important>Info Panel</> to open the <Important>Crafting Panel</>.\\r\\n\\r\\n<Important>Plans</> for items available for crafting are shown, along with their required materials.\\r\\nYou can <Important>Pin</> a plan to the left side of the screen with <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> in order to keep track of the required materials.\\r\\n\\r\\nClick the <Important>Plan</> you\\'d like to craft to start the process. Click multiple times to add items to the <Important>Queue</>.\\r\\n\\r\\nItems you have available for use as crafting materials are shown in the right-hand inventory panel.\\r\\nThis list includes all items in your own inventory, as well as <Important>anything in storage facilities anywhere within your Outpost</>.\\r\\n\\r\\nItems will be automatically taken from any available inventory, starting with your own, when a <Important>Plan</> is added to the <Important>Queue</>.\\r\\n\\r\\nItems created via <Important>Crafting</> will be placed in the <Important>Inventory</> of the <Facility>Crafting Bench</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Customization": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_Customizations_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"0DA45B5241D58CDCB3E4CA8EFE329808\", \"You\\'ve unlocked your first <Important>Character Customization element</>!\\r\\n\\r\\nYou can purchase these at the <Facility>Trade Node</> or find them randomly while exploring the world.\\r\\n\\r\\nBuild a <Facility>Customization Kiosk</> facility to customize both <Important>Maeve</> and <Important>Roland</>!\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_DemoOutro": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_Outro_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"F16B83484E5964F22024C9A80D6D6FEE\", \"<Important>Congratulations, you\\'ve completed the demo!</>\\r\\n\\r\\nIn the full game, you can explore the vast caverns beneath <Important>Aethus</> across <Important>several different biomes</>.\\r\\n\\r\\nIf you decide to purchase the full game, <Important>you can continue on from your current save game</>.\\r\\n\\r\\nPlease consider <Important>wishlisting</> on <Important>Steam</> if you had fun, and I\\'d love to hear your thoughts on the game by joining the <Important>Discord</>.\\r\\n\\r\\nThere are links for both these things on the <Important>Pause Menu</> <Cyan>(ESC)</>.\\r\\n\\r\\n<Important>Thanks so much for playing!</>\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_DiscoveredPlans": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_DiscoveredPlans_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"5C32D32D4A8D72F59D59D1ABAC96858A\", \"When you discover <Important>Construction Blueprints</> or <Important>Crafting Plans</> you\\'ve already purchased at the <Facility>Trade Node</> you will get back half the <Credits>Credits</> <img id=\\\"Credits\\\"/> you spent.\\r\\n\\r\\nDon\\'t hesitate to purchase from the <Important>Planetary Exchange Network</> and explore, you\\'ll never be too out of pocket!\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Dying": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_Dying_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"F387FE2040F3D7AF6EB0A8AA75634A04\", \"If your <Health>Health</> reaches zero you will <Important>collapse</>.\\r\\n\\r\\nYou will be returned to the <Important>Surface</>, but <Important>drop all of your carried items</>.\\r\\n\\r\\n<Facility>If you return to the same location, you can retrieve these items.</>\\r\\n\\r\\nUse the <Important>Compass</> at the top of the screen to locate your item box.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Habitats": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"CB9832C446CFF66E38D1BCA00F4D0651\", \"Habitats\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"EC31DFF847250418CF52FFABA508EFE0\", \"<Important>Habitats</> are buildable structures which allow for the placement of <Important>Facilities</>, as well as furnishings and decorations, within them.\\r\\n\\r\\nThere are many shapes and sizes of <Important>Habitat</> you\\'ll use to build up your <Important>Outpost</>.\\r\\n\\r\\nConstructing <Important>Habitats</>, just like <Important>Facilities</>, is done with <Important>Build Mode</> <Cyan>(B)</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Interaction": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"23F226D24365BD63B3AA8A948D1692F5\", \"Interaction\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"2D186BD14A25AF992DFF88A7CC899B34\", \"Many objects in the world can be interacted with.\\r\\n\\r\\nYou can hover over objects and use <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> to interact.\\r\\n\\r\\nYou can activate the Scan ability of <Important>Maeve\\'s</> suit with <Cyan>(X)</> to highlight interactable objects and resources within the environment.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Intro": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"1818DF3C46DC66A8DDC95AA4E37CB9E0\", \"Movement\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"912304134EA99A007BB74AB766354EF3\", \"You can move around the world with <Cyan>(W)/(A)/(S)/(D)</>.\\r\\n\\r\\nAuto-Run is enabled by default. You can toggle this in Settings.\\r\\n\\r\\nHold <Cyan>(SHIFT)</> to walk more slowly, and <Cyan>(SPACE)</> to jump.\\r\\n\\r\\nYou can orbit the camera by holding <img id=\\\"MMB\\\"/> <Cyan>(MMB)</> and moving the mouse, or by using <Cyan>Q/E</> to rotate the camera.\\r\\n\\r\\nYou can zoom the camera using <img id=\\\"MMB\\\"/> <Cyan>(MMB Scroll)</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Inventory": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"151F002F4AAC7029A20B50BED540709C\", \"Inventory and Items\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"7DF02B374A4D6FD12E3FE08492F43B1E\", \"You can open and view your <Important>Inventory</> and its contents with <Cyan>(TAB)</>.\\r\\n\\r\\nWalking over loose items in the world will add them to your <Important>Inventory</>.\\r\\n\\r\\nThese items can also be pulled towards you when in range by hovering them and using <img id=\\\"LMB\\\"/> <Cyan>(LMB)</>.\\r\\n\\r\\n<Important>Hovering</> an item in your <Important>Inventory</> will show more information about it\\r\\n\\r\\n<Important>Consume</> items in your <Important>Inventory</> with  <img id=\\\"MMB\\\"/> <Cyan>(MMB)</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Market": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_Trading_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"5EF6CF804DFC21E96DF588BD58762E07\", \"You\\'ve unlocked the ability to access the <Important>ARC Market</>! You can do so through the <Facility>Trade Node</>.\\r\\n\\r\\nThe <Important>ARC Planetary Exchange Network</> - the <Important>Market</> - allows you to sell resources you\\'ve gathered for <Credits>Credits</> <img id=\\\"Credits\\\"/>, and use those <Credits>Credits</> <img id=\\\"Credits\\\"/> to purchase <Important>Construction Blueprints</> for your <Important>Outpost</> as well as new <Important>Crafting Plans</>.\\r\\n\\r\\nAs you progress in the <Important>Resource Acquisition Partnership Program</>, visible in the upper left of the UI, you will <Important>unlock new blueprints and plans.</>.\\r\\n\\r\\n<Important>Interact</> <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with the <Facility>Trade Node</> and open the <Important>Market Panel</>.\\r\\n\\r\\nItems and resources that you are carrying are shown in the list on the <Important>right side</> of the <Important>Market Panel</>.\\r\\n\\r\\nYou can use the <Important>+ and - buttons</> to select how many of each type of item you\\'d like to <Important>Sell</> to <Important>ARC</>.\\r\\n\\r\\nClicking <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> the item button itself will select <Important>all of that item</> for sale, and clicking it again will <Important>deselect</> all of that item.\\r\\n\\r\\nAll selected items, and their total value, are shown in the <Important>central panel</>.\\r\\n\\r\\nUse the <Important>\\'SELL\\'</> button to sell all selected items to <Important>ARC</> and gain the indicated amount of <Credits>Credits</> <img id=\\\"Credits\\\"/>.\\r\\n\\r\\nThe <Important>left side</> of the <Important>Market Panel</> contains <Important>Crafting Plans</> and <Important>Construction Blueprints</>.\\r\\n\\r\\nClicking <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> the relevant header button for each <Important>category</> will display those items that are available for sale in a list.\\r\\n\\r\\nClicking <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> an item will <Important>select</> it for purchase, and display information about it as well as its cost in <Credits>Credits</> <img id=\\\"Credits\\\"/> in the central panel.\\r\\n\\r\\nYou can filter for specific items using the search box above the category buttons.\\r\\n\\r\\nUse the <Important>\\'PURCHASE\\'</> button to purchase the selected <Important>Plan</> or <Important>Blueprint</>, for the indicated amount of <Credits>Credits</> <img id=\\\"Credits\\\"/>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Mining": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"8221D8824B79F778717B96A6E6D20459\", \"Mining and Energy\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"52350813486592F00E877E84DF63E11A\", \"Many objects are susceptible to Roland\\'s <Important>Mining Laser</>.\\r\\n\\r\\nInteracting <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with such an object begins to channel <Important>Energy</> from the laser into it.\\r\\n\\r\\nWhen the <Important>Energy</> reaches a critical level, it discharges in an explosion and blows apart the object.\\r\\n\\r\\nSome objects dissipate more <Important>Energy</> than others, so multiple laser blasts may be required.\\r\\n\\r\\nMake sure to channel the <Important>Energy</> into the same location to continue to build it up!\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_MovingBase": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_MovingBase_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Nodes": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"983F44F74268B8A299C7D08ABFB83FAD\", \"Nodes\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"9983577245FB3F033674FD8310ED22DA\", \"<Important>Nodes</> are clumps of <Important>Resources</> which can be broken apart with Roland\\'s <Important>Mining Laser</>.\\r\\n\\r\\nYou can highlight mineable <Important>Nodes</> in the environment by using Maeve\\'s suit\\'s <Important>Scan Ability</> <Cyan>(X)</>.\\r\\n\\r\\nInteract <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with a <Important>Node</> to begin channeling <Important>Energy</> into it with each <Important>Laser</> blast.\\r\\n\\r\\nDue to <Important>Aethus\\'</> unstable geology, <Important>Nodes</> will re-appear over time and may emerge in different locations than previously!\\r\\n\\r\\nEach shot from his <Important>Mining Laser</> drains Roland\\'s <Important>Energy</> - this is shown by the fullness of the circle that makes up your cursor.\\r\\n\\r\\n<Important>Energy</> will recharge to full over time but you <Important>cannot mine when it is too low</>.\\r\\n\\r\\nDifferent types of <Important>Node</> will require different amounts of <Important>Energy</> to fracture - you will not be able to mine everything immediately.\\r\\n\\r\\nYou will be able to purchase <Important>Upgrades</> for Roland\\'s <Important>Energy</> level in the future.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Objectives": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"2946D22E49A9609BA3E8BF890E51D35B\", \"Tasks\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"D6DDC8CE4080871BDFAAAA955EFBAC92\", \"<Important>Tasks</> are shown in the top-left of the screen - you can hover over this panel to view them or scroll the list if needed.\\r\\n\\r\\n<Important>Maeve</> will automatically record events and discoveries in the <Important>Journal</> <Cyan>(J)</> as you play.\\r\\n\\r\\nRefer to your <Important>Tasks</> and <Important>Journal</> if you ever get stuck and aren\\'t sure how to proceed.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Power": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"CC312E564B600D5B365D28904C97AB0E\", \"Outpost Power\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"8201AE8441AC9D4616F416A1E13DE77D\", \"Many Facilities require <Important>Power</> <img id=\\\"PowerSlot_Outpost\\\"/> to function. This is shown for each blueprint in <Important>Build Mode</> and is also displayed in a construction\\'s <Important>Info Panel</>.\\r\\n\\r\\nPower-producing <Important>Facilities</> like the <Facility>RTG</> you can now build provide <Important>Power</> <img id=\\\"PowerSlot_Outpost\\\"/> across the entire <Important>Outpost</>.\\r\\n\\r\\nThe <Important>Power</> <img id=\\\"PowerSlot_Outpost\\\"/> level of your <Important>Outpost</> can be viewed on the right of the <Important>Build Mode</> UI and hovered for more detailed info.\\r\\n\\r\\nIf the <Important>Power</> <img id=\\\"PowerSlot_Outpost\\\"/> level drops <Important>below 0</> then all powered <Important>Facilities</> will <Important>cease functioning</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_PowerSlots": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"AC6B160F4C9534C34EF5439FEF972F46\", \"Facility Slots\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"CEF9139543141DFEDD3BD1918E2A8128\", \"To access <Important>Power</> <img id=\\\"PowerSlot_Outpost\\\"/>, <Important>Facilities</> take up <Important>Facility Slots</> <img id=\\\"PowerSlot_Empty\\\"/>.\\r\\n\\r\\n<Important>Facility</> blueprints display the amount of <Important>Facility Slots</> <img id=\\\"PowerSlot_Empty\\\"/> they require in <Important>Build Mode</>, and once constructed, <Important>Facilities</> display how many they are occupying in their <Important>Info Panel</>.\\r\\n\\r\\n<Important>Habitats</> display the amount of <Important>Facility Slots</> <img id=\\\"PowerSlot_Empty\\\"/> they provide in the same ways.\\r\\nSlots with a lightning bolt icon <img id=\\\"PowerSlot_Outpost\\\"/> are occupied, and empty slots <img id=\\\"PowerSlot_Empty\\\"/> have no icon.\\r\\n\\r\\nPlacing a <Important>Facility</> within a <Important>Habitat</> automatically connects it to <Important>Power</> <img id=\\\"PowerSlot_Outpost\\\"/>, and occupies free <Important>Facility Slots</> <img id=\\\"PowerSlot_Empty\\\"/>.\\r\\n<Important>Dismantling</> a <Important>Facility</> will free up any <Important>Facility Slots</> <img id=\\\"PowerSlot_Empty\\\"/> it was occupying.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Refining": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"B5BF1E194032EA6C283572917BEAF62E\", \"Refining and Intakes\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"1C472DD84C0BA665F5B9DE906A59B928\", \"<important>Refining</> allows you to turn one or more types of resources into others.\\r\\n\\r\\nInteracting <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with constructed objects will open the <important>Info Panel</>, in the bottom right of the screen.\\r\\n\\r\\n<img id=\\\"RMB\\\"/> <Cyan>(RMB)</> or <Cyan>(ESC)</> closes this <important>Info Panel</> (and most other types of UI).\\r\\n\\r\\nYou can transfer resources from your inventory to the facility, and back again, by using:\\r\\n<img id=\\\"LMB\\\"/> <Cyan>(LMB)</>  will transfer one item at a time.\\r\\n<img id=\\\"RMB\\\"/> <Cyan>(RMB)</> will transfer the entire stack at once, or as much as will fit.\\r\\n\\r\\nItems in a <Important>Facility\\'s Inventory</>, will be processed automatically using enabled <Important>Refining Recipes</> when the requirements have been met.\\r\\n\\r\\n<Important>Facilities</> may have multiple <Important>Refining Recipes</> available, and you will unlock new <Important>Recipes</> during the course of the game. \\r\\n\\r\\nYou can disable and re-enable <Important>Recipes</> from the scrollable list by clicking them.\\r\\n\\r\\nYou can also <Important>Pin</> <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> a <Important>Recipe</> to the side of the screen with the checkbox in order to keep track of the materials required.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_RestoringFunctionality": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_RequiredItems_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"38B3BF91413C6C4136342BB80FF49636\", \"Certain objects in the world require <Important>specific items</> to be present in their <Important>Inventory</> in order to function.\\r\\n\\r\\nItems required to restore functionality are shown in the <Important>Inventory</> of the object as <Important>greyed-out icons with a border</>.\\r\\n\\r\\nYou will need to <Important>find</> or <Important>craft</> these items and <Important>deposit</> them within the object to <Important>restore functionality</>.\\r\\n\\r\\nIn the case of this <Important>elevator</>, acquiring a <Item>Power Cell</> and adding it to the <Important>Required Items section</> of the elevator will restore power and allow you to <Important>quickly ascend or descend from this location</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Snapping": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"8D9E314C4BA5AFD5842160B78BFAF902\", \"Snapping and Modify Mode\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"3572FE1F4CF3B1E93EDD48AA3A988330\", \"You\\'ll need to build an <Facility>Access Platform</> to get up some newly constructed <Important> Habitats</>.\\r\\n\\r\\nConstructions like <Important>Habitats</> and <Important>Platforms</> will <Important>\\'snap\\'</> to certain locations on others, like doorways, so that you can <Important>easily connect them together</>.\\r\\n\\r\\nIn this way, you can create an interconnected set of <Important>Habitats</>.\\r\\n\\r\\nHover the <Important>\\'ghost\\'</> of a snappable <Important>Construction</> over a snap point on another, like a door, to see this in action.\\r\\n\\r\\n\\r\\nIf you need to move any of your existing <Important>Habitats</> or <Important>Facilities</>, simply select it in <Important>Build Mode</> and press <Important>Move</>.\\r\\n\\r\\nYou can also <Important>Deconstruct</> anything in the same way using the relevant button, and <Important>will always receive back the full construction materials</>.\\r\\n\\r\\nSome constructions with multiple entrances can have their snap location changed with <Cyan>(V)</>.\\r\\nYou can temporarily disable snapping by holding down <Cyan>(CTRL)</> while moving a construction blueprint.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Tectonics": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"3D60F2CA4966B3F2477FE8AF646A54FA\", \"Tectonics\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"A57142AD4347681F099A818908001FA3\", \"The active geological activity of this part of <Important>Aethus</> causes frequent shifts in the underground.\\r\\n\\r\\nResource <Important>Nodes</> may appear, disappear or change type entirely as these tremors occur.\\r\\n\\r\\nIt is recommended you revisit previously explored areas after tremors occur, if you are in need of <Important>resources</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Terraforming": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"FAF2941548378D7365EE55B1132AE48B\", \"Terraforming\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"9587E1FD445421289D0CCFABA22346F2\", \"<Item>Terraforming Charges</> allow you to clear <Important>Outcrops</> from the surface to make way for your <Important>Outpost</>.\\r\\n\\r\\nDifferent <Item>Charges</> will clear different <Important>Outcrops</>.\\r\\nYou can <Cyan>hover the cursor</> over an <Important>Outcrop</> to see a pop-up of what type of <Item>Charge</> is required to clear it.\\r\\n\\r\\n<Item>Charges</> have a radius of clearance so it can be worth trying to clear multiple <Important>Outcrops</> at once.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Themes": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_Themes_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"DC0AB2FF45F36933936CB9BD9C4DF8B6\", \"You\\'ve unlocked a new <Important>Outpost Theme</>!\\r\\n\\r\\nSelect any <Facility>Habitat</> or <Facility>Facility</> using <Important>Build Mode</> then select the <Important>Theme</> category and choose one.\\r\\n\\r\\nApplying an <Important>Outpost Theme</> to a <Facility>Habitat</> will apply it automatically to all contained <Facility>Facilities</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_TimeOfDay": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"409A2FAE4DD9E82FC6F486B559B5F511\", \"Time of Day\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"7F7ED2CE4DAB45EC2E2A4486CE0A2DF6\", \"Time passes slowly on <Important>Aethus</>, but day will eventually turn to night as the sun sets.\\r\\nThe current <Important>Time of Day</> is displayed in the lower-left of the screen.\\r\\n\\r\\nAs darkness descends, it will naturally become <Important>more difficult</> to expand your <Important>Outpost</>.\\r\\n\\r\\nYou can use <Facility>Beds</> to <Important>Sleep</> and pass the time to a desired section of the day by interacting with them.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Upgrades": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "LOCTABLE(\"/Game/TopDown/Blueprints/UI/Tutorials/ST_ShortTutorials.ST_ShortTutorials\", \"ST_Upgrades_Title\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"7E2E16B64EB35F7EB0B4CAA1375FA214\", \"You\\'ve unlocked the ability to purchase <Important>Upgrades</>!\\r\\n\\r\\n<Important>Upgrades</> require <Credits>Credits</> <img id=\\\"Credits\\\"/> to purchase, but grant powerful bonuses to your <Important>Suit</> or Roland\\'s <Important>Laser</>, allowing you to delve further into the underground and mine new resources.\\r\\n\\r\\n<Important>Interact</> <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with the <Facility>Trade Node</> and select the <Important>Upgrade Panel</>.\\r\\n\\r\\nYou have enough <Credits>Credits</> <img id=\\\"Credits\\\"/> to purchase your first <Important>Upgrade</> - <Important>Mining Laser Crystal I</>.\\r\\nThis will upgrade Roland\\'s <Important>Laser</> with more power, allowing you to mine <Important>Kalynite Ore Nodes</>.\\r\\n\\r\\nYou can purchase this <Important>Upgrade</> by simply <Important>holding</> <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> on its icon in the <Important>Upgrade Panel</>.\\r\\n\\r\\n<Important>Upgrades</> may require other <Important>Upgrades</> to be owned before they can be purchased. These are shown as lines in the <Important>Upgrade Panel</>.\\r\\n\\r\\nPurchasing an <Important>Upgrade</> allows you to access the next in the \\'chain\\' - for example, once you purchase its predecessor, you\\'ll be able to purchase <Important>Mining Laser Crystal II</> when you have enough <Credits>Credits</> <img id=\\\"Credits\\\"/>!\\r\\n\\r\\nYou\\'ll want to continue purchasing <Important>Upgrades</> in order to keep progressing deeper into the world.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Vitality": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"004C1211475C14871E68A9BB45B6C0B0\", \"Vitality\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"D5E689484FF33D9BDBA3A7B3C84581F7\", \"<Important>Maeve</> will become hungry and thirsty over time, and gain positive <Important>Status Effects</> depending on the status of her <Important>Vitality</>, comprised of <Energy>Stamina</>, <Nutrition>Nutrition</> and <Thirst>Hydration</>.\\r\\n\\r\\nThese stats are represented at the bottom left of the screen. Hover over the icons to view more information about each stat.\\r\\n\\r\\nYou can find or craft <Important>Consumable</> items which will affect Maeve\\'s <Important>Vitality</> in different ways - experiment with them to find your favourite.\\r\\n\\r\\nYou can view <Important>Status Effects</> affecting Maeve as icons near the bottom of the screen. \\r\\nHover over one to view more info about it.\\r\\n\\r\\n<Important>Maeve will never die or lose health if you neglect her Vitality, unless Negative Vitality Effects are enabled in Settings.</>\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    },
+    "Tutorial_Weight": {
+      "Final_40_7C40B2EF4D8005DA91FDF189EA8FCEAD": "False",
+      "JournalCategory_38_AD1FA3D741D4EA5C1C15D2AB25ABE76D": "NewEnumerator3",
+      "JournalEntryHeader_27_A9E4541846447E9F29431A8A98332AD2": "NSLOCTEXT(\"\", \"1FD49E124F83AE7F390F618BFC5A09EA\", \"Weight and Storage\")",
+      "JournalEntryImage_30_92D6F57A405E5AFD9844EFA9B8F70410": "None",
+      "JournalEntryText_25_10D44AC44144EC85326507BD9E2D1C2A": "NSLOCTEXT(\"\", \"FC63B4DD44DCDFC4E881F4945D8EF74B\", \"Maeve can only carry a certain amount of <Important>Weight</> at one time, made up of all the items currently carried in the <Important>Inventory</>.\\r\\n\\r\\nDifferent items have different <Important>Weights</> - hovering over an item shows its <Important>Tooltip</>, which shows the <Important>individual weight</> of one item, and the amount of that item in the <Important>\\'stack\\'</>.\\r\\n\\r\\nThe top-right of the <Important>Inventory</> panel shows Maeve\\'s current vs maximum carryable <Important>Weight</>.\\r\\n\\r\\nYou won\\'t be able to pick up new items when Maeve has reached her maximum <Important>Weight</> limit.\\r\\n\\r\\nYou will be able to obtain <Important>Upgrades</> to increase Maeve\\'s maximum carrying <Important>Weight</> later.\\r\\n\\r\\n\\r\\nIn the mean-time, you can utilize <Important>Storage Containers</>.\\r\\n\\r\\n<Important>Storage Containers</> allow you to store items in your <Important>Habitats</> for later use.\\r\\n\\r\\nDifferent <Important>Storage Containers</> can hold different amounts of items, based on their total <Important>Weight.</> You can see the maximum held <Important>Weight</> of the <Important>Facility</> in its <Important>Info Panel</>.\\r\\nYou will be able to unlock larger <Important>Storage Containers</> as you progress through the game.\\r\\n\\r\\nYou can deposit items into a <Important>Storage Containers</> by <img id=\\\"LMB\\\"/> <Cyan>Interacting</> with it like any other <Important>Facility</>, then using <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> or <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> on the item\\'s icon in your <Important>Inventory</>, to transfer one item or the whole stack, respectively.\\r\\nThe <Important>Info Panel</> of the destination must be open in order to deposit items.\\r\\n\\r\\nTake items from a <Important>Storage Containers</> in the same way, by using <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> or <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> on the desired item in the <Important>Inventory</> section of the <Important>Info Panel</> of the <Important>Facility</>.\\r\\n\\r\\nOne special aspect of <Important>Storage Containers</> is that items within them will <Important>automatically</> be available for use in <Important>Crafting</>, alongside any items in your own <Important>Inventory</>.\")",
+      "PlayerEntryLogNumber_34_D64D5CC546C67252406AF4BA5082C4B3": ""
+    }
+  },
+  "table": "DT_JournalEntries_Tutorials"
+}

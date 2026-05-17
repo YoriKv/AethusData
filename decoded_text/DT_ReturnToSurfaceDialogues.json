@@ -1,0 +1,271 @@
+{
+  "rows": {
+    "NewRow_10": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Virtus_1.DT_DialogueSet_RTS_Virtus_1'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_LW_Dam_Drainage_Enter_1_Complete\", True),(\"IP_Dialogue_RTS_Virtus_1_Complete\", False),(\"IP_Dialogue_RTS_StanleyRescued_Complete\", False),(\"FakeIPToDisableThisForNow\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_11": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_StanleyConvince_1.DT_DialogueSet_RTS_StanleyConvince_1'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_Keycard_Expedition_Dam_2_Complete\", True),(\"IP_Dialogue_RTS_StanleyConvince_1_Complete\", False),(\"IP_Dialogue_RTS_StanleyRescued_Complete\", False),(\"IP_Dialogue_RTS_StanleySuspicion_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_12": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_StanleyRescued.DT_DialogueSet_RTS_StanleyRescued'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Resource_AI_Core_Stanley_PickedUp\", True),(\"IP_Dialogue_RTS_StanleyRescued_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_13": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_EMPChargePlan.DT_DialogueSet_RTS_EMPChargePlan'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_OC_CraterFacility_Interior_4_Complete\", True),(\"IP_Dialogue_OW_EMPChargePlan_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_14": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_EMPCharge_Detonate.DT_DialogueSet_RTS_EMPCharge_Detonate'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_OC_CraterFacility_ChargePlaced_Complete\", True),(\"IP_Dialogue_OW_EMPCharge_Detonate_Complete\", False),(\"IP_EMPCharge_InPlace\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_15": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_LostWorldDiscovered.DT_DialogueSet_RTS_LostWorldDiscovered'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_LW_Stanley_Intro_Complete\", True),(\"IP_Dialogue_RTS_LostWorldDiscovered_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_16": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Questline_Reminder.DT_DialogueSet_RTS_Trudy_Questline_Reminder'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_OC_Habitat_DiscoverCliffbaseHabitat_Complete\", True),(\"IP_Dialogue_ARCLevel_Advanced_2_Complete\", False),(\"IP_Dialogue_RTS_Trudy_Questline_Reminder_Complete\", False),(\"IP_Dialogue_Placeable_CommsTower_1_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_17": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Questline_1.DT_DialogueSet_RTS_Trudy_Questline_1'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_ARCLevel_Advanced_2_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_1_Given_Complete\", False),(\"IP_AllRadioTowerDialogueDone\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.750000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_18": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Questline_2.DT_DialogueSet_RTS_Trudy_Questline_2'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_ARCLevel_Advanced_2_Complete\", True),(\"IP_Dialogue_OC_Habitat_DiscoverCliffbaseHabitat_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_1_Given_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_2_Given_Complete\", False),(\"IP_Dialogue_ARCQuestline_TurnIn_1_Complete\", True),(\"IP_AllRadioTowerDialogueDone\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.750000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_19": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Questline_3.DT_DialogueSet_RTS_Trudy_Questline_3'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_ARCLevel_Advanced_2_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_1_Given_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_2_Given_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_3_Given_Complete\", False),(\"IP_Dialogue_OC_CraterFacility_Exterior_1_Complete\", True),(\"IP_Dialogue_ARCQuestline_TurnIn_2_Complete\", True),(\"IP_AllRadioTowerDialogueDone\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.750000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_20": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_AntiGravTech_1.DT_DialogueSet_RTS_AntiGravTech_1'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_AntiGravTech_1_Complete\", True),(\"IP_Dialogue_RTS_AntiGravTech_1_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_21": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Questline_4.DT_DialogueSet_RTS_Trudy_Questline_4'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_ARCLevel_Advanced_2_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_4_Given_Complete\", False),(\"IP_Dialogue_ARCQuestline_TurnIn_3_Complete\", True),(\"IP_Dialogue_ARCQuestline_TurnIn_4_Complete\", False),(\"IP_Dialogue_LW_Epsilon_Intro_Complete\", True),(\"IP_AllRadioTowerDialogueDone\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.750000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_22": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_PriceIncrease_1.DT_DialogueSet_RTS_Trudy_PriceIncrease_1'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_RTS_Trudy_PriceIncrease_1_Complete\", False),(\"IP_Dialogue_RTS_StanleyMusings_Complete\", True),(\"IP_Dialogue_RTS_LostWorldDiscovered_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.500000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_23": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_ClaimFuture.DT_DialogueSet_RTS_ClaimFuture'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Placeable_Elevator_SurfaceClimber_Complete\", True),(\"IP_Dialogue_RTS_ClaimFuture_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.500000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_24": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_StanleyConvince_3.DT_DialogueSet_RTS_StanleyConvince_3'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_Keycard_Expedition_Dam_3_Complete\", True),(\"IP_Dialogue_RTS_StanleyConvince_3_Complete\", False),(\"IP_Dialogue_RTS_StanleyRescued_Complete\", False),(\"IP_Dialogue_RTS_StanleySuspicion_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_25": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Epsilon_BunkerReview.DT_DialogueSet_RTS_Epsilon_BunkerReview'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_Keycard_Expedition_Dam_1_Complete\", True),(\"IP_Dialogue_RTS_Epsilon_BunkerReview_Complete\", False),(\"IP_Dialogue_RTS_StanleyRescued_Complete\", False),(\"IP_Dialogue_RTS_StanleySuspicion_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_26": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_HarlowKeycardChat.DT_DialogueSet_RTS_HarlowKeycardChat'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_Keycard_Expedition_Dam_1_Complete\", True),(\"IP_Dialogue_RTS_Epsilon_HarlowKeycardChat_Complete\", False),(\"IP_Dialogue_RTS_StanleyRescued_Complete\", False),(\"IP_Dialogue_RTS_StanleySuspicion_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_27": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_StanleySuspicion.DT_DialogueSet_RTS_StanleySuspicion'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_LW_Stanley_Intro_Complete\", True),(\"IP_Dialogue_RTS_StanleySuspicion_Complete\", False),(\"IP_Dialogue_RTS_LostWorldDiscovered_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_28": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_StanleyMusings.DT_DialogueSet_RTS_StanleyMusings'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_OW_EMPCharge_Detonate_Complete\", True),(\"IP_Dialogue_RTS_StanleyMusings_Complete\", False),(\"IP_Dialogue_OC_CraterFacility_StanleyIntro_Complete\", True))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_29": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Questline_5.DT_DialogueSet_RTS_Trudy_Questline_5'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_ARCLevel_Advanced_3_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_5_Given_Complete\", False),(\"IP_Dialogue_ARCQuestline_TurnIn_4_Complete\", True),(\"IP_Dialogue_ARCQuestline_TurnIn_5_Complete\", False),(\"IP_Dialogue_Resource_Keycard_Expedition_Dam_1_Complete\", True),(\"IP_AllRadioTowerDialogueDone\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.750000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_3": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_AbandonedHabitatAndDrillSite_Explored.DT_DialogueSet_RTS_AbandonedHabitatAndDrillSite_Explored'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_DialogueObject_OC_Excavation_Log_Complete\", True),(\"IP_JournalEntry_OuterCavernsRockfall_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_30": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_BlackMarketInfo.DT_DialogueSet_RTS_BlackMarketInfo'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_BlackMarketInfoLarge_Complete\", True),(\"IP_Dialogue_RTS_BlackMarketInfoLarge_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_31": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Reunited.DT_DialogueSet_RTS_Reunited'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_MR_Rho_PowerOn\", True),(\"IP_Dialogue_RTS_Reunited_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_32": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_BuildKits.DT_DialogueSet_RTS_BuildKits'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_BuildKit_PowerRelay_Complete\", True),(\"IP_Dialogue_RTS_BuildKits_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_33": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_OldFacilityData.DT_DialogueSet_RTS_OldFacilityData'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_RTS_BuildKits_Complete\", True),(\"IP_Dialogue_RTS_OldFacilityData_Complete\", False),(\"IP_Dialogue_MR_Tau_Exterior_Approach_2_Complete\", True),(\"IP_Dialogue_Resource_BlackMarketInfo_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_35": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Questline_6.DT_DialogueSet_RTS_Trudy_Questline_6'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_ARCLevel_Advanced_3_Complete\", True),(\"IP_Dialogue_RTS_Trudy_Questline_6_Given_Complete\", False),(\"IP_Dialogue_ARCQuestline_TurnIn_5_Complete\", True),(\"IP_Dialogue_ARCQuestline_TurnIn_6_Complete\", False),(\"IP_AmbientDialogueTriggered_Lambda\", True),(\"IP_Dialogue_Resource_AntiGravTech_1_Complete\", True),(\"IP_AllRadioTowerDialogueDone\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.750000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_36": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_DiscussReactivateStanley.DT_DialogueSet_RTS_DiscussReactivateStanley'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_CanDoStanleyReactivateRTSDialogue\", True),(\"IP_Dialogue_RTS_DiscussReactivateStanley_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_37": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_CrystalDiscussion.DT_DialogueSet_RTS_CrystalDiscussion'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_MR_AetheriumMine_Crystal_Recovery_1_Complete\", True),(\"IP_Dialogue_RTS_CrystalDiscussion_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_38": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_KryptosDiscussion.DT_DialogueSet_RTS_KryptosDiscussion'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_StubMemory_3_Gossip_Complete\", True),(\"IP_Dialogue_RTS_KryptosDiscussion_Complete\", False),(\"IP_Dialogue_MR_Kryptos_Exit_1_Started\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_39": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Trudy_Probes.DT_DialogueSet_RTS_Trudy_Probes'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_AllRadioTowerDialogueDone\", True),(\"IP_Dialogue_RTS_Trudy_Probes_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.600000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_4": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/NoRequirements/DT_DialogueSet_RTS_Family.DT_DialogueSet_RTS_Family'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_RTS_Family_1_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_40": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_StubMemory_4.DT_DialogueSet_RTS_StubMemory_4'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_MR_Kryptos_Exit_1_Started\", True),(\"IP_Dialogue_RTS_StubMemory_4_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_41": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_PlanRevealed.DT_DialogueSet_RTS_PlanRevealed'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_MR_Sigma_Pad_Drone_FuelAdded_Complete\", True),(\"IP_Dialogue_RTS_PlanRevealed_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_5": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_Rockfall_Found.DT_DialogueSet_RTS_Rockfall_Found'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_OC_Habitat_Interior_Complete\", True),(\"IP_DialogueObject_OC_Excavation_Log_Complete\", True),(\"IP_JournalEntry_OuterCavernsRockfall_Complete\", True),(\"IP_Dialogue_OC_RTS_RockfallFound_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_6": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/NoRequirements/DT_DialogueSet_RTS_Motivation.DT_DialogueSet_RTS_Motivation'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_RTS_Motivation_1_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_7": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_CraterFacilitySeen.DT_DialogueSet_RTS_CraterFacilitySeen'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_OC_CraterFacility_Exterior_1_Complete\", True),(\"IP_Dialogue_OC_RTS_CraterFacilitySeen_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "True"
+    },
+    "NewRow_8": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "True",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/Requirements/DT_DialogueSet_RTS_RTG_1.DT_DialogueSet_RTS_RTG_1'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_Resource_RTG_1_Complete\", True),(\"IP_Dialogue_OW_RTS_RTG_1_Complete\", False),(\"IP_Dialogue_Placeable_Habitat_Small_2_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "1.000000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    },
+    "NewRow_9": {
+      "CriticalDialogue_14_39D79248423493440C1133985194D11E": "False",
+      "DataTable_5_93DB34214F5B82EF295203A0D1FF649B": "/Script/Engine.DataTable'/Game/TopDown/Blueprints/Dialogue/DialogueTables/ReturnToSurface/NoRequirements/DT_DialogueSet_RTS_Plans.DT_DialogueSet_RTS_Plans'",
+      "InfoportionRequirements_12_53DE1630434E19C19FB241ACDDDF6D6C": "((\"IP_Dialogue_RTS_Plans_1_Complete\", False))",
+      "OccurChance_19_25BEC11E4EC89E188A1E5ABE9ED1232F": "0.500000",
+      "PriorityDialogue_16_7760F742466FDDA525CEC7BF93D01CFA": "False"
+    }
+  },
+  "table": "DT_ReturnToSurfaceDialogues"
+}

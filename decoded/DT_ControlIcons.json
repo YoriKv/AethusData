@@ -1,0 +1,1603 @@
+{
+  "rows": {
+    "#": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "11ce19000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "A": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871769131520
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "dc0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "A_AccentGrave": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "2f0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Add": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013835648
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "540d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Ampersand": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "160e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "AnyKey": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865389696
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "200c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Apostrophe": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747102592
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "070e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Asterix": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871769169152
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "110e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "B": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483143552
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "de0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "BackSpace": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030696448
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "790c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Backslash": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934926464
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f10d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "C": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016043136
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e00c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "C_Cedille": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "460e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "CapsLock": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030689920
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "8a0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Caret": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "1c0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Colon": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483148544
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "2b0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Comma": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871321465088
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "c70d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "D": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631012608
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e20c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Decimal": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747099904
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "5c0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Delete": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943974656
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "b70c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Divide": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396989824
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "610d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Dollar": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "200e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871321465472
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "b00c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "E": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934943744
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e40c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "E_AccentAigu": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "3f0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "E_AccentGrave": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "370e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Eight": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865388160
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "d50c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "End": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747065728
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "a10c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Enter": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870623970048
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "820c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Equals": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240107648
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "c30d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Escape": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030696064
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "8f0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Exclamation": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747111040
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "240e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865371264
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e60c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F1": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871030691072
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "650d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F10": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871769163776
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "770d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F11": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870662726656
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "7a0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F12": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864306560
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "7d0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F2": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864349568
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "670d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F3": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934925696
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "690d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F4": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871321489280
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "6b0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F5": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871005282560
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "6d0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F6": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483098240
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "6f0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F7": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549162112
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "710d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F8": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934926080
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "730d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "F9": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871321465856
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "750d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Five": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320250880
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "cb0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Four": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655453440
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "c80c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "G": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022739328
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e80c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_DPad_Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "4e0f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_DPad_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "620f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_DPad_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "580f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_DPad_Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "450f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_FaceButton_Bottom": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e40e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_FaceButton_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "ff0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_FaceButton_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f20e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_FaceButton_Top": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "0c0f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_Left2D": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "510e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftShoulder": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "180f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftStick_Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "770f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftStick_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "900f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftStick_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "830f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftStick_Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "6c0f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftThumbstick": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "9c0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftTrigger": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "2f0f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftTriggerAxis": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "820e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftX": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "590e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_LeftY": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "610e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_Right2D": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "690e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightShoulder": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "230f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightStick_Down": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "a80f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightStick_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "c20f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightStick_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "b50f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightStick_Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "9c0f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightThumbstick": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "a80e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightTrigger": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "3a0f00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightTriggerAxis": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "8f0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightX": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "720e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_RightY": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "7a0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_Special_Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "b50e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Gamepad_Special_Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549146752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "d80e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "H": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871321434368
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "ea0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Home": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747102208
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "a40c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Hyphen": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865376256
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "d10d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "I": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067636480
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "ec0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Insert": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871769169536
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "b30c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "J": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631032576
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "ee0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "K": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871321473920
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f00c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "L": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871005294080
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f20c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Left": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870662734720
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "a70c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "LeftAlt": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655463040
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "a50d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "LeftBracket": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320280448
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e10d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "LeftCommand": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934914560
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "af0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "LeftControl": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870623965056
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "970d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "LeftMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022743168
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "4a0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "LeftParantheses": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "e80d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "LeftShift": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067620736
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "8b0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "M": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871514892032
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f40c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "MiddleMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864302720
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "5c0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "MouseScrollDown": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631037568
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "390c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "MouseScrollUp": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549142528
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "310c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "MouseWheelAxis": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013839104
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "420c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Multiply": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871769169152
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "4f0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "N": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869864357632
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f60c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Nine": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871268515456
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "d90c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumLock": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483139712
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "800d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadEight": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865388160
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "420d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadFive": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320250880
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "2f0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadFour": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655453440
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "290d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadNine": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871268515456
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "490d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadOne": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483127424
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "160d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadSeven": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016056960
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "3b0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadSix": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022739712
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "350d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadThree": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396933760
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "220d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadTwo": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240118400
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "1c0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "NumPadZero": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747098752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "100d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "O": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320275456
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f80c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "One": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483127424
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "be0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "P": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483097856
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "fa0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "PageDown": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871549157120
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "9c0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "PageUp": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067617280
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "980c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Pause": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483097856
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "860c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Period": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747099904
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "d50d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Q": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870662782336
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "fc0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Quote": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870013842944
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "0d0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "R": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870631069824
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "fe0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Right": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240117632
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "ac0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "RightAlt": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655463040
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "aa0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "RightBracket": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483142400
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "f70d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "RightCommand": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934914560
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "b60d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "RightControl": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870623965056
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "9e0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "RightMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022708992
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "530c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "RightParantheses": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "fe0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "RightShift": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067620736
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "910d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "S": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483126272
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "000d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "ScrollLock": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871655463040
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "850d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Section": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "4c0e00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Semicolon": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865383168
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "bd0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Seven": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016056960
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "d10c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Six": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870022739712
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "ce0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Slash": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396989824
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "d90d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "SpaceBar": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870067600000
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "930c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Subtract": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865376256
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "570d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "T": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943952384
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "020d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Tab": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320275840
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "7f0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Three": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871396933760
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "c40c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "ThumbMouseButton": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "660c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "ThumbMouseButton2": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "6f0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Tilde": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869943965824
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "dd0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Two": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871240118400
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "c10c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "U": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869934940672
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "040d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Underscore": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 0
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "cb0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Up": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016031232
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "aa0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "V": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2870483097088
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "060d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "W": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865355136
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "080d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "X": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871320294656
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "0a0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Y": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2871016054656
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "0c0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Z": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869865391232
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "0e0d00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    },
+    "Zero": {
+      "Icon_5_DE0F2350469CB25803CFE38494EA35B8": {
+        "_type": "ObjectProperty",
+        "ptr": 2869747098752
+      },
+      "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076": {
+        "_raw_hex": "bb0c00000000000000000000000000000000000000000000",
+        "_type": "StructProperty"
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "InputKey_8_CCA14DF74EC6815BEB0B198D955E7076",
+      "off": 0,
+      "size": 24,
+      "type": "StructProperty"
+    },
+    {
+      "dim": 1,
+      "name": "Icon_5_DE0F2350469CB25803CFE38494EA35B8",
+      "off": 24,
+      "size": 8,
+      "type": "ObjectProperty"
+    }
+  ],
+  "size": 32,
+  "struct": "S_ControlIcons",
+  "table": "DT_ControlIcons"
+}

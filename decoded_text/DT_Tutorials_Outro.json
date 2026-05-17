@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "DemoEnd_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "DemoEnd_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator0",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Primary_OC_Intro_RockfallAndHabitat\", NewEnumerator2),(\"Task_Primary_OC_Intro_Rockfall\", NewEnumerator0))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"8BEAC53648B4ADED48C45F91D545ED26\", \"Success!\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"38E5091D413E78E1FBD41F8BD5A87A52\", \"<Important>Congratulations, you\\'ve completed the start of the game!</>\\r\\n\\r\\nIn the full game, you will be able to explore the vast caverns beneath <Important>Meridian</> across <Important>several different biomes</>.\\r\\n\\r\\nFor now, feel free to continue to build your <Important>Outpost</> on the <Important>Surface</> and explore the pre-rockfall area of the <Important>Outer Caverns</>.\\r\\n\\r\\nPlease consider <Important>wishlisting</> on <Important>Steam</> if you had fun, and I\\'d love to hear your thoughts on the game by joining the <Important>Discord</>.\\r\\n\\r\\nThere are links for both these things on the <Important>Pause Menu</> <Cyan>(ESC)</>.\\r\\n\\r\\n<Important>Thanks so much for playing!</>\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Outro"
+}

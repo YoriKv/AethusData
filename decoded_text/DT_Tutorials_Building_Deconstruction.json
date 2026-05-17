@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Terraforming_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Terraforming_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Terraforming",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "(\"Habitat_Small_4\",\"Corridor_1\")",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"A9FC0D844C667A0289E7FB917D73C58D\", \"Terraforming\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"218321004117447E9C75BC8882A9B1FA\", \"If you\\'re going to expand your <Important>Outpost</>, you\\'ll need to start clearing some free space.\\r\\n\\r\\nWhen in <Important>Build Mode</>, you can also enter <Important>Terraform Mode</> using the <Important>Terraform</> button.\\r\\n<Important>Terraform Mode</> is only available on the <Important>Surface</>, and will allow you to clear natural items like rocks and trees from the world to make way for your <Important>Outpost</>.\\r\\n\\r\\nWhile in <Important>Terraform Mode</>:\\r\\nUsing <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> on an object in the world will <Important>select</> and highlight it for removal. \\r\\nUsing <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> again on the same object will <Important>remove</> it.\\r\\nYou can deselect an object with <img id=\\\"RMB\\\"/> <Cyan>(RMB)</>.\\r\\n\\r\\n<Important>Any destructible objects connected to the object you\\'d like to clear must first be removed before terraforming can take place</>.\\r\\n\\r\\nA new, larger <Important>Habitat</> has been unlocked for construction. You may need to clear some space to build it. You can use the new <Facility>Connector</> to attach it to your existing <Important>Habitat</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Building_Deconstruction"
+}

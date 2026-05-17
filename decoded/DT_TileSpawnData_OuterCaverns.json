@@ -1,0 +1,284 @@
+{
+  "rows": {
+    "OC_Dirt_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.6,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015504,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_Dirt_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.6,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470014464,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_Dirt_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.6,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470014480,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_HighTier_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871467823680,
+        "max": 4,
+        "num": 4
+      }
+    },
+    "OC_HighTier_M_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871467823616,
+        "max": 4,
+        "num": 4
+      }
+    },
+    "OC_HighTier_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871467823808,
+        "max": 4,
+        "num": 4
+      }
+    },
+    "OC_HighTier_S_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871467823744,
+        "max": 4,
+        "num": 4
+      }
+    },
+    "OC_HighTier_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871467824320,
+        "max": 4,
+        "num": 4
+      }
+    },
+    "OC_HighTier_XS_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871467823872,
+        "max": 4,
+        "num": 4
+      }
+    },
+    "OC_Kaloxite_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.45,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015440,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_Kaloxite_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.55,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015456,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_LowTier_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.4,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871837385472,
+        "max": 2,
+        "num": 2
+      }
+    },
+    "OC_LowTier_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.5,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871837385536,
+        "max": 2,
+        "num": 2
+      }
+    },
+    "OC_LowTier_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.5,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871837385600,
+        "max": 2,
+        "num": 2
+      }
+    },
+    "OC_Meteor_L": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015392,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_Meteor_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.35,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015408,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_Meteor_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.4,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015424,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_Meteor_XL": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.15,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015376,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "OC_MidTier_M": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871465727728,
+        "max": 3,
+        "num": 3
+      }
+    },
+    "OC_MidTier_M_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871465727680,
+        "max": 3,
+        "num": 3
+      }
+    },
+    "OC_MidTier_S": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871465727824,
+        "max": 3,
+        "num": 3
+      }
+    },
+    "OC_MidTier_S_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.3,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871465727776,
+        "max": 3,
+        "num": 3
+      }
+    },
+    "OC_MidTier_XS": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871465726096,
+        "max": 3,
+        "num": 3
+      }
+    },
+    "OC_MidTier_XS_Rock": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.25,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871465727872,
+        "max": 3,
+        "num": 3
+      }
+    },
+    "Stone_Spike_OC_1": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.8,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015488,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "Stone_Spike_OC_2": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 0.8,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015472,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "Tree_Overworld_1": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 1.0,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015360,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "Tree_Overworld_2": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 1.0,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015344,
+        "max": 1,
+        "num": 1
+      }
+    },
+    "Tree_Overworld_3": {
+      "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5": 1.0,
+      "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871470015328,
+        "max": 1,
+        "num": 1
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "TileSpawnPossibilities_12_3D1C9D6B4B8E937F8DA44EAB3C94B47B",
+      "off": 0,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "OverallSpawnChance_10_8A835ECE4A353ED00B08948C84F6E5B5",
+      "off": 16,
+      "size": 8,
+      "type": "DoubleProperty"
+    }
+  ],
+  "size": 24,
+  "struct": "S_TileSpawnData",
+  "table": "DT_TileSpawnData_OuterCaverns"
+}

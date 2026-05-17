@@ -1,0 +1,1327 @@
+{
+  "rows": {
+    "Accent_Black": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 5000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610465,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020992,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Blue": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 1500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610472,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 1,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020048,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Bronze": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 7500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610479,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 5,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020976,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Chrome": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 7500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610487,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 5,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020960,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Green_Dark": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610495,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754019968,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Grey_Casma": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610505,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020016,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Orange": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610515,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754019984,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Purple": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610523,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020000,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Ruby": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 10000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610531,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 5,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020944,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_White": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 5000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610538,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754021008,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Accent_Yellow": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610545,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020032,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Light_Blue": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610553,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020768,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Light_Green": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610559,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020784,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Light_Orange": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610566,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020800,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Light_Purple": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610573,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020752,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Light_Red": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610580,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020816,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Black": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 5000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610586,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 4,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020192,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Blue": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610592,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 1,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020304,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Bronze": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 10000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610598,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 5,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020176,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Chrome": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 10000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610605,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 5,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020160,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Green_Dark": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610612,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020224,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Grey_Casma": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610621,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020272,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Orange": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610630,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020240,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Purple": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610637,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020256,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Ruby": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 15000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610644,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 5,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020144,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_White": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 5000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610650,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 4,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020208,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Suit_Yellow": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 2500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610656,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 2,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020288,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Undersuit_Grey": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 1000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610663,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 1,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020096,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Undersuit_Grey_Dark": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 1000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610671,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 1,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020128,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Undersuit_Grey_Light": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 1000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610682,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 1,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020080,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Undersuit_Grey_Medium": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 1000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610693,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 1,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020112,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Undersuit_White": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 1000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610705,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 1,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020064,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Visor_Black": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 5000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610714,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 4,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020864,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Visor_Blue": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610721,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 3,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020912,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Visor_Green": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610727,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 3,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020896,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Visor_Mirrored": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 7500,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610734,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 5,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020832,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Visor_Purple": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610742,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 3,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020880,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Visor_Red": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 3000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610749,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 3,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020928,
+        "max": 16,
+        "num": 1
+      }
+    },
+    "Visor_White": {
+      "BlackMarketItem_32_430755E9447021F1533C909EE280D29A": false,
+      "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "CreditCost_18_8A1DCC914407563BF67725BF8374FE60": 5000,
+      "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3": {
+        "_type": "FName",
+        "comp_idx": 1610755,
+        "number": 0
+      },
+      "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB": {
+        "_type": "FName",
+        "comp_idx": 0,
+        "number": 0
+      },
+      "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3": 2,
+      "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705": 4,
+      "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0": {
+        "_raw_hex": "000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffff00000000ffffffff0000000000000000000000000100000000000000",
+        "_type": "MapProperty"
+      },
+      "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8": 4,
+      "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26": {
+        "_type": "ArrayProperty",
+        "data_ptr": 2871754020848,
+        "max": 16,
+        "num": 1
+      }
+    }
+  },
+  "schema": [
+    {
+      "dim": 1,
+      "name": "CreditCost_18_8A1DCC914407563BF67725BF8374FE60",
+      "off": 0,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "ValidTradingStations_6_5CD6C79E4C89C021A0EAE48ACBD4EF26",
+      "off": 8,
+      "size": 16,
+      "type": "ArrayProperty"
+    },
+    {
+      "dim": 1,
+      "name": "TradingCategoryEnum_11_E1F99B9C4D23B89E049ABE9342B5ECD8",
+      "off": 24,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "PlaceableUnlockName_21_40C165754F4DDAB51441139B282F24DB",
+      "off": 28,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RarityIfPlaceableUnlock_27_F2489AFE43E9633D05796EA65B17B6E3",
+      "off": 36,
+      "size": 1,
+      "type": "ByteProperty"
+    },
+    {
+      "dim": 1,
+      "name": "CraftingRecipeUnlockName_23_E59E4B114F85521F24B91DAB0FBB7814",
+      "off": 40,
+      "size": 8,
+      "type": "NameProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RequiredARCLevel_30_BCD7DB1F4A83277D25A548BF5809A705",
+      "off": 48,
+      "size": 4,
+      "type": "IntProperty"
+    },
+    {
+      "dim": 1,
+      "name": "BlackMarketItem_32_430755E9447021F1533C909EE280D29A",
+      "off": 52,
+      "size": 1,
+      "type": "BoolProperty"
+    },
+    {
+      "dim": 1,
+      "name": "RequiredIPStateToSee_37_72B86ADE4715C9137DAE1BB7E066EDD0",
+      "off": 56,
+      "size": 80,
+      "type": "MapProperty"
+    },
+    {
+      "dim": 1,
+      "name": "CustomizationName_40_7DC685D641A4F9474B8329BD2B5BD4C3",
+      "off": 136,
+      "size": 8,
+      "type": "NameProperty"
+    }
+  ],
+  "size": 144,
+  "struct": "S_TradingRecipes",
+  "table": "DT_TradingRecipes_Customization"
+}

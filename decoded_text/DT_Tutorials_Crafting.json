@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Crafting_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Crafting_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Crafting",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"F08348F74BE41BA58C2EE9AF981C3564\", \"Crafting\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"33342BCB452F402CD0E47D86FFA3DAA5\", \"The <Facility>Crafting Bench</> allows you to manufacture useful items, including the <Item>Mining Explosives</> you need to progress.\\r\\n\\r\\nInteract with the <Facility>Crafting Bench</> and click the <Important>Crafting Panel</> button in the <Important>Info Panel</> to begin.\\r\\n\\r\\n<Important>Plans</> for items available for crafting are shown, along with their required materials.\\r\\nYou can <Important>Pin</> a plan to the left side of the screen with <img id=\\\"RMB\\\"/> <Cyan>(RMB)</> in order to keep track of the required materials.\\r\\n\\r\\nClick the <Important>Plan</> you\\'d like to craft to start the process. Click multiple times to add items to the <Important>Queue</>.\\r\\n\\r\\nItems you have available for use as crafting materials are shown in the right-hand inventory panel.\\r\\nThis list includes all items in your own inventory, as well as <Important>anything in storage facilities anywhere within your Outpost</>.\\r\\n\\r\\nItems will be automatically taken from any available inventory, starting with your own, when a <Important>Plan</> is added to the <Important>Queue</>.\\r\\n\\r\\nItems created via <Important>Crafting</> will be placed in the <Important>Inventory</> of the <Facility>Crafting Bench</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Crafting"
+}

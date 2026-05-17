@@ -1,0 +1,245 @@
+{
+  "rows": {
+    "DirtChunksToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "2",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "DirtChunksToBuildingMaterial",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Dirt_Chunk\", 10))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_1\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"27F778A5403BA97BFAF212814B49AB34\", \"Undefined\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator1)"
+    },
+    "DirtToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "2",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "DirtToBuildingMaterial",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Dirt\", 5))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_1\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"D75F926848DC29625A2B5CA34C9780B8\", \"Regolith -> Building Material\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator1)"
+    },
+    "GlassForging_1": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "8",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "GlassForging_1",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Reagent_3\", 6),(\"Reagent_4\", 12),(\"Reagent_2\", 1))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Glass_1\", 2))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"35B662344829BFAB792D5389AB1BCA86\", \"Hardened Glassmaking\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator6)"
+    },
+    "HardstoneToMagmaSafeBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator14)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "5",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "HardstoneToMagmaSafeBuildingMaterial",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"BuildingMaterial_2\", 2),(\"Stone_Hard\", 10),(\"Ore_7\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_3\", 2))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"A2268F85476CB12D34797AA850A8E529\", \"Lavastone Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator6)"
+    },
+    "HardstoneToReinforcedBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator14)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "4",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "HardstoneToReinforcedBuildingMaterial",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Stone_Hard\", 3),(\"Reagent_7\", 1))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_2\", 3))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"E80BFD594C4E282E3C45EDB9F3F7826A\", \"Lavastone Dilution\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator2)"
+    },
+    "HardstoneToReinforcedBuildingMaterial_Basic": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "4",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "HardstoneToReinforcedBuildingMaterial_Basic",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Stone_Hard\", 4),(\"Reagent_8\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_2\", 3))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"4C36BE1E44764F928CF2BFBCBC99E3E0\", \"Lavastone Crushing\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator2)"
+    },
+    "Ore1ToOre1Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator7)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "8",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore1ToOre1Bar",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_1\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_1_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"27F778A5403BA97BFAF212814B49AB34\", \"Undefined\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator3)"
+    },
+    "Ore1ToReagent3": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator7)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "5",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore1ToReagent3",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_1\", 1))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Reagent_3\", 2))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"F0EC25464F63FB58431439AD06A8F10A\", \"Kalynite Sweating\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator6)"
+    },
+    "Ore2ToOre1Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator10)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "8",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore2ToOre1Bar",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_2\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_1_Bar\", 1),(\"Reagent_2\", 3))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"2F236F22493CDF7ED5B9FDBFBB36C4F6\", \"Kaloxite Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator3)"
+    },
+    "Ore3ToOre3Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator13)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "6",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore3ToOre3Bar",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_3\", 3))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_3_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"7D0CCEF348AE42F654548BBED6A4FE5E\", \"Tangrite Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator4)"
+    },
+    "Ore3ToOre3BarWithOre2": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator13)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "8",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore3ToOre3BarWithOre2",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_3\", 2),(\"Ore_2\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_3_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"BE376D0C4A42E569EE1C64B2F774CC71\", \"Tangrite-Kaloxite Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator4)"
+    },
+    "Ore3ToOre3BarWithReagent": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator13)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "5",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore3ToOre3BarWithReagent",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_3\", 1),(\"Reagent_2\", 1))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_3_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"6E321AD342B044ED949641BF4AE97A78\", \"Tangrite-Oxite Flux\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator4)"
+    },
+    "Ore4ToOre4Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator9)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "9",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore4ToOre4Bar",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_4\", 4),(\"Ore_1\", 3),(\"Reagent_2\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_4_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"BD47885544476AE8A8F4FDBF3DDE7331\", \"Meteorite Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator4)"
+    },
+    "Ore5ToOre5Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator8)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "8",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore5ToOre5Bar",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_5\", 3))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_5_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"C941C4624A9539B00899F2AF6E67C449\", \"Gold Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator4)"
+    },
+    "Ore6ToOre6Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator11,NewEnumerator12)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "10",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore6ToOre6Bar",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_6\", 10))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_6_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"510404C04D47BEA4A94B95A44B73108A\", \"Jaspite Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator4)"
+    },
+    "Ore7ToOre7Bar": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "8",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Ore7ToOre7Bar",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Ore_7\", 5))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_7_Bar\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"CB40AD2F4375CDEE5401E29D3EE5F036\", \"Depthane Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator4)"
+    },
+    "Reagent5Crushing": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "4",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "Reagent5Crushing",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Reagent_5\", 10))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Stone\", 2),(\"Ore_4\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"9AAA49D74AEACB51C9026AB80B3740B8\", \"Meteor Glass Crushing\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator2)"
+    },
+    "RedGemToReagentRedGem": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "4",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "RedGemToReagentRedGem",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"RedGem\", 1))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Reagent_RedGem\", 4))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"08309D824022E142917640A8E0442656\", \"Dust Ruby Crushing\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator2)"
+    },
+    "ScrapToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "2",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "ScrapToBuildingMaterial",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Scrap_S\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_1\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"27F778A5403BA97BFAF212814B49AB34\", \"Undefined\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator3)"
+    },
+    "ScrapToBuildingMaterialMakeshift": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "3",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "ScrapToBuildingMaterialMakeshift",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Scrap_S\", 2),(\"Biomass_1\", 1))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_1\", 1))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"27F778A5403BA97BFAF212814B49AB34\", \"Undefined\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator5)"
+    },
+    "StoneChunksToDirtChunks": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "5",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "StoneChunksToDirtChunks",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Stone_Chunk\", 10))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_1\", 1),(\"Reagent_1\", 1),(\"Dirt\", 2))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"27F778A5403BA97BFAF212814B49AB34\", \"Undefined\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator2)"
+    },
+    "StoneToOre1": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "True",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator7)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "5",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "StoneToOre1",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Stone\", 10))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"Ore_1\", 2),(\"Reagent_1\", 2),(\"Dirt\", 15))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"27F778A5403BA97BFAF212814B49AB34\", \"Undefined\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator2)"
+    },
+    "SwampstoneToBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "(NewEnumerator13)",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "5",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "SwampstoneToBuildingMaterial",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Stone_Swamp\", 5),(\"Mycelium_3\", 3))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_2\", 2))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"DB8517F9493A42241D695591031D32DC\", \"Deepstone Refining\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator6)"
+    },
+    "WormwoodToReinforcedBuildingMaterial": {
+      "AlwaysUnlocked_45_E4A09D384E7CB4435D4EA9BD1A553312": "False",
+      "BonusResources_55_CB1DBB6A4874C27BB7931AAA03F87E00": "",
+      "Duration_19_38986B654560205708B78F8FE0E67E07": "2",
+      "ID_48_DD98783F4AF3288DE1DC90AC9167F372": "WormwoodToReinforcedBuildingMaterial",
+      "InputResources_33_97AA06794DFF0DD4573F9BAB0EA040E4": "((\"Warpwood\", 1),(\"Lifeshroom_1\", 1),(\"BuildingMaterial_1\", 2))",
+      "OutputResources_37_EF67283F49DF438890B762B10132016D": "((\"BuildingMaterial_2\", 3))",
+      "ReadableName_51_D39488FD455E856F6F662696A1EACF7C": "NSLOCTEXT(\"\", \"E2B7E958425B7CE5310EC0921138A244\", \"Wormwood Purification\")",
+      "ValidRefiningStations_41_D035401B42BAEBD47408E99415FA16A7": "(NewEnumerator6)"
+    }
+  },
+  "table": "DT_RefiningRecipes"
+}

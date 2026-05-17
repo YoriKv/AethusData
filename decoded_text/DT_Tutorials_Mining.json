@@ -1,0 +1,19 @@
+{
+  "rows": {
+    "Mining_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Mining_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Mining",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"E55798C64D333EA9D75328A48DE37653\", \"Mining Laser\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"63B9F19849CB6EE63A92C88C1EC5FBF7\", \"Many objects are susceptible to Roland\\'s <Important>Mining Laser</>, like the metal scrap lying around here.\\r\\n\\r\\nInteracting <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> with such an object begins to channel <Important>Energy</> from the laser into it.\\r\\n\\r\\nWhen the <Important>Energy</> reaches a critical level, it discharges in an explosion and blows apart the object.\\r\\n\\r\\nSome objects dissipate more <Important>Energy</> than others, and so multiple laser blasts may be required.\\r\\n\\r\\nMake sure to channel the <Important>Energy</> into the same location to continue to build it up!\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "/Script/MediaAssets.FileMediaSource'/Game/Movies/splashvideo.splashvideo'"
+    }
+  },
+  "table": "DT_Tutorials_Mining"
+}

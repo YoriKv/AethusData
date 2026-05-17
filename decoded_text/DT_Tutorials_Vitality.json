@@ -1,0 +1,33 @@
+{
+  "rows": {
+    "Vitality_1": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Vitality_1",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "((\"IP_Tutorial_Vitality_Complete\", True))",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "Tutorial_Vitality",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "Vitality_2",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "None",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "((\"IP_Tutorial_Vitality_Complete\", False))",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "((\"Task_Secondary_OM_VitalityTutorial_1\", NewEnumerator1))",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"AD25CF3744139B23901072B66F55A5BC\", \"Vitality\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"C083DBE945BEE5E020E1BFA0659E7C3B\", \"Maeve will become hungry and thirsty over time, and gain positive or negative <Important>Status Effects</> depending on the status of her <Important>Vitality</>, comprised of <Energy>Energy</>, <Nutrition>Nutrition</> and <Thirst>Thirst</>.\\r\\n\\r\\nThese stats are represented at the bottom left of the screen. Hover over the icons to view more information about each stat.\\r\\n\\r\\nYou can find or craft <Important>Consumable</> items which will affect Maeve\\'s <Important>Vitality</> in different ways - experiment with them to find your favourite.\\r\\n\\r\\nYou can view <Important>Status Effects</> affecting Maeve as icons near the bottom of the screen. \\r\\nHover over one to view more info about it.\\r\\n\\r\\n\\r\\nPress <Important>Next</> to learn how to interact with the world.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    },
+    "Vitality_2": {
+      "ID_7_36191F704728C859262071AAE60BE053": "Vitality_2",
+      "InfoportionsToSet_38_772CB5A8460801F7DCE929AF3E0B83D4": "()",
+      "JournalEntryToAdd_47_1E3AF2794B66C4E46BDCEA9496AB126F": "None",
+      "JournalEntryType_46_7853F6BF436C314028A8B8AC3AE6B3CF": "NewEnumerator3",
+      "NextID_4_398AFFF64389DFF30E0EA48E18EBA378": "None",
+      "PlaceableUnlocks_22_EB1E696D4069C902B991FB91A8E2BDDE": "",
+      "PrevID_6_8CB54DCE4EABBDECC2611AA33A79865D": "Vitality_1",
+      "TaskStateSetInfoportionRequirements_36_CF5175874F2AF1E40F846B8620207834": "()",
+      "TaskStatesToSet_31_D3421220433F7A9F68086F8B3E50700B": "()",
+      "TitleText_14_8A8CD6D041CE8D73C251AB8F762F0D2B": "NSLOCTEXT(\"\", \"AE638C6047831B007A117DBAB8811894\", \"Interaction\")",
+      "TutorialText_11_F5F98E9C47DA80DC659CA9985D7C6A24": "NSLOCTEXT(\"\", \"66066A75439744414992A88ED40EDB48\", \"Many objects in the world, like the nearby cacti, can be interacted with.\\r\\n\\r\\nYou can activate the Scan ability of Maeve\\'s suit with <Cyan>(X)</> to highlight interactable objects and resources within the environment.\\r\\n\\r\\nUse the mouse to move the cursor over these objects and use <img id=\\\"LMB\\\"/> <Cyan>(LMB)</> to interact.\\r\\n\\r\\n\\r\\nInteract with the nearby cacti to try and find some <Item>Cactus Fruit</> to eat in order to improve Maeve\\'s <Important>Vitality</>.\")",
+      "TutorialVideo_41_318F434A4FA048684E9A838AAAEBD2AD": "None"
+    }
+  },
+  "table": "DT_Tutorials_Vitality"
+}
